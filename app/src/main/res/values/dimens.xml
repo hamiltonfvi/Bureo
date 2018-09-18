@@ -29,4 +29,6 @@
     <dimen name="card_height">240dp</dimen>
 
     <dimen name="card_image_height">140dp</dimen>
+
+    <dimen name="logo_size">144dp</dimen>
 </resources>
