@@ -1,17 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:opacity="opaque">
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:opacity="opaque">
     <!-- The background color, preferably the same as your normal theme -->
-    <item android:drawable="@android:color/white"/>
+    <item android:drawable="@android:color/white" />
 
     <!-- Your product logo - 144dp color version of your app icon -->
-    <item
-        android:drawable="@drawable/tampabay" />
+    <item android:drawable="@drawable/travel"
+        android:width="@dimen/dimen_16dp"
+        android:height="@dimen/dimen_16dp"
+        android:gravity="top|right"/>
 
     <item>
 
         <bitmap
-            android:src="@drawable/tampabay"
-            android:gravity="center"/>
+            android:src="@drawable/tampa" />
 
     </item>
 

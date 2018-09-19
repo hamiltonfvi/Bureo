@@ -1,6 +1,13 @@
 <resources>
     <string name="app_name">Bureo</string>
-    <string name="sub_items">Sub Items</string>
+
+    <string name="home_description">Text Text Text Text Text Text Text Text Text Text Text Text
+    Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text
+    Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text Text </string>
+
+    <string name="about_city">About the city</string>
+
+    <string name="explore">Explore</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

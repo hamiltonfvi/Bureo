@@ -10,8 +10,37 @@
 
     <!-- Splash Screen -->
     <style name="SplashTheme" parent="Theme.AppCompat.NoActionBar">
-        <item name="android:windowBackground">@drawable/tampabay</item>
+        <item name="android:windowBackground">@drawable/splash_screen</item>
         <item name="colorPrimaryDark">@color/colorPrimary</item>
+    </style>
+
+    <!-- City Screen Panel Common Styles -->
+    <style name="CityPanel">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/font_small</item>
+        <item name="android:paddingLeft">@dimen/dimen_10dp</item>
+        <item name="android:paddingRight">@dimen/dimen_10dp</item>
+        <item name="android:textColor">@android:color/white</item>
+    </style>
+
+    <style name="PanelHeader" parent="CityPanel">
+        <item name="android:layout_marginTop">@dimen/dimen_30dp</item>
+        <item name="android:paddingTop">@dimen/dimen_5dp</item>
+        <item name="android:paddingBottom">@dimen/dimen_5dp</item>
+        <item name="android:background">@color/colorPrimaryDark</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <style name="CityPanelGreen" parent="CityPanel">
+        <item name="android:background">@color/colorPrimary</item>
+        <item name="android:paddingTop">@dimen/dimen_16dp</item>
+        <item name="android:paddingBottom">@dimen/dimen_16dp</item>
+    </style>
+
+    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
+        <item name="android:textColor">#A8A19E</item>
     </style>
 
 </resources>
