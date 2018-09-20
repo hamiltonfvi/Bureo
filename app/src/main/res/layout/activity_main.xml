@@ -14,6 +14,7 @@
         android:orientation="horizontal">
 
         <ImageView
+            android:contentDescription="@string/image_description"
             android:id="@+id/home_image"
             android:layout_width="250dp"
             android:layout_height="200dp"
@@ -24,7 +25,7 @@
             android:id="@+id/explore"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
-            android:gravity="bottom|right"
+            android:gravity="bottom|end"
             android:textStyle="bold"
             android:textColor="@color/colorText"
             android:text="@string/explore" />

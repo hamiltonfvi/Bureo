@@ -39,8 +39,8 @@
         <item name="android:paddingBottom">@dimen/dimen_16dp</item>
     </style>
 
-    <style name="CategoryTabTextAppearance" parent="TextAppearance.Design.Tab">
-        <item name="android:textColor">#A8A19E</item>
+    <style name="CustomTabAppearance" parent="TextAppearance.Design.Tab">
+        <item name="textAllCaps">false</item>
     </style>
 
 </resources>

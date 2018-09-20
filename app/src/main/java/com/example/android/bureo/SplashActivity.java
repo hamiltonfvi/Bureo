@@ -19,6 +19,7 @@ public class SplashActivity extends AppCompatActivity {
             /** Display splash screen with a timer */
             @Override
             public void run() {
+
                 // This method executes once the timer is over
                 startActivity(new Intent(SplashActivity.this, MainActivity.class));
 
@@ -26,6 +27,5 @@ public class SplashActivity extends AppCompatActivity {
                 finish();
             }
         }, SPLASH_TIME_OUT);
-
     }
 }

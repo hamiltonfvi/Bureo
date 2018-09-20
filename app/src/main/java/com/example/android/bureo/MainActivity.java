@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         explore.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                Intent i = new Intent(getApplicationContext(), ArtFragment.class);
+                Intent i = new Intent(getApplicationContext(), PagerActivity.class);
                 startActivity(i);
             }
         });
