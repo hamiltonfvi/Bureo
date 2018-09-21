@@ -1,5 +1,6 @@
 package com.example.android.bureo;
 
+import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -51,7 +52,8 @@ public class ArtFragment extends Fragment {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                Intent i = new Intent(getContext(), PlaceDetails.class);
+                final Context context = getActivity();
+                Intent i = new Intent(context, PlaceDetails.class);
                 startActivity(i);
             }
         });
