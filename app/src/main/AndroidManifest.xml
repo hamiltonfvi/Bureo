@@ -22,10 +22,9 @@
         <activity
             android:name=".MainActivity"
             android:label="Home" />
-        <activity android:name=".PlacesAdapter" />
         <activity android:name=".PagerActivity" />
-        <activity android:name=".CategoryAdapter" />
-        <activity android:name=".PlaceDetails"></activity>
+        <activity android:name=".PlaceDetails">
+        </activity>
     </application>
 
 </manifest>
