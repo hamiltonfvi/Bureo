@@ -9,13 +9,14 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 
 /**
  * A simple {@link Fragment} subclass.
  */
-public class ArtFragment extends Fragment {
+public class ArtFragment extends Fragment implements ListView.OnItemClickListener {
 
     public ArtFragment() {
         // Required empty public constructor
@@ -49,15 +50,24 @@ public class ArtFragment extends Fragment {
 
         // Set OnClickListener on ListView to identify the item on ListView clicked by user
         // Text on the ListView item clicked is passed on to PlaceContentDescriptionActivity
-        listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
-            @Override
-            public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                final Context context = getActivity();
-                Intent i = new Intent(context, PlaceDetails.class);
-                startActivity(i);
-            }
-        });
+        listView.setOnItemClickListener(this);
 
         return rootView;
+
+    }
+
+    //Method to identify ListView item clicked
+
+    public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
+        final Context context = getActivity();
+        String iExtra = "";
+
+        TextView placesDes = view.findViewById(R.id.text_place_desc);
+        String description = placesDes.getText().toString();
+
+        iExtra = description;
+        Intent i = new Intent(context, PlaceDetails.class);
+        i.putExtra("message",iExtra);
+        startActivity(i);
     }
 }
