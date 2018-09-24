@@ -10,6 +10,7 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
+
 import java.util.ArrayList;
 
 /**
@@ -41,7 +42,7 @@ public class ArtFragment extends Fragment {
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the
         // places_list.xml layout file
-        ListView listView = rootView.findViewById(R.id.list);
+        final ListView listView = rootView.findViewById(R.id.list);
 
         // Make the {@link ListView} use the {@link PlacesAdapter} we created above, so that the
         // {@link ListView} will display list items for each {@link Places} in the list.
@@ -52,8 +53,14 @@ public class ArtFragment extends Fragment {
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
-                final Context context = getActivity();
-                Intent i = new Intent(context, PlaceDetails.class);
+
+                Places mplace = (Places) listView.getItemAtPosition(position);
+
+                Intent i = new Intent(getActivity(), PlaceDetails.class);
+                i.putExtra("image", mplace.getImageResourceId());
+                i.putExtra("title",mplace.getItemTitle());
+                i.putExtra("description", mplace.getmItemDescription());
+
                 startActivity(i);
             }
         });

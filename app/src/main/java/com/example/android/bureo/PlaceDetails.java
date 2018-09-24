@@ -4,16 +4,14 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.support.v7.widget.Toolbar;
 
 public class PlaceDetails extends AppCompatActivity {
 
     // UI Components
-    private ImageView mImageArtwork;
-    private TextView mTextContent;
-
-    // Identifiers
-    private String mPlace;
-    private String mPictureResource;
+    ImageView mItemImage;
+    TextView mItemDescription;
+    Toolbar mtoolbar;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -22,26 +20,29 @@ public class PlaceDetails extends AppCompatActivity {
         setContentView(R.layout.activity_place_details);
 
         // Initialize UI Components
-        mImageArtwork = (ImageView) findViewById(R.id.image_place);
-        mTextContent = (TextView) findViewById(R.id.text_place_desc);
+        mItemImage = findViewById(R.id.image_place);
+        mItemDescription = findViewById(R.id.text_place_desc);
+        mtoolbar = findViewById(R.id.toolbar);
 
-        // Display Media Details and Image
-        displayMediaDetails();
-    }
+        Bundle bundle = getIntent().getExtras();
 
-    /**
-     * This method displays Guide details - name, neighborhood name, picture and detail information
-     */
-    public void displayMediaDetails() {
-        //
-        int resId = getResources().getIdentifier(mPictureResource, "drawable", getPackageName());
-        mImageArtwork.setImageResource(resId);
+        if (bundle != null) {
+            mtoolbar.setTitle(bundle.getString("title"));
+        } else {
+            return;
+        }
 
-        //Get specific String to display guide information
-        //it get it by replace spaces for _ and putting all letters in lower case
-        //Eg Estrela Garden -> estrela_garden -> R.string.estrela_garden
-        int contentResource = getResources().getIdentifier(mPlace.replaceAll(" ", "_").replace("'", "").toLowerCase(),"string", getPackageName());
-        mTextContent.setText(contentResource);
+        //get in the imageResourceId
+        int imagesRes = bundle.getInt("image");
+
+        //Assign the imageResourceId to a ImageView in the Activity Place Details
+        mItemImage.setImageResource(imagesRes);
+
+        //Assign the textResourceId to a TextView in the Activity Place Details
+        mItemDescription.setText(bundle.getString("description"));
+
     }
 }
+
+
 
