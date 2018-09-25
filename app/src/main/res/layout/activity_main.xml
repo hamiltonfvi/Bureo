@@ -39,7 +39,7 @@
 
     <TextView
         style="@style/CityPanelGreen"
-        android:text="@string/home_description"
+        android:text="@string/tampabay_description"
         android:background="@color/colorLightGrey"
         android:textColor="@color/colorText"/>
 

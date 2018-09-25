@@ -11,17 +11,32 @@ public class Places {
     //Description of the item
     private String mItemDescription;
 
+    //Item Address
+    private int mItemAddress;
+
+    //Item Phone Number
+    private String mItemPhoneNumber;
+
+    //Item WebSite
+    private String mItemWebSite;
+
     /**
      * Create a new Place Object.
      *
      * @param itemImage       it's drawable resource id of the image asset
      * @param itemTitle       it's item title of the place
      * @param itemDescription it's the item description of the place
+     * @param itemAddress it's the item website of the place
+     * @param itemPhoneNumber it's the item phone number of the place
+     * @param itemWebSite it's the item Website of the place
      */
-    public Places(int itemImage, String itemTitle, String itemDescription) {
+    public Places(int itemImage, String itemTitle, String itemDescription, int itemAddress, String itemPhoneNumber, String itemWebSite) {
         mItemImage = itemImage;
         mItemTitle = itemTitle;
         mItemDescription = itemDescription;
+        mItemAddress = itemAddress;
+        mItemPhoneNumber = itemPhoneNumber;
+        mItemWebSite = itemWebSite;
     }
 
     /**
@@ -43,5 +58,26 @@ public class Places {
      */
     public String getItemDescription(){
         return mItemDescription;
+    }
+
+    /**
+     *  Get the Item's Address
+     */
+    public int getItemAddress(){
+        return mItemAddress;
+    }
+
+    /**
+     *  Get the Item's Phone Number
+     */
+    public String getItemPhoneNumber(){
+        return mItemPhoneNumber;
+    }
+
+    /**
+     *  Get the Item's Website
+     */
+    public String getItemWebSite(){
+        return mItemWebSite;
     }
 }

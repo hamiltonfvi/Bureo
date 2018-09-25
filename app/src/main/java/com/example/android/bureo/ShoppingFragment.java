@@ -12,11 +12,12 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 /**
- * A simple {@link ArtFragment} subclass.
+ * A simple {@link ShoppingFragment} subclass.
  */
-public class ArtFragment extends Fragment {
+public class ShoppingFragment extends Fragment {
 
-    public ArtFragment() {
+
+    public ShoppingFragment() {
         // Required empty public constructor
     }
 
@@ -30,7 +31,7 @@ public class ArtFragment extends Fragment {
 
         // Create a list of places
         places.add(new Places(R.drawable.travel, "Riverwalk", "RiverWalk RiverWalk RiverWalk RiverWalk", R.string.category_art_address, "704-254-3430", "http://google.com"));
-        places.add(new Places(R.drawable.travel, "StrazCenter", "StrazCenter StrazCenter StrazCenter StrazCenter", R.string.category_art_address,"704-254-3430", "http://google.com"));
+        places.add(new Places(R.drawable.travel, "StrazCenter", "StrazCenter StrazCenter StrazCenter StrazCenter", R.string.category_art_address, "704-254-3430", "http://google.com"));
         places.add(new Places(R.drawable.travel, "Ybor City", "Ybor City Ybor City Ybor City Ybor City", R.string.category_art_address, "704-254-3430", "http://google.com"));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The

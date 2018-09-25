@@ -29,9 +29,9 @@ public class LGBTFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.travel,"Flamingos", "Talk Talk Talk Talk Talk Talk"));
-        places.add(new Places(R.drawable.travel,"Bradleys", "Talk Talk Talk Talk Talk Talk"));
-        places.add(new Places(R.drawable.travel,"City Side", "Talk Talk Talk Talk Talk Talk"));
+        places.add(new Places(R.drawable.travel,"Flamingos", "Talk Talk Talk Talk Talk Talk", R.string.category_art_address, "704-254-3430", "http://google.com"));
+        places.add(new Places(R.drawable.travel,"Bradleys", "Talk Talk Talk Talk Talk Talk", R.string.category_art_address, "704-254-3430", "http://google.com"));
+        places.add(new Places(R.drawable.travel,"City Side", "Talk Talk Talk Talk Talk Talk", R.string.category_art_address, "704-254-3430", "http://google.com"));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.
@@ -58,6 +58,9 @@ public class LGBTFragment extends Fragment {
                 i.putExtra("image", mplace.getImageResourceId());
                 i.putExtra("title",mplace.getItemTitle());
                 i.putExtra("description", mplace.getItemDescription());
+                i.putExtra("address",mplace.getItemAddress());
+                i.putExtra("phonenumber",mplace.getItemPhoneNumber());
+                i.putExtra("website",mplace.getItemWebSite());
 
                 startActivity(i);
             }

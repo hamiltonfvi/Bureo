@@ -11,6 +11,9 @@ public class PlaceDetails extends AppCompatActivity {
     // UI Components
     ImageView mItemImage;
     TextView mItemDescription;
+    TextView mItemAddress;
+    TextView mItemPhoneNumber;
+    TextView mItemWebSite;
     Toolbar mtoolbar;
 
     @Override
@@ -22,6 +25,9 @@ public class PlaceDetails extends AppCompatActivity {
         // Initialize UI Components
         mItemImage = findViewById(R.id.image_place);
         mItemDescription = findViewById(R.id.text_place_desc);
+        mItemAddress = findViewById(R.id.text_place_address);
+        mItemPhoneNumber = findViewById(R.id.text_place_phone_number);
+        mItemWebSite = findViewById(R.id.text_place_website);
         mtoolbar = findViewById(R.id.toolbar);
 
         Bundle bundle = getIntent().getExtras();
@@ -40,6 +46,15 @@ public class PlaceDetails extends AppCompatActivity {
 
         //Assign the textResourceId to a TextView in the Activity Place Details
         mItemDescription.setText(bundle.getString("description"));
+
+        //Assign the textResourceId to a TextView in the Activity Place Details
+        mItemAddress.setText(bundle.getInt("address"));
+
+        //Assign the textResourceId to a TextView in the Activity Place Details
+        mItemPhoneNumber.setText(bundle.getString("phonenumber"));
+
+        //Assign the textResourceId to a TextView in the Activity Place Details
+        mItemWebSite.setText(bundle.getString("website"));
 
     }
 }
