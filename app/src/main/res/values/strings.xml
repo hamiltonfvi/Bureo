@@ -14,4 +14,12 @@
     <string name="category_arts">Arts</string>
 
     <string name="category_lgbt">LGBT</string>
+
+    <string name="category_food">Food</string>
+
+    <string name="category_attractions">Attractions</string>
+
+    <string name="category_nightlife">Nightlife</string>
+
+    <string name="category_nature">Nature</string>
 </resources>

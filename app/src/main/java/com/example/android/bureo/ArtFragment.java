@@ -1,6 +1,5 @@
 package com.example.android.bureo;
 
-import android.content.Context;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -10,11 +9,10 @@ import android.view.ViewGroup;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-
 import java.util.ArrayList;
 
 /**
- * A simple {@link Fragment} subclass.
+ * A simple {@link ArtFragment} subclass.
  */
 public class ArtFragment extends Fragment {
 
@@ -37,7 +35,7 @@ public class ArtFragment extends Fragment {
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.
-        PlacesAdapter adapter = new PlacesAdapter(getActivity(), places, R.color.category_arts);
+        PlacesAdapter adapter = new PlacesAdapter(getActivity(), places);
 
         // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
         // There should be a {@link ListView} with the view ID called list, which is declared in the
@@ -49,7 +47,7 @@ public class ArtFragment extends Fragment {
         listView.setAdapter(adapter);
 
         // Set OnClickListener on ListView to identify the item on ListView clicked by user
-        // Text on the ListView item clicked is passed on to PlaceContentDescriptionActivity
+        // Text on the ListView item clicked is passed on to PlaceDetails Activity
         listView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int position, long id) {
@@ -59,7 +57,7 @@ public class ArtFragment extends Fragment {
                 Intent i = new Intent(getActivity(), PlaceDetails.class);
                 i.putExtra("image", mplace.getImageResourceId());
                 i.putExtra("title",mplace.getItemTitle());
-                i.putExtra("description", mplace.getmItemDescription());
+                i.putExtra("description", mplace.getItemDescription());
 
                 startActivity(i);
             }

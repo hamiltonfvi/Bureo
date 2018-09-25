@@ -12,11 +12,11 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 /**
- * A simple {@link LGBTFragment} subclass.
+ * A simple {@link FoodFragment} subclass.
  */
-public class LGBTFragment extends Fragment {
+public class FoodFragment extends Fragment {
 
-    public LGBTFragment() {
+    public FoodFragment() {
         // Required empty public constructor
     }
 
@@ -29,9 +29,9 @@ public class LGBTFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.travel,"Flamingos", "Talk Talk Talk Talk Talk Talk"));
-        places.add(new Places(R.drawable.travel,"Bradleys", "Talk Talk Talk Talk Talk Talk"));
-        places.add(new Places(R.drawable.travel,"City Side", "Talk Talk Talk Talk Talk Talk"));
+        places.add(new Places(R.drawable.travel, "Riverwalk", "RiverWalk RiverWalk RiverWalk RiverWalk"));
+        places.add(new Places(R.drawable.travel, "StrazCenter", "StrazCenter StrazCenter StrazCenter StrazCenter"));
+        places.add(new Places(R.drawable.travel, "Ybor City", "Ybor City Ybor City Ybor City Ybor City"));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.

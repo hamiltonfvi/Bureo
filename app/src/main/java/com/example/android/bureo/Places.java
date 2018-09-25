@@ -41,7 +41,7 @@ public class Places {
     /**
      *  Get the Item's Description
      */
-    public String getmItemDescription(){
+    public String getItemDescription(){
         return mItemDescription;
     }
 }

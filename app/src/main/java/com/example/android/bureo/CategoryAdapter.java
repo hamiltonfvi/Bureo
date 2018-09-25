@@ -31,8 +31,16 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     public Fragment getItem(int position) {
         if (position == 0) {
             return new ArtFragment();
-        } else {
+        } else if (position == 1) {
+            return new AttractionsFragment();
+        } else if (position == 2) {
+            return new FoodFragment();
+        } else if (position == 3) {
             return new LGBTFragment();
+        } else if (position == 4) {
+            return new NatureFragment();
+        } else {
+            return new NightlifeFragment();
         }
     }
 
@@ -41,7 +49,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 2;
+        return 6;
     }
 
     /**
@@ -52,8 +60,16 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     public CharSequence getPageTitle(int position) {
         if (position == 0) {
             return mContext.getString(R.string.category_arts);
-        } else {
+        } else if (position == 1){
+            return mContext.getString(R.string.category_attractions);
+        } else if (position == 2){
+            return mContext.getString(R.string.category_food);
+        } else if (position == 3){
             return mContext.getString(R.string.category_lgbt);
+        } else if (position == 4){
+            return mContext.getString(R.string.category_nature);
+        } else {
+            return mContext.getString(R.string.category_nightlife);
         }
     }
 }
