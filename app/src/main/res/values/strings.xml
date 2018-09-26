@@ -42,7 +42,7 @@
     <string name="angry_chair_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
     <string name="cigar_city_description">Cigar City Brewing, makers of Jai Alai IPA® and Hunahpu’s Imperial Stout®, was founded in 2009 by Joey Redner with the goal of creating world-class beer that reflected the flavors and history of the Tampa region. This unique approach resonated with local and national markets and the brewery has quickly to produce over 90,000 barrels of beer annually. Along with Oskar Blues Brewery, Perrin Brewing, Squatters Craft Beers and Wasatch Brewery, Cigar City Brewing is a part of CANarchy, a craft brewing collective that represents the largest canned craft beer supplier in the country.</string>
     <string name="ulele_description">Located on the Tampa Riverwalk, Ulele overlooks the Hillsborough River in Tampa Heights. Serving native-inspired foods and spirits. Intricately flavored, visually appealing dishes prepared on our round 10’ barbacoa grill. Lunch and dinner served daily. On-site brewery. 400 yards from the Straz Center. Outdoor bar and outdoor seating with waterfront views. Beer and cocktails may be ordered to go and served in a special cup, which allows guests to drink legally along the 2.4-mile Tampa Riverwalk. Closed Thanksgiving and Christmas. In addition to auto, bike or pedestrian arrivals, you also can boat, canoe or kayak and dock next door at Water Works Park. A second location is at Tampa International Airport, in Airside C, with Southwest and Frontier Airlines. Please see our website for the most current menu.</string>
-    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders. </string>
+    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders.</string>
     <string name="brew_bus_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
 
     <!--Brewing Addresses-->
@@ -100,5 +100,110 @@
     <string name="florida_aquarium_website">http://www.flaquarium.org/</string>
     <string name="florida_state_fairgrounds_website">http://www.floridastatefair.com/</string>
     <string name="busch_gardens_website">https://buschgardens.com/</string>
+
+    <!--Shopping Names-->
+    <string name="international_plaza_name">International Plaza and Bay Street</string>
+    <string name="tampa_premium_outlets_name">Tampa Premium Outlets</string>
+    <string name="westshore_plaza_name">Westshore Plaza</string>
+    <string name="westfield_citrus_park_name">Westfield Citrus Park</string>
+    <string name="university_mall_name">University Mall</string>
+
+    <!--Shopping Descriptions-->
+    <string name="international_plaza_description">200 stores/16 restaurants. Neiman Marcus, Nordstrom, Dillard\'s, Tiffany and Co., Louis Vuitton, Gucci, Apple, Crate and Barrel, The Cheesecake Factory, The Capital Grille and Renaissance Hotel w/courtesy shuttle. Adjacent to Tampa International Airport.</string>
+    <string name="tampa_premium_outlets_description">Tampa Premium Outlets is a 441,000 square-foot outlet shopping destination filled with over 115 retailers, delivering great brands with 25% - 65% off every day savings. Conveniently located on the intersection of I-75 and State Road 56, this outdoor shopping Center features brands including Saks Fifth Avenue OFF 5TH, Michael Kors, Coach, Polo Ralph Lauren Factory Store, Tommy Hilfiger, Under Armour, Calvin Klein and many more. Visit Simon Guest Services located in Market Hall for more information about our VIP Shopper Club and Savings Passport.</string>
+    <string name="westshore_plaza_description">WestShore Plaza features Macy\'s, JCPenney, Sears, Dick\'s Sporting Goods, AMC 14 Theaters, Old Navy and over 100 specialty stores. WestShore Plaza offers dining options including Maggiano\'s, Mitchell\'s Fish Market, Seasons 52, Grimaldi\'s Pizzeria, P.F. Changs, Besito Mexican and Irish 31.</string>
+    <string name="westfield_citrus_park_description">Westfield Citrus Park, formerly Citrus Park Town Center, is a shopping mall in Citrus Park, Florida, that opened in March 1999. Its four anchor stores are Dillard\'s, JCPenney, Macy\'s, and Dick\'s Sporting Goods, and it also includes a Regal Cinemas multiplex theater.</string>
+    <string name="university_mall_description">University Mall, previously University Square Mall, is a shopping mall located near the University of South Florida, just north of the city limits of Tampa on Fowler Avenue; a major eight lane, east-west corridor.</string>
+
+    <!--Shopping Addresses-->
+    <string name="international_plaza_address">2223 N Westshore Blvd, Tampa,FL, 33607</string>
+    <string name="tampa_premium_outlets_address">2300 Grand Cypress DR, Luz, FL, 33559</string>
+    <string name="westshore_plaza_address">250 Westshore plaza, Tampa, FL, 33609</string>
+    <string name="westfield_citrus_park_address">8021 Citrus Park Town Center, Tampa, FL 33625</string>
+    <string name="university_mall_address">2200 E Fowler Ave, Tampa, FL 33612</string>
+
+    <!--Shopping Phone Numbers-->
+    <string name="international_plaza_phone_number">813 342\/3790</string>
+    <string name="tampa_premium_outlets_phone_number">813 909\/8716</string>
+    <string name="westshore_plaza_phone_number">813 286\/0790</string>
+    <string name="westfield_citrus_park_phone_number">813 926\/4644</string>
+    <string name="university_mall_phone_number">813 971\/3466</string>
+
+    <!--Shopping Websites-->
+    <string name="international_plaza_website">https://www.shopinternationalplaza.com/</string>
+    <string name="tampa_premium_outlets_website">https://www.premiumoutlets.com/outlet/tampa</string>
+    <string name="westshore_plaza_website">https://westshoreplaza.com/</string>
+    <string name="westfield_citrus_park_website">https://www.westfield.com/citruspark</string>
+    <string name="university_mall_website">https://www.universitymalltampa.com/</string>
+
+    <!--Arts Names-->
+    <string name="the_dali_museum_name">The Dali Museum</string>
+    <string name="glazer_childrens_museum_name">Glazer Children\'s Museum</string>
+    <string name="tampa_museum_of_art_name">Tampa Museum of Art</string>
+    <string name="straz_center_name">Straz Center</string>
+    <string name="the_tampa_theatre_name">The Tampa Theatre</string>
+
+    <!--Arts Descriptions-->
+    <string name="the_dali_museum_description">The Salvador Dalí Museum is an art museum in St. Petersburg, Florida, United States, dedicated to the works of Salvador Dalí. It houses the largest collection of Dalí\'s works outside Europe. It is located on the downtown St. Petersburg waterfront by 5th Avenue Southeast, Bay Shore Drive, and Dan Wheldon Way.</string>
+    <string name="glazer_childrens_museum_description">The Glazer Children\'s Museum is a children\'s museum located in downtown Tampa, Florida, next to the Tampa Museum of Art and Curtis Hixon Park, alongside the Tampa Riverwalk. It is part of the Waterfront Arts District.</string>
+    <string name="tampa_museum_of_art_description">The Tampa Museum of Art is located in downtown Tampa, Florida. It exhibits modern and contemporary art, as well as Greek, Roman, and Etruscan antiquities.</string>
+    <string name="straz_center_description">The David A. Straz Jr. Center for the Performing Arts opened its doors as the Tampa Bay Performing Arts Center, Tampa, Florida in July 1987 and has welcomed more than 16 million guests.</string>
+    <string name="the_tampa_theatre_description">The Tampa Theatre is a historic U.S. theater and city landmark in the Uptown District of Tampa, Florida. The theatre features a wide range of independent, foreign, and documentary films on a daily basis.</string>
+
+    <!--Arts Addresses-->
+    <string name="the_dali_museum_address">1 Dali Blvd, St. Petersburg, FL 33701</string>
+    <string name="glazer_childrens_museum_address">110 W Gasparilla Plaza, Tampa, FL 33602</string>
+    <string name="tampa_museum_of_art_address">120 Gasparilla Plaza, Tampa, FL 33602</string>
+    <string name="straz_center_address">1010 N Macinnes Pl, Tampa, FL 33602</string>
+    <string name="the_tampa_theatre_address">711 N Franklin St, Tampa, FL 33602</string>
+
+    <!--Arts Phone Numbers-->
+    <string name="the_dali_museum_phone_number">727 823\/3767</string>
+    <string name="glazer_childrens_museum_phone_number">813 443\/3861</string>
+    <string name="tampa_museum_of_art_phone_number">813 274\/8130</string>
+    <string name="straz_center_phone_number">813 229\/7827</string>
+    <string name="the_tampa_theatre_phone_number">813 274\/8286</string>
+
+    <!--Arts Websites-->
+    <string name="the_dali_museum_website">https://thedali.org/</string>
+    <string name="glazer_childrens_museum_website">https://glazermuseum.org/</string>
+    <string name="tampa_museum_of_art_website">http://tampamuseum.org/</string>
+    <string name="straz_center_website">https://www.strazcenter.org/</string>
+    <string name="the_tampa_theatre_website">http://www.tampatheatre.org/</string>
+
+    <!--Nightlife Names-->
+    <string name="ybor_city_name">Ybor City</string>
+    <string name="jannus_live_name">Jannys Live</string>
+    <string name="whiskey_north_name">Whiskey North</string>
+    <string name="bahama_breeze_name">Bahama Breeze</string>
+    <string name="hyde_park_village_name">Hyde Park Village</string>
+
+    <!--Nightlife Descriptions-->
+    <string name="ybor_city_description">Lively Ybor City is known for boutiques and vintage shops on 7th Avenue, which also hosts Cuban and Latin American eateries. The Centro Ybor mall offers indie fast food, bars, and a cinema. Housed in a 1920s bakery, Ybor City State Museum has exhibits on the cigar industry and the area’s immigrant communities. The GaYBOR district around 7th Avenue and 15th Street attracts a diverse crowd to its bars and clubs.</string>
+    <string name="jannus_live_description">Jannus Live is an outdoor music venue in St. Petersburg, Florida. Located in the Downtown St. Petersburg Historic District, the courtyard venue has hosted numerous concerts for local and mainstream artists.</string>
+    <string name="whiskey_north_description">Adirondack decor surrounds at this high-end nightclub with 2 levels and a packed calendar of events.</string>
+    <string name="bahama_breeze_description">Laid-back chain eatery featuring Caribbean entrees and tropical cocktails amid beachy decor.</string>
+    <string name="hyde_park_village_description">Hyde Park Village is an upscale open-air shopping district located in the neighborhood of Hyde Park in Tampa, Florida, United States. The center is situated in several buildings located between Swann and Rome Avenues, just a few blocks east of the SoHo district.</string>
+
+    <!--Nightlife Addresses-->
+    <string name="ybor_city_address">2015 East 7th Avenue, Tampa, FL 33605</string>
+    <string name="jannus_live_address">200 1st Ave N, St. Petersburg, FL 33701</string>
+    <string name="whiskey_north_address">11921 North Dale Mabry Hwy, Tampa, Florida 33618 </string>
+    <string name="bahama_breeze_address">3045 N Rocky Point Dr E, Tampa, FL 33607</string>
+    <string name="hyde_park_village_address">1623 W Snow Cir, Tampa, FL 33606</string>
+
+    <!--Nightlife Phone Numbers-->
+    <string name="ybor_city_phone_number">813 274\/7936</string>
+    <string name="jannus_live_phone_number">727 565\/0550</string>
+    <string name="whiskey_north_phone_number">813 968\/1515</string>
+    <string name="bahama_breeze_phone_number">813 289\/7922</string>
+    <string name="hyde_park_village_phone_number">813 251\/3500</string>
+
+    <!--Nightlife Websites-->
+    <string name="ybor_city_website">https://yborcityonline.com/</string>
+    <string name="jannus_live_website">https://www.jannuslive.com/</string>
+    <string name="whiskey_north_website">http://www.whiskeynorth.com/</string>
+    <string name="bahama_breeze_website">https://www.bahamabreeze.com/locations/fl/tampa/tampa/3004</string>
+    <string name="hyde_park_village_website">https://www.hydeparkvillage.com/</string>
 
 </resources>
