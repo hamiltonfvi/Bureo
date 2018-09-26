@@ -7,6 +7,9 @@
 
     <string name="explore">Explore</string>
 
+    <string name="category_art_address">6213 Sheldon Rd, Tampa, FL, 33615</string>
+    <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover blue skies and sunshine, a sparkling waterfront, world-class chefs, family fun, and a century of Cuban culture – all in Florida’s most diverse travel destination. In Tampa Bay, our hospitality is as warm as our weather.</string>
+
     <!--Arts Category-->
     <string name="category_arts">Arts</string>
 
@@ -28,22 +31,74 @@
     <!--Shopping Category-->
     <string name="category_shopping">Shopping</string>
 
-    <!--Names-->
-    <string name="angry_chair_brewing_name">Angry Chair Brewing</string>
+    <!--Brewing Names-->
+    <string name="angry_chair_name">Angry Chair Brewing</string>
+    <string name="cigar_city_name">Cigar City Brewing</string>
+    <string name="ulele_name">Ulele</string>
+    <string name="coppertail_name">Coppertail Brewing Company</string>
+    <string name="brew_bus_name">Brew Bus Brewing</string>
 
-    <!--Descriptions-->
-    <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover blue skies and sunshine, a sparkling waterfront, world-class chefs, family fun, and a century of Cuban culture – all in Florida’s most diverse travel destination. In Tampa Bay, our hospitality is as warm as our weather.</string>
+    <!--Brewing Descriptions-->
     <string name="angry_chair_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
+    <string name="cigar_city_description">Cigar City Brewing, makers of Jai Alai IPA® and Hunahpu’s Imperial Stout®, was founded in 2009 by Joey Redner with the goal of creating world-class beer that reflected the flavors and history of the Tampa region. This unique approach resonated with local and national markets and the brewery has quickly to produce over 90,000 barrels of beer annually. Along with Oskar Blues Brewery, Perrin Brewing, Squatters Craft Beers and Wasatch Brewery, Cigar City Brewing is a part of CANarchy, a craft brewing collective that represents the largest canned craft beer supplier in the country.</string>
+    <string name="ulele_description">Located on the Tampa Riverwalk, Ulele overlooks the Hillsborough River in Tampa Heights. Serving native-inspired foods and spirits. Intricately flavored, visually appealing dishes prepared on our round 10’ barbacoa grill. Lunch and dinner served daily. On-site brewery. 400 yards from the Straz Center. Outdoor bar and outdoor seating with waterfront views. Beer and cocktails may be ordered to go and served in a special cup, which allows guests to drink legally along the 2.4-mile Tampa Riverwalk. Closed Thanksgiving and Christmas. In addition to auto, bike or pedestrian arrivals, you also can boat, canoe or kayak and dock next door at Water Works Park. A second location is at Tampa International Airport, in Airside C, with Southwest and Frontier Airlines. Please see our website for the most current menu.</string>
+    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders. </string>
+    <string name="brew_bus_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
 
-    <!--Addresses-->
-    <string name="category_art_address">6213 Sheldon Rd, Tampa, FL, 33615</string>
+    <!--Brewing Addresses-->
     <string name="angry_chair_address">6401 N. Florida Ave, Tampa,FL, 33604</string>
+    <string name="cigar_city_address">3924 W Spruce St, Tampa, FL, 33607</string>
+    <string name="ulele_address">1810 N Highland Ave, Tampa, FL, 33602</string>
+    <string name="coppertail_address">2601 E 2nd Ave, Tampa, FL, 33605</string>
+    <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
 
-    <!--Phone Numbers-->
-    <string name="angry_chair_phone_number">813-690-3599</string>
+    <!--Brewing Phone Numbers-->
+    <string name="angry_chair_phone_number">813 690\/3599</string>
+    <string name="cigar_city_phone_number">813 348\/6363</string>
+    <string name="ulele_phone_number">813 999\/4952</string>
+    <string name="coppertail_phone_number">813 247\/1500</string>
+    <string name="bre_bus_phone_number">813 990\/7310</string>
 
-    <!--Websites-->
+    <!--Brewing Websites-->
     <string name="angry_chair_website">https://angrychairbrewing.com/</string>
+    <string name="cigar_city_website">https://cigarcitybrewing.com/</string>
+    <string name="ulele_website">https://ulele.com/</string>
+    <string name="coppertail_website">https://coppertailbrewing.com/</string>
+    <string name="brew_bus_website">https://brewbususa.com/</string>
 
+    <!--Attractions Names-->
+    <string name="adventure_island_name">Adventure Island</string>
+    <string name="clearwater_marine_aquarium_name">Clearwater Marine Aquarium</string>
+    <string name="florida_aquarium_name">Florida Aquarium</string>
+    <string name="florida_state_fairgrounds_name">Florida State Fairgrounds</string>
+    <string name="busch_gardens_name">Busch Gardens Tampa Bay</string>
+
+    <!--Attractions Descriptions-->
+    <string name="adventure_island_description">Located right across the street from Busch Gardens® Tampa, Adventure Island® is 30 acres of water-drenched fun in the sun featuring the ultimate combination of high-speed thrills and tropical, tranquil surroundings for guests of all ages. Race down rapids, dig your toes into the sand or relax all day in a private cabana. New at Adventure Island, hurtle high and experience a feeling of weightlessness on Colossal Curl™, Adventure Island’s newest family thrill slide.</string>
+    <string name="clearwater_marine_aquarium_description">Go beyond a typical aquarium experience and immerse yourself in the world of marine life rescue at Clearwater Marine Aquarium.  Located at Clearwater Beach, Clearwater Marine Aquarium is a unique, nonprofit rescue facility dedicated to the rehabilitation and release of marine animals. See its most notable residents, Winter and Hope stars of the popular Dolphin Tale movies. Be inspired by fun, educational presentations and exhibits with all of the resident dolphins, sea turtles, pelicans, sharks, stingrays and Walle the otter. Experience Clearwater Marine Aquarium’s important ongoing mission of conservation, rescue, rehab and release.</string>
+    <string name="florida_aquarium_description">Come see why The Florida Aquarium is one of the top aquariums in the country! Experience sharks, alligators, penguins and much more! Immerse yourself in interactive programs like Dive with the Sharks, Shark Swim and Swim with the Fishes or take a Wild Dolphin Tour on board the Bay Spirit II, a 72-foot powered catamaran. Special Behind the Scenes experiences like Penguins: Backstage Pass are unique and exciting as you come face to beak with our adorable penguins. After exploring all the exhibits inside, splash away at the Aquarium\'s new water play area, The Splash Pad!</string>
+    <string name="florida_state_fairgrounds_description">The Fairgrounds is home to the annual Florida State Fair, always in February, always in Tampa! Featuring free entertainment, agriculture exhibits, competitive exhibits, historical village, crafts, food, and one of the largest midways in the United States.</string>
+    <string name="busch_gardens_description">Busch Gardens Tampa is a 335-acre African-themed animal theme park located in the city of Tampa, Florida. Busch Gardens Tampa is owned and operated by SeaWorld Parks and Entertainment and is their 2nd largest park in terms of attendance behind SeaWorld Orlando.</string>
+
+    <!--Attractions Addresses-->
+    <string name="adventure_island_address">10001 Mckinley Dr, Tampa,FL, 33612</string>
+    <string name="clearwater_marine_aquarium_address">249 Windward Passage, Tampa, FL, 33767</string>
+    <string name="florida_aquarium_address">701 Channelside Dr, Tampa, FL, 33602</string>
+    <string name="florida_state_fairgrounds_address">4800 US HWY 301 N, Tampa, FL, 33610</string>
+    <string name="busch_gardens_address">10165 McKinley Dr, Tampa, FL 33612</string>
+
+    <!--Attractions Numbers-->
+    <string name="adventure_island_phone_number">813 987\/5000</string>
+    <string name="clearwater_marine_aquarium_number">727 441\/1790</string>
+    <string name="florida_aquarium_phone_number">813 273\/4000</string>
+    <string name="florida_state_fairgrounds_phone_number">813 621\/7821</string>
+    <string name="busch_gardens_phone_number">813 884\/4386</string>
+
+    <!--Attractions Websites-->
+    <string name="adventure_island_website">https://adventureisland.com/</string>
+    <string name="clearwater_marine_aquarium_website">https://www.seewinter.com/</string>
+    <string name="florida_aquarium_website">http://www.flaquarium.org/</string>
+    <string name="florida_state_fairgrounds_website">http://www.floridastatefair.com/</string>
+    <string name="busch_gardens_website">https://buschgardens.com/</string>
 
 </resources>
