@@ -206,4 +206,40 @@
     <string name="bahama_breeze_website">https://www.bahamabreeze.com/locations/fl/tampa/tampa/3004</string>
     <string name="hyde_park_village_website">https://www.hydeparkvillage.com/</string>
 
+    <!--LGBT Names-->
+    <string name="bradleys_name">Bradley\'s on 7th</string>
+    <string name="flamingo_resort_name">Flamingo Resort</string>
+    <string name="the_honey_pot_name">The Honey Pot</string>
+    <string name="coppertail_name">Coppertail Brewing Company</string>
+    <string name="brew_bus_name">Brew Bus Brewing</string>
+
+    <!--LGBT Descriptions-->
+    <string name="bradleys_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
+    <string name="flamingo_resort_description">This LGBT-friendly adults-only resort is 6 miles from the beach and The Dali Museum, as well as Downtown\'s historic district.
+</string>
+    <string name="ulele_description">Located on the Tampa Riverwalk, Ulele overlooks the Hillsborough River in Tampa Heights. Serving native-inspired foods and spirits. Intricately flavored, visually appealing dishes prepared on our round 10’ barbacoa grill. Lunch and dinner served daily. On-site brewery. 400 yards from the Straz Center. Outdoor bar and outdoor seating with waterfront views. Beer and cocktails may be ordered to go and served in a special cup, which allows guests to drink legally along the 2.4-mile Tampa Riverwalk. Closed Thanksgiving and Christmas. In addition to auto, bike or pedestrian arrivals, you also can boat, canoe or kayak and dock next door at Water Works Park. A second location is at Tampa International Airport, in Airside C, with Southwest and Frontier Airlines. Please see our website for the most current menu.</string>
+    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders.</string>
+    <string name="brew_bus_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
+
+    <!--LGBT Addresses-->
+    <string name="bradleys_address">1510 E 7th Ave, Tampa, FL 33605</string>
+    <string name="flamingo_resort_address">3924 W Spruce St, Tampa, FL, 33607</string>
+    <string name="ulele_address">1810 N Highland Ave, Tampa, FL, 33602</string>
+    <string name="coppertail_address">2601 E 2nd Ave, Tampa, FL, 33605</string>
+    <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
+
+    <!--LGBT Phone Numbers-->
+    <string name="bradleys_phone_number">813 241\/2723</string>
+    <string name="flamingo_resort_phone_number">727 321\/5000</string>
+    <string name="ulele_phone_number">813 999\/4952</string>
+    <string name="coppertail_phone_number">813 247\/1500</string>
+    <string name="bre_bus_phone_number">813 990\/7310</string>
+
+    <!--LGBT Websites-->
+    <string name="bradleys_website">http://bradleyson7th.com/</string>
+    <string name="flamingo_resort_website">https://www.flamingofla.com/</string>
+    <string name="ulele_website">https://ulele.com/</string>
+    <string name="coppertail_website">https://coppertailbrewing.com/</string>
+    <string name="brew_bus_website">https://brewbususa.com/</string>
+
 </resources>
