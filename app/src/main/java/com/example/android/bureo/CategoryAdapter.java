@@ -38,11 +38,11 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 3) {
             return new LGBTFragment();
         } else if (position == 4) {
-            return new NatureFragment();
-        } else if (position == 5) {
             return new NightlifeFragment();
-        } else {
+        } else if (position == 5) {
             return new ShoppingFragment();
+        } else {
+            return new OutdoorFragment();
         }
     }
 
@@ -69,11 +69,11 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         } else if (position == 3) {
             return mContext.getString(R.string.category_lgbt);
         } else if (position == 4) {
-            return mContext.getString(R.string.category_nature);
-        } else if (position == 5) {
             return mContext.getString(R.string.category_nightlife);
-        } else {
+        } else if (position == 5) {
             return mContext.getString(R.string.category_shopping);
+        } else {
+            return mContext.getString(R.string.category_outdoor);
         }
     }
 }

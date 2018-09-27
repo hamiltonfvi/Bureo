@@ -26,7 +26,7 @@
     <string name="category_nightlife">Nightlife</string>
 
     <!--Nature Category-->
-    <string name="category_nature">Nature</string>
+    <string name="category_outdoor">Outdoor</string>
 
     <!--Shopping Category-->
     <string name="category_shopping">Shopping</string>
@@ -141,7 +141,7 @@
     <string name="glazer_childrens_museum_name">Glazer Children\'s Museum</string>
     <string name="tampa_museum_of_art_name">Tampa Museum of Art</string>
     <string name="straz_center_name">Straz Center</string>
-    <string name="the_tampa_theatre_name">The Tampa Theatre</string>
+    <string name="the_tamtpa_theatre_name">The Tampa Theatre</string>
 
     <!--Arts Descriptions-->
     <string name="the_dali_museum_description">The Salvador Dalí Museum is an art museum in St. Petersburg, Florida, United States, dedicated to the works of Salvador Dalí. It houses the largest collection of Dalí\'s works outside Europe. It is located on the downtown St. Petersburg waterfront by 5th Avenue Southeast, Bay Shore Drive, and Dan Wheldon Way.</string>
@@ -209,37 +209,106 @@
     <!--LGBT Names-->
     <string name="bradleys_name">Bradley\'s on 7th</string>
     <string name="flamingo_resort_name">Flamingo Resort</string>
-    <string name="the_honey_pot_name">The Honey Pot</string>
-    <string name="coppertail_name">Coppertail Brewing Company</string>
-    <string name="brew_bus_name">Brew Bus Brewing</string>
+    <string name="thte_honey_pot_name">The Honey Pot</string>
+    <string name="enigma_name">Enigma</string>
+    <string name="city_scide_name">City Side</string>
 
     <!--LGBT Descriptions-->
     <string name="bradleys_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
-    <string name="flamingo_resort_description">This LGBT-friendly adults-only resort is 6 miles from the beach and The Dali Museum, as well as Downtown\'s historic district.
-</string>
-    <string name="ulele_description">Located on the Tampa Riverwalk, Ulele overlooks the Hillsborough River in Tampa Heights. Serving native-inspired foods and spirits. Intricately flavored, visually appealing dishes prepared on our round 10’ barbacoa grill. Lunch and dinner served daily. On-site brewery. 400 yards from the Straz Center. Outdoor bar and outdoor seating with waterfront views. Beer and cocktails may be ordered to go and served in a special cup, which allows guests to drink legally along the 2.4-mile Tampa Riverwalk. Closed Thanksgiving and Christmas. In addition to auto, bike or pedestrian arrivals, you also can boat, canoe or kayak and dock next door at Water Works Park. A second location is at Tampa International Airport, in Airside C, with Southwest and Frontier Airlines. Please see our website for the most current menu.</string>
-    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders.</string>
-    <string name="brew_bus_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
+    <string name="flamingo_resort_description">This LGBT-friendly adults-only resort is 6 miles from the beach and The Dali Museum, as well as Downtown\'s historic district.</string>
+    <string name="the_honey_pot_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
+    <string name="enigma_description">Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows and sidewalk tables.</string>
+    <string name="city_side_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
 
     <!--LGBT Addresses-->
-    <string name="bradleys_address">1510 E 7th Ave, Tampa, FL 33605</string>
+    <string name="bradleys_address">1510 E city7th Ave, Tampa, FL 33605</string>
     <string name="flamingo_resort_address">3924 W Spruce St, Tampa, FL, 33607</string>
-    <string name="ulele_address">1810 N Highland Ave, Tampa, FL, 33602</string>
-    <string name="coppertail_address">2601 E 2nd Ave, Tampa, FL, 33605</string>
-    <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
+    <string name="the_honey_pot_address">1507 E 7th Ave, Tampa, FL 33605</string>
+    <string name="enigma_address">1110 Central Avenue North, St. Petersburg, FL 33705</string>
+    <string name="city_side_address">3703 Henderson Blvd, Tampa, FL 33609</string>
 
     <!--LGBT Phone Numbers-->
     <string name="bradleys_phone_number">813 241\/2723</string>
     <string name="flamingo_resort_phone_number">727 321\/5000</string>
-    <string name="ulele_phone_number">813 999\/4952</string>
-    <string name="coppertail_phone_number">813 247\/1500</string>
-    <string name="bre_bus_phone_number">813 990\/7310</string>
+    <string name="the_honey_pot_phone_number">813 247\/4663</string>
+    <string name="enigma_phone_number">813 247\/1500</string>
+    <string name="city_side_phone_number">813 350\/0600</string>
 
     <!--LGBT Websites-->
     <string name="bradleys_website">http://bradleyson7th.com/</string>
     <string name="flamingo_resort_website">https://www.flamingofla.com/</string>
-    <string name="ulele_website">https://ulele.com/</string>
-    <string name="coppertail_website">https://coppertailbrewing.com/</string>
-    <string name="brew_bus_website">https://brewbususa.com/</string>
+    <string name="the_honey_pot_website">https://facebook.com/Honey-Pot-27460298048/</string>
+    <string name="enigma_website">http://www.enigmastpete.com/</string>
+    <string name="city_side_website">https://www.citysideloungetampa.com//</string>
+
+    <!--Food Names-->
+    <string name="la_terraza_restaurant_name">La Terrazza Restaurant</string>
+    <string name="eddie_sam_name">Eddie and Sam\'s N.Y. Pizza</string>
+    <string name="columbia_restaurant_name">Columbia Restaurant</string>
+    <string name="green_lemon_name">Green Lemon</string>
+    <string name="la_teresita_restaurant_name">La Teresita Restaurant</string>
+
+    <!--Food Descriptions-->
+    <string name="la_terraza_restaurant_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
+    <string name="eddie_sam_description">Thin-crust pizza by the pie or slice made with New York water at a casual, counter-serve spot.</string>
+    <string name="columbia_restaurant_description">Columbia is Florida’s Oldest RestaurantSM, founded in Tampa\'s historic Ybor City in 1905. Family-owned and operated for more than 113 years, earning acclaim for old-world charm, and award-winning Spanish/Cuban cuisine and wine list.</string>
+    <string name="green_lemon_description">Modern hangout offering upbeat Mexican menu and drinks for brunch, lunch and dinner.</string>
+    <string name="la_teresita_restaurant_description">Family-run eatery serving a menu of Cuban and Spanish standards in homey surroundings.</string>
+
+    <!--Food Addresses-->
+    <string name="la_terraza_restaurant_address">1729 E 7th Ave, Tampa, FL 33605</string>
+    <string name="eddie_sam_address">203 E Twiggs St, Tampa, FL 33602</string>
+    <string name="columbia_restaurant_address">2117 E 7th Ave, Tampa, FL 33605</string>
+    <string name="green_lemon_address">915 S Howard Ave, Tampa, FL 33606</string>
+    <string name="la_teresita_restaurant_address">3248 W Columbus Dr, Tampa, FL 33607</string>
+
+    <!--Food Phone Numbers-->
+    <string name="la_terraza_restaurant_phone_number">813 248\/1326</string>
+    <string name="eddie_sam_phone_number">813 229\/5000</string>
+    <string name="columbia_restaurant_phone_number">813 248\/4961</string>
+    <string name="green_lemon_phone_number">813 868\/5463</string>
+    <string name="la_teresita_restaurant_phone_number">813 879\/9704</string>
+
+    <!--Food Websites-->
+    <string name="la_terraza_restaurant_website">http://www.laterrazzayborcity.com/</string>
+    <string name="eddie_sam_website">http://www.eddieandsamspizza.com/</string>
+    <string name="columbia_restaurant_website">http://www.columbiarestaurant.com/</string>
+    <string name="green_lemon_website">http://www.eatgreenlemon.com/</string>
+    <string name="la_teresita_restaurant_website">http://www.lateresitarestaurant.com/</string>
+
+    <!--Outdoor Names-->
+    <string name="clearwater_beach_name">Clearwater Beach</string>
+    <string name="curtis_hixon_water_park_name">Curtis Hixon Waterfront Park</string>
+    <string name="riverwalk_name">Tampa Riverwalk</string>
+    <string name="sunshine_skyway_bridge_name">Sunshine Skyway Bridge</string>
+    <string name="ifly_name">iFLY</string>
+
+    <!--Outdoor Descriptions-->
+    <string name="clearwater_beach_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
+    <string name="curtis_hixon_water_park_description">Curtis Hixon Waterfront Park is an 8-acre public park located along the Hillsborough river in downtown Tampa, Florida that opened in its current configuration in 2010. It is adjacent to the Tampa Riverwalk, Florida Museum of Photographic Arts, Tampa Museum of Art, Glazer Children\'s Museum, and Rivergate Tower.</string>
+    <string name="riverwalk_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
+    <string name="sunshine_skyway_bridge_description">The Bob Graham Sunshine Skyway Bridge, known to locals as the Sunshine Skyway Bridge or more casually the Skyway, is a bridge spanning Tampa Bay, Florida, with a cable-stayed main span, and a total length of 21,877 feet.</string>
+    <string name="ifly_description">Feel the thrill of skydiving without jumping out of an airplane. It\'s true! Head to iFLY Tampa, a premier indoor skydiving facility powered by a state-of-the-art vertical wind tunnel. After a training session, you\'ll experience free-fall conditions with the help of an instructor. No experience is necessary, and afterward, you can take home a personalized flight certificate.</string>
+
+    <!--Outdoor Addresses-->
+    <string name="clearwater_beach_address">332 S Gulfview Blvd, Clearwater, FL 33767</string>
+    <string name="curtis_hixon_water_park_address">600 N Ashley Dr, Tampa, FL 33602</string>
+    <string name="riverwalk_address">400 N. Ashley Dr, Ste.2125, Tampa FL 33602</string>
+    <string name="sunshine_skyway_bridge_address">2I-275, St. Petersburg, FL 33711</string>
+    <string name="ifly_address">10654 Palm River Rd, Tampa, FL 33619</string>
+
+    <!--Outdoor Phone Numbers-->
+    <string name="clearwater_beach_phone_number">727 562\/4825</string>
+    <string name="curtis_hixon_water_park_phone_number">813 274\/8615</string>
+    <string name="riverwalk_phone_number">813 274\/7744</string>
+    <string name="sunshine_skyway_bridge_phone_number">727 865\/0668</string>
+    <string name="ifly_phone_number">813 773\/4359</string>
+
+    <!--Outdoor Websites-->
+    <string name="clearwater_beach_website">https://visitclearwaterflorida.com/</string>
+    <string name="curtis_hixon_water_park_website">https://www.tampagov.net/parks-and-recreation</string>
+    <string name="riverwalk_website">https://thetampariverwalk.com/</string>
+    <string name="sunshine_skyway_bridge_website">http://www.skywaybridge.com/home.htm</string>
+    <string name="ifly_website">https://brewbususa.com/</string>
 
 </resources>

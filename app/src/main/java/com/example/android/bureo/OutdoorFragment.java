@@ -12,11 +12,11 @@ import android.widget.ListView;
 import java.util.ArrayList;
 
 /**
- * A simple {@link NatureFragment} subclass.
+ * A simple {@link OutdoorFragment} subclass.
  */
-public class NatureFragment extends Fragment {
+public class OutdoorFragment extends Fragment {
 
-    public NatureFragment() {
+    public OutdoorFragment() {
         // Required empty public constructor
     }
 
