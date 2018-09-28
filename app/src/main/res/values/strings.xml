@@ -89,7 +89,7 @@
 
     <!--Attractions Numbers-->
     <string name="adventure_island_phone_number">813 987\/5000</string>
-    <string name="clearwater_marine_aquarium_number">727 441\/1790</string>
+    <string name="clearwater_marine_aquarium_phone_number">727 441\/1790</string>
     <string name="florida_aquarium_phone_number">813 273\/4000</string>
     <string name="florida_state_fairgrounds_phone_number">813 621\/7821</string>
     <string name="busch_gardens_phone_number">813 884\/4386</string>
@@ -141,7 +141,7 @@
     <string name="glazer_childrens_museum_name">Glazer Children\'s Museum</string>
     <string name="tampa_museum_of_art_name">Tampa Museum of Art</string>
     <string name="straz_center_name">Straz Center</string>
-    <string name="the_tamtpa_theatre_name">The Tampa Theatre</string>
+    <string name="the_tampa_theatre_name">The Tampa Theatre</string>
 
     <!--Arts Descriptions-->
     <string name="the_dali_museum_description">The Salvador Dalí Museum is an art museum in St. Petersburg, Florida, United States, dedicated to the works of Salvador Dalí. It houses the largest collection of Dalí\'s works outside Europe. It is located on the downtown St. Petersburg waterfront by 5th Avenue Southeast, Bay Shore Drive, and Dan Wheldon Way.</string>
@@ -209,9 +209,9 @@
     <!--LGBT Names-->
     <string name="bradleys_name">Bradley\'s on 7th</string>
     <string name="flamingo_resort_name">Flamingo Resort</string>
-    <string name="thte_honey_pot_name">The Honey Pot</string>
+    <string name="the_honey_pot_name">The Honey Pot</string>
     <string name="enigma_name">Enigma</string>
-    <string name="city_scide_name">City Side</string>
+    <string name="city_side_name">City Side</string>
 
     <!--LGBT Descriptions-->
     <string name="bradleys_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>

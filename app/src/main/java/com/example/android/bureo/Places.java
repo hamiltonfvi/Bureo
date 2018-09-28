@@ -6,19 +6,19 @@ public class Places {
     private int mItemImage;
 
     //Title of item
-    private String mItemTitle;
+    private int mItemTitle;
 
     //Description of the item
-    private String mItemDescription;
+    private int mItemDescription;
 
     //Item Address
     private int mItemAddress;
 
     //Item Phone Number
-    private String mItemPhoneNumber;
+    private int mItemPhoneNumber;
 
     //Item WebSite
-    private String mItemWebSite;
+    private int mItemWebSite;
 
     /**
      * Create a new Place Object.
@@ -30,7 +30,7 @@ public class Places {
      * @param itemPhoneNumber it's the item phone number of the place
      * @param itemWebSite it's the item Website of the place
      */
-    public Places(int itemImage, String itemTitle, String itemDescription, int itemAddress, String itemPhoneNumber, String itemWebSite) {
+    public Places(int itemImage, int itemTitle, int itemDescription, int itemAddress, int itemPhoneNumber, int itemWebSite) {
         mItemImage = itemImage;
         mItemTitle = itemTitle;
         mItemDescription = itemDescription;
@@ -49,14 +49,14 @@ public class Places {
     /**
      *  Get the Item's Title
      */
-    public String getItemTitle(){
+    public int getItemTitle(){
         return mItemTitle;
     }
 
     /**
      *  Get the Item's Description
      */
-    public String getItemDescription(){
+    public int getItemDescription(){
         return mItemDescription;
     }
 
@@ -70,14 +70,14 @@ public class Places {
     /**
      *  Get the Item's Phone Number
      */
-    public String getItemPhoneNumber(){
+    public int getItemPhoneNumber(){
         return mItemPhoneNumber;
     }
 
     /**
      *  Get the Item's Website
      */
-    public String getItemWebSite(){
+    public int getItemWebSite(){
         return mItemWebSite;
     }
 }

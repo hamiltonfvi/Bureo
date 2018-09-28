@@ -45,16 +45,16 @@ public class PlaceDetails extends AppCompatActivity {
         mItemImage.setImageResource(imagesRes);
 
         //Assign the textResourceId to a TextView in the Activity Place Details
-        mItemDescription.setText(bundle.getString("description"));
+        mItemDescription.setText(bundle.getInt("description"));
 
         //Assign the textResourceId to a TextView in the Activity Place Details
         mItemAddress.setText(bundle.getInt("address"));
 
         //Assign the textResourceId to a TextView in the Activity Place Details
-        mItemPhoneNumber.setText(bundle.getString("phonenumber"));
+        mItemPhoneNumber.setText(bundle.getInt("phonenumber"));
 
         //Assign the textResourceId to a TextView in the Activity Place Details
-        mItemWebSite.setText(bundle.getString("website"));
+        mItemWebSite.setText(bundle.getInt("website"));
 
     }
 }

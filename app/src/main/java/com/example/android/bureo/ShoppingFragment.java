@@ -30,9 +30,11 @@ public class ShoppingFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.travel, "Riverwalk", "RiverWalk RiverWalk RiverWalk RiverWalk", R.string.category_art_address, "704-254-3430", "http://google.com"));
-        places.add(new Places(R.drawable.travel, "StrazCenter", "StrazCenter StrazCenter StrazCenter StrazCenter", R.string.category_art_address, "704-254-3430", "http://google.com"));
-        places.add(new Places(R.drawable.travel, "Ybor City", "Ybor City Ybor City Ybor City Ybor City", R.string.category_art_address, "704-254-3430", "http://google.com"));
+        places.add(new Places(R.drawable.international_plaza, R.string.international_plaza_name, R.string.international_plaza_description, R.string.international_plaza_address, R.string.international_plaza_phone_number, R.string.international_plaza_website));
+        places.add(new Places(R.drawable.tampa_premium_outlets, R.string.tampa_premium_outlets_name, R.string.tampa_premium_outlets_description, R.string.tampa_premium_outlets_address, R.string.tampa_premium_outlets_phone_number, R.string.tampa_premium_outlets_website));
+        places.add(new Places(R.drawable.university_mall, R.string.university_mall_name, R.string.university_mall_description, R.string.university_mall_address, R.string.university_mall_phone_number, R.string.university_mall_website));
+        places.add(new Places(R.drawable.westfield_citrus_park, R.string.westfield_citrus_park_name, R.string.westfield_citrus_park_description, R.string.westfield_citrus_park_address, R.string.westfield_citrus_park_phone_number, R.string.westfield_citrus_park_website));places.add(new Places(R.drawable.westfield_citrus_park, R.string.westfield_citrus_park_name, R.string.westfield_citrus_park_description, R.string.westfield_citrus_park_address, R.string.westfield_citrus_park_phone_number, R.string.westfield_citrus_park_website));
+        places.add(new Places(R.drawable.westshore_plaza, R.string.westshore_plaza_name, R.string.westshore_plaza_description, R.string.westshore_plaza_address, R.string.westshore_plaza_phone_number, R.string.westshore_plaza_website));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.
