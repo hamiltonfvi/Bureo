@@ -33,7 +33,7 @@ public class PlaceDetails extends AppCompatActivity {
         Bundle bundle = getIntent().getExtras();
 
         if (bundle != null) {
-            mtoolbar.setTitle(bundle.getString("title"));
+            mtoolbar.setTitle(bundle.getInt("title"));
         } else {
             return;
         }

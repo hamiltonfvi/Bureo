@@ -30,6 +30,6 @@
     <dimen name="tab_padding">12dp</dimen>
 
     <!-- List Item Dimension -->
-    <dimen name="list_item_height">100dp</dimen>
-    <dimen name="list_image_width">88dp</dimen>
+    <dimen name="list_item_height">80dp</dimen>
+    <dimen name="list_item_width">100dp</dimen>
 </resources>

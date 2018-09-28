@@ -7,29 +7,7 @@
 
     <string name="explore">Explore</string>
 
-    <string name="category_art_address">6213 Sheldon Rd, Tampa, FL, 33615</string>
     <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover blue skies and sunshine, a sparkling waterfront, world-class chefs, family fun, and a century of Cuban culture – all in Florida’s most diverse travel destination. In Tampa Bay, our hospitality is as warm as our weather.</string>
-
-    <!--Arts Category-->
-    <string name="category_arts">Arts</string>
-
-    <!--LGBT Category-->
-    <string name="category_lgbt">LGBT</string>
-
-    <!--Food Category-->
-    <string name="category_food">Food</string>
-
-    <!--Attractions Category-->
-    <string name="category_attractions">Attractions</string>
-
-    <!--Nightlife Category-->
-    <string name="category_nightlife">Nightlife</string>
-
-    <!--Nature Category-->
-    <string name="category_outdoor">Outdoor</string>
-
-    <!--Shopping Category-->
-    <string name="category_shopping">Shopping</string>
 
     <!--Brewing Names-->
     <string name="angry_chair_name">Angry Chair Brewing</string>
@@ -66,6 +44,9 @@
     <string name="coppertail_website">https://coppertailbrewing.com/</string>
     <string name="brew_bus_website">https://brewbususa.com/</string>
 
+    <!--Attractions Category-->
+    <string name="category_attractions">Attractions</string>
+
     <!--Attractions Names-->
     <string name="adventure_island_name">Adventure Island</string>
     <string name="clearwater_marine_aquarium_name">Clearwater Marine Aquarium</string>
@@ -100,6 +81,9 @@
     <string name="florida_aquarium_website">http://www.flaquarium.org/</string>
     <string name="florida_state_fairgrounds_website">http://www.floridastatefair.com/</string>
     <string name="busch_gardens_website">https://buschgardens.com/</string>
+
+    <!--Shopping Category-->
+    <string name="category_shopping">Shopping</string>
 
     <!--Shopping Names-->
     <string name="international_plaza_name">International Plaza and Bay Street</string>
@@ -136,6 +120,9 @@
     <string name="westfield_citrus_park_website">https://www.westfield.com/citruspark</string>
     <string name="university_mall_website">https://www.universitymalltampa.com/</string>
 
+    <!--Arts Category-->
+    <string name="category_arts">Arts</string>
+
     <!--Arts Names-->
     <string name="the_dali_museum_name">The Dali Museum</string>
     <string name="glazer_childrens_museum_name">Glazer Children\'s Museum</string>
@@ -170,6 +157,9 @@
     <string name="tampa_museum_of_art_website">http://tampamuseum.org/</string>
     <string name="straz_center_website">https://www.strazcenter.org/</string>
     <string name="the_tampa_theatre_website">http://www.tampatheatre.org/</string>
+
+    <!--Nightlife Category-->
+    <string name="category_nightlife">Nightlife</string>
 
     <!--Nightlife Names-->
     <string name="ybor_city_name">Ybor City</string>
@@ -206,6 +196,9 @@
     <string name="bahama_breeze_website">https://www.bahamabreeze.com/locations/fl/tampa/tampa/3004</string>
     <string name="hyde_park_village_website">https://www.hydeparkvillage.com/</string>
 
+    <!--LGBT Category-->
+    <string name="category_lgbt">LGBT</string>
+
     <!--LGBT Names-->
     <string name="bradleys_name">Bradley\'s on 7th</string>
     <string name="flamingo_resort_name">Flamingo Resort</string>
@@ -241,6 +234,9 @@
     <string name="enigma_website">http://www.enigmastpete.com/</string>
     <string name="city_side_website">https://www.citysideloungetampa.com//</string>
 
+    <!--Food Category-->
+    <string name="category_food">Food</string>
+
     <!--Food Names-->
     <string name="la_terraza_restaurant_name">La Terrazza Restaurant</string>
     <string name="eddie_sam_name">Eddie and Sam\'s N.Y. Pizza</string>
@@ -275,6 +271,9 @@
     <string name="columbia_restaurant_website">http://www.columbiarestaurant.com/</string>
     <string name="green_lemon_website">http://www.eatgreenlemon.com/</string>
     <string name="la_teresita_restaurant_website">http://www.lateresitarestaurant.com/</string>
+
+    <!--Outdoor Category-->
+    <string name="category_outdoor">Outdoor</string>
 
     <!--Outdoor Names-->
     <string name="clearwater_beach_name">Clearwater Beach</string>
