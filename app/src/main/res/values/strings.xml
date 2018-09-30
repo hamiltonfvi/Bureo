@@ -2,47 +2,15 @@
     <string name="app_name">Bureo</string>
 
     <string name="image_description">TampaBay Image</string>
+    <string name="website_icon">Website Icon</string>
+    <string name="phone_number_icon">Phone Number Icon</string>
+    <string name="address_icon">Address Icon</string>
 
     <string name="about_city">About the city</string>
 
     <string name="explore">Explore</string>
 
-    <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover blue skies and sunshine, a sparkling waterfront, world-class chefs, family fun, and a century of Cuban culture – all in Florida’s most diverse travel destination. In Tampa Bay, our hospitality is as warm as our weather.</string>
-
-    <!--Brewing Names-->
-    <string name="angry_chair_name">Angry Chair Brewing</string>
-    <string name="cigar_city_name">Cigar City Brewing</string>
-    <string name="ulele_name">Ulele</string>
-    <string name="coppertail_name">Coppertail Brewing Company</string>
-    <string name="brew_bus_name">Brew Bus Brewing</string>
-
-    <!--Brewing Descriptions-->
-    <string name="angry_chair_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
-    <string name="cigar_city_description">Cigar City Brewing, makers of Jai Alai IPA® and Hunahpu’s Imperial Stout®, was founded in 2009 by Joey Redner with the goal of creating world-class beer that reflected the flavors and history of the Tampa region. This unique approach resonated with local and national markets and the brewery has quickly to produce over 90,000 barrels of beer annually. Along with Oskar Blues Brewery, Perrin Brewing, Squatters Craft Beers and Wasatch Brewery, Cigar City Brewing is a part of CANarchy, a craft brewing collective that represents the largest canned craft beer supplier in the country.</string>
-    <string name="ulele_description">Located on the Tampa Riverwalk, Ulele overlooks the Hillsborough River in Tampa Heights. Serving native-inspired foods and spirits. Intricately flavored, visually appealing dishes prepared on our round 10’ barbacoa grill. Lunch and dinner served daily. On-site brewery. 400 yards from the Straz Center. Outdoor bar and outdoor seating with waterfront views. Beer and cocktails may be ordered to go and served in a special cup, which allows guests to drink legally along the 2.4-mile Tampa Riverwalk. Closed Thanksgiving and Christmas. In addition to auto, bike or pedestrian arrivals, you also can boat, canoe or kayak and dock next door at Water Works Park. A second location is at Tampa International Airport, in Airside C, with Southwest and Frontier Airlines. Please see our website for the most current menu.</string>
-    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders.</string>
-    <string name="brew_bus_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
-
-    <!--Brewing Addresses-->
-    <string name="angry_chair_address">6401 N. Florida Ave, Tampa,FL, 33604</string>
-    <string name="cigar_city_address">3924 W Spruce St, Tampa, FL, 33607</string>
-    <string name="ulele_address">1810 N Highland Ave, Tampa, FL, 33602</string>
-    <string name="coppertail_address">2601 E 2nd Ave, Tampa, FL, 33605</string>
-    <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
-
-    <!--Brewing Phone Numbers-->
-    <string name="angry_chair_phone_number">813 690\/3599</string>
-    <string name="cigar_city_phone_number">813 348\/6363</string>
-    <string name="ulele_phone_number">813 999\/4952</string>
-    <string name="coppertail_phone_number">813 247\/1500</string>
-    <string name="bre_bus_phone_number">813 990\/7310</string>
-
-    <!--Brewing Websites-->
-    <string name="angry_chair_website">https://angrychairbrewing.com/</string>
-    <string name="cigar_city_website">https://cigarcitybrewing.com/</string>
-    <string name="ulele_website">https://ulele.com/</string>
-    <string name="coppertail_website">https://coppertailbrewing.com/</string>
-    <string name="brew_bus_website">https://brewbususa.com/</string>
+    <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover blue skies and sunshine, a sparkling waterfront, world-class chefs, family fun, and a century of Cuban culture – all in Florida’s most diverse travel destination. In Tampa Bay, our hospitality is as warm as our weather. \n \nWith cold weather in place for many, Tampa Bay is where you want to go to get nice and toasty. With its mix of historic architecture and modern landmarks, a culture infused with Cuban and Spanish flavors, vibrant business districts and beautiful waterways, Tampa is a wonderful place to work, play and unwind. \n \nTampa is known for being a great city for all ages and tastes, offering hotel accommodations that fit any budget and catering to everyone, including families, outdoor adventure seekers, and foodies and wine connoisseurs. Once known as a melting pot for all cultures and settlers, Tampa remains a welcoming place for those seeking fun, opportunity and a chance to try new things. While it’s only a short, 30-minute drive to the beaches, Tampa’s real strengths lie in its city life.</string>
 
     <!--Attractions Category-->
     <string name="category_attractions">Attractions</string>
@@ -162,13 +130,24 @@
     <string name="category_nightlife">Nightlife</string>
 
     <!--Nightlife Names-->
+
     <string name="ybor_city_name">Ybor City</string>
     <string name="jannus_live_name">Jannys Live</string>
     <string name="whiskey_north_name">Whiskey North</string>
     <string name="bahama_breeze_name">Bahama Breeze</string>
     <string name="hyde_park_village_name">Hyde Park Village</string>
+    <string name="angry_chair_name">Angry Chair Brewing</string>
+    <string name="cigar_city_name">Cigar City Brewing</string>
+    <string name="ulele_name">Ulele</string>
+    <string name="coppertail_name">Coppertail Brewing Company</string>
+    <string name="brew_bus_name">Brew Bus Brewing</string>
 
     <!--Nightlife Descriptions-->
+    <string name="angry_chair_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
+    <string name="cigar_city_description">Cigar City Brewing, makers of Jai Alai IPA® and Hunahpu’s Imperial Stout®, was founded in 2009 by Joey Redner with the goal of creating world-class beer that reflected the flavors and history of the Tampa region. This unique approach resonated with local and national markets and the brewery has quickly to produce over 90,000 barrels of beer annually. Along with Oskar Blues Brewery, Perrin Brewing, Squatters Craft Beers and Wasatch Brewery, Cigar City Brewing is a part of CANarchy, a craft brewing collective that represents the largest canned craft beer supplier in the country.</string>
+    <string name="ulele_description">Located on the Tampa Riverwalk, Ulele overlooks the Hillsborough River in Tampa Heights. Serving native-inspired foods and spirits. Intricately flavored, visually appealing dishes prepared on our round 10’ barbacoa grill. Lunch and dinner served daily. On-site brewery. 400 yards from the Straz Center. Outdoor bar and outdoor seating with waterfront views. Beer and cocktails may be ordered to go and served in a special cup, which allows guests to drink legally along the 2.4-mile Tampa Riverwalk. Closed Thanksgiving and Christmas. In addition to auto, bike or pedestrian arrivals, you also can boat, canoe or kayak and dock next door at Water Works Park. A second location is at Tampa International Airport, in Airside C, with Southwest and Frontier Airlines. Please see our website for the most current menu.</string>
+    <string name="coppertail_description">Enjoy Florida inspired, Tampa brewed craft beer in our tasting room. Centrally located at the crossroads of Ybor City and Downtown Tampa, celebrate happy hour or a friendly night out with our knowledgeable bartenders.</string>
+    <string name="brew_bus_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
     <string name="ybor_city_description">Lively Ybor City is known for boutiques and vintage shops on 7th Avenue, which also hosts Cuban and Latin American eateries. The Centro Ybor mall offers indie fast food, bars, and a cinema. Housed in a 1920s bakery, Ybor City State Museum has exhibits on the cigar industry and the area’s immigrant communities. The GaYBOR district around 7th Avenue and 15th Street attracts a diverse crowd to its bars and clubs.</string>
     <string name="jannus_live_description">Jannus Live is an outdoor music venue in St. Petersburg, Florida. Located in the Downtown St. Petersburg Historic District, the courtyard venue has hosted numerous concerts for local and mainstream artists.</string>
     <string name="whiskey_north_description">Adirondack decor surrounds at this high-end nightclub with 2 levels and a packed calendar of events.</string>
@@ -181,6 +160,11 @@
     <string name="whiskey_north_address">11921 North Dale Mabry Hwy, Tampa, Florida 33618 </string>
     <string name="bahama_breeze_address">3045 N Rocky Point Dr E, Tampa, FL 33607</string>
     <string name="hyde_park_village_address">1623 W Snow Cir, Tampa, FL 33606</string>
+    <string name="angry_chair_address">6401 N. Florida Ave, Tampa,FL, 33604</string>
+    <string name="cigar_city_address">3924 W Spruce St, Tampa, FL, 33607</string>
+    <string name="ulele_address">1810 N Highland Ave, Tampa, FL, 33602</string>
+    <string name="coppertail_address">2601 E 2nd Ave, Tampa, FL, 33605</string>
+    <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
 
     <!--Nightlife Phone Numbers-->
     <string name="ybor_city_phone_number">813 274\/7936</string>
@@ -188,6 +172,11 @@
     <string name="whiskey_north_phone_number">813 968\/1515</string>
     <string name="bahama_breeze_phone_number">813 289\/7922</string>
     <string name="hyde_park_village_phone_number">813 251\/3500</string>
+    <string name="angry_chair_phone_number">813 690\/3599</string>
+    <string name="cigar_city_phone_number">813 348\/6363</string>
+    <string name="ulele_phone_number">813 999\/4952</string>
+    <string name="coppertail_phone_number">813 247\/1500</string>
+    <string name="brew_bus_phone_number">813 990\/7310</string>
 
     <!--Nightlife Websites-->
     <string name="ybor_city_website">https://yborcityonline.com/</string>
@@ -195,6 +184,11 @@
     <string name="whiskey_north_website">http://www.whiskeynorth.com/</string>
     <string name="bahama_breeze_website">https://www.bahamabreeze.com/locations/fl/tampa/tampa/3004</string>
     <string name="hyde_park_village_website">https://www.hydeparkvillage.com/</string>
+    <string name="angry_chair_website">https://angrychairbrewing.com/</string>
+    <string name="cigar_city_website">https://cigarcitybrewing.com/</string>
+    <string name="ulele_website">https://ulele.com/</string>
+    <string name="coppertail_website">https://coppertailbrewing.com/</string>
+    <string name="brew_bus_website">https://brewbususa.com/</string>
 
     <!--LGBT Category-->
     <string name="category_lgbt">LGBT</string>

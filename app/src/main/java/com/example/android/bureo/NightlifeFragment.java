@@ -30,9 +30,14 @@ public class NightlifeFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
+        places.add(new Places(R.drawable.angry_chair, R.string.angry_chair_name, R.string.angry_chair_description, R.string.angry_chair_address, R.string.angry_chair_phone_number, R.string.angry_chair_website));
         places.add(new Places(R.drawable.bahama_breeze, R.string.bahama_breeze_name, R.string.bahama_breeze_description, R.string.bahama_breeze_address, R.string.bahama_breeze_phone_number, R.string.bahama_breeze_website));
+        places.add(new Places(R.drawable.brew_bus, R.string.brew_bus_name, R.string.brew_bus_description, R.string.brew_bus_address, R.string.brew_bus_phone_number, R.string.brew_bus_website));
+        places.add(new Places(R.drawable.cigar_city, R.string.cigar_city_name, R.string.cigar_city_description, R.string.cigar_city_address, R.string.cigar_city_phone_number, R.string.cigar_city_website));
+        places.add(new Places(R.drawable.coppertail, R.string.coppertail_name, R.string.coppertail_description, R.string.coppertail_address, R.string.coppertail_phone_number, R.string.coppertail_website));
         places.add(new Places(R.drawable.hyde_park, R.string.hyde_park_village_name, R.string.hyde_park_village_description, R.string.hyde_park_village_address, R.string.hyde_park_village_phone_number, R.string.hyde_park_village_website));
         places.add(new Places(R.drawable.jannus_live, R.string.jannus_live_name, R.string.jannus_live_description, R.string.jannus_live_address, R.string.jannus_live_phone_number, R.string.jannus_live_website));
+        places.add(new Places(R.drawable.ulele, R.string.ulele_name, R.string.ulele_description, R.string.ulele_address, R.string.ulele_phone_number, R.string.ulele_website));
         places.add(new Places(R.drawable.whiskey_north, R.string.whiskey_north_name, R.string.whiskey_north_description, R.string.whiskey_north_address, R.string.whiskey_north_phone_number, R.string.whiskey_north_website));
         places.add(new Places(R.drawable.ybor_city, R.string.ybor_city_name, R.string.ybor_city_description, R.string.ybor_city_address, R.string.ybor_city_phone_number, R.string.ybor_city_website));
 
