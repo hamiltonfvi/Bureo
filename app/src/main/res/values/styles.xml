@@ -41,6 +41,7 @@
 
     <style name="CustomTabAppearance" parent="TextAppearance.Design.Tab">
         <item name="textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
     </style>
 
     <!-- ListView TextView Items -->

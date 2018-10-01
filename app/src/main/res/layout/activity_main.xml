@@ -4,7 +4,6 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fillViewport="true"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -31,10 +30,10 @@
                 android:layout_height="wrap_content"
                 android:layout_alignParentEnd="true"
                 android:layout_alignParentBottom="true"
-                android:background="@color/colorAccent"
+                android:background="@drawable/buttonbehavior"
                 android:padding="@dimen/dimen_16dp"
                 android:text="@string/explore"
-                android:textColor="@color/colorText"
+                android:textColor="#FFFFFF"
                 android:textStyle="bold" />
 
         </RelativeLayout>

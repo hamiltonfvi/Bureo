@@ -29,11 +29,11 @@ public class LGBTFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.bradleys, R.string.bradleys_name, R.string.bradleys_description, R.string.bradleys_address, R.string.bradleys_phone_number, R.string.bradleys_website));
-        places.add(new Places(R.drawable.city_side, R.string.city_side_name, R.string.city_side_description, R.string.city_side_address, R.string.city_side_phone_number, R.string.city_side_website));
-        places.add(new Places(R.drawable.enigma, R.string.enigma_name, R.string.enigma_description, R.string.enigma_address, R.string.enigma_phone_number, R.string.enigma_website));
-        places.add(new Places(R.drawable.flamingo_resort, R.string.flamingo_resort_name, R.string.flamingo_resort_description, R.string.flamingo_resort_address, R.string.flamingo_resort_phone_number, R.string.flamingo_resort_website));
-        places.add(new Places(R.drawable.the_honey_pot, R.string.the_honey_pot_name, R.string.the_honey_pot_description, R.string.the_honey_pot_address, R.string.the_honey_pot_phone_number, R.string.the_honey_pot_website));
+        places.add(new Places(R.drawable.bradleys, R.string.bradleys_name, R.string.bradleys_short_description, R.string.bradleys_description, R.string.bradleys_address, R.string.bradleys_phone_number, R.string.bradleys_website));
+        places.add(new Places(R.drawable.city_side, R.string.city_side_name, R.string.city_side_short_description, R.string.city_side_description, R.string.city_side_address, R.string.city_side_phone_number, R.string.city_side_website));
+        places.add(new Places(R.drawable.enigma, R.string.enigma_name, R.string.enigma_short_description, R.string.enigma_description, R.string.enigma_address, R.string.enigma_phone_number, R.string.enigma_website));
+        places.add(new Places(R.drawable.flamingo_resort, R.string.flamingo_resort_name, R.string.flamingo_resort_short_description, R.string.flamingo_resort_description, R.string.flamingo_resort_address, R.string.flamingo_resort_phone_number, R.string.flamingo_resort_website));
+        places.add(new Places(R.drawable.the_honey_pot, R.string.the_honey_pot_name, R.string.the_honey_pot_short_description, R.string.the_honey_pot_description, R.string.the_honey_pot_address, R.string.the_honey_pot_phone_number, R.string.the_honey_pot_website));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.

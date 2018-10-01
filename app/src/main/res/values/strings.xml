@@ -10,7 +10,7 @@
 
     <string name="explore">Explore</string>
 
-    <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover blue skies and sunshine, a sparkling waterfront, world-class chefs, family fun, and a century of Cuban culture – all in Florida’s most diverse travel destination. In Tampa Bay, our hospitality is as warm as our weather. \n \nWith cold weather in place for many, Tampa Bay is where you want to go to get nice and toasty. With its mix of historic architecture and modern landmarks, a culture infused with Cuban and Spanish flavors, vibrant business districts and beautiful waterways, Tampa is a wonderful place to work, play and unwind. \n \nTampa is known for being a great city for all ages and tastes, offering hotel accommodations that fit any budget and catering to everyone, including families, outdoor adventure seekers, and foodies and wine connoisseurs. Once known as a melting pot for all cultures and settlers, Tampa remains a welcoming place for those seeking fun, opportunity and a chance to try new things. While it’s only a short, 30-minute drive to the beaches, Tampa’s real strengths lie in its city life.</string>
+    <string name="tampabay_description">The hip, urban heart of Florida’s Gulf coast beats in Tampa Bay. Discover Florida’s most diverse travel destination. \n \nWith its mix of historic architecture and modern landmarks, a culture infused with Cuban and Spanish flavors, vibrant business districts and beautiful waterways, Tampa is a wonderful place to work, play and unwind. \n \nTampa is known for being a great city for all ages and tastes, offering hotel accommodations that fit any budget and catering to everyone, including families, outdoor adventure seekers, and foodies and wine connoisseurs. Once known as a melting pot for all cultures and settlers, Tampa remains a welcoming place for those seeking fun, opportunity and a chance to try new things. While it’s only a short, 30-minute drive to the beaches, Tampa’s real strengths lie in its city life.</string>
 
     <!--Attractions Category-->
     <string name="category_attractions">Attractions</string>
@@ -21,6 +21,13 @@
     <string name="florida_aquarium_name">Florida Aquarium</string>
     <string name="florida_state_fairgrounds_name">Florida State Fairgrounds</string>
     <string name="busch_gardens_name">Busch Gardens Tampa Bay</string>
+
+    <!--Attractions Short Descriptions-->
+    <string name="adventure_island_short_description">Located right across the street from Busch Gardens® Tampa, Adventure Island® is 30 acres of water-drenched fun.</string>
+    <string name="clearwater_marine_aquarium_short_description">Go beyond a typical aquarium experience and immerse yourself in the world of marine life rescue at Clearwater Marine Aquarium.</string>
+    <string name="florida_aquarium_short_description">Come see why The Florida Aquarium is one of the top aquariums in the country!</string>
+    <string name="florida_state_fairgrounds_short_description">The Fairgrounds is home to the annual Florida State Fair.</string>
+    <string name="busch_gardens_short_description">Busch Gardens Tampa is a 335-acre African-themed animal theme park located in the city of Tampa, Florida.</string>
 
     <!--Attractions Descriptions-->
     <string name="adventure_island_description">Located right across the street from Busch Gardens® Tampa, Adventure Island® is 30 acres of water-drenched fun in the sun featuring the ultimate combination of high-speed thrills and tropical, tranquil surroundings for guests of all ages. Race down rapids, dig your toes into the sand or relax all day in a private cabana. New at Adventure Island, hurtle high and experience a feeling of weightlessness on Colossal Curl™, Adventure Island’s newest family thrill slide.</string>
@@ -60,6 +67,13 @@
     <string name="westfield_citrus_park_name">Westfield Citrus Park</string>
     <string name="university_mall_name">University Mall</string>
 
+    <!--Shopping Short Descriptions-->
+    <string name="international_plaza_short_description">200 stores/16 restaurants. Adjacent to Tampa International Airport.</string>
+    <string name="tampa_premium_outlets_short_description">Tampa Premium Outlets is a 441,000 square-foot outlet shopping destination.</string>
+    <string name="westshore_plaza_short_description">WestShore Plaza is one of two enclosed shopping malls located in the Westshore business district of Tampa, Florida.</string>
+    <string name="westfield_citrus_park_short_description">Westfield Citrus Park is a shopping mall in Citrus Park, Florida</string>
+    <string name="university_mall_short_description">University Mall is a shopping mall located near the University of South Florida.</string>
+
     <!--Shopping Descriptions-->
     <string name="international_plaza_description">200 stores/16 restaurants. Neiman Marcus, Nordstrom, Dillard\'s, Tiffany and Co., Louis Vuitton, Gucci, Apple, Crate and Barrel, The Cheesecake Factory, The Capital Grille and Renaissance Hotel w/courtesy shuttle. Adjacent to Tampa International Airport.</string>
     <string name="tampa_premium_outlets_description">Tampa Premium Outlets is a 441,000 square-foot outlet shopping destination filled with over 115 retailers, delivering great brands with 25% - 65% off every day savings. Conveniently located on the intersection of I-75 and State Road 56, this outdoor shopping Center features brands including Saks Fifth Avenue OFF 5TH, Michael Kors, Coach, Polo Ralph Lauren Factory Store, Tommy Hilfiger, Under Armour, Calvin Klein and many more. Visit Simon Guest Services located in Market Hall for more information about our VIP Shopper Club and Savings Passport.</string>
@@ -97,6 +111,13 @@
     <string name="tampa_museum_of_art_name">Tampa Museum of Art</string>
     <string name="straz_center_name">Straz Center</string>
     <string name="the_tampa_theatre_name">The Tampa Theatre</string>
+
+    <!--Arts Short Descriptions-->
+    <string name="the_dali_museum_short_description">The Salvador Dalí Museum is an art museum dedicated to the works of Salvador Dalí.</string>
+    <string name="glazer_childrens_museum_short_description">The Glazer Children\'s Museum is a children\'s museum next to the Tampa Museum of Art and Curtis Hixon Park.</string>
+    <string name="tampa_museum_of_art_short_description">The Tampa Museum of Art exhibits modern and contemporary art, as well as Greek, Roman, and Etruscan antiquities.</string>
+    <string name="straz_center_short_description">The David A. Straz Jr. Center for the Performing Arts opened its doors as the Tampa Bay Performing Arts Center.</string>
+    <string name="the_tampa_theatre_short_description">The Tampa Theatre features a wide range of independent, foreign, and documentary films on a daily basis.</string>
 
     <!--Arts Descriptions-->
     <string name="the_dali_museum_description">The Salvador Dalí Museum is an art museum in St. Petersburg, Florida, United States, dedicated to the works of Salvador Dalí. It houses the largest collection of Dalí\'s works outside Europe. It is located on the downtown St. Petersburg waterfront by 5th Avenue Southeast, Bay Shore Drive, and Dan Wheldon Way.</string>
@@ -141,6 +162,18 @@
     <string name="ulele_name">Ulele</string>
     <string name="coppertail_name">Coppertail Brewing Company</string>
     <string name="brew_bus_name">Brew Bus Brewing</string>
+
+    <!--Nightlife Short Descriptions-->
+    <string name="angry_chair_short_description">The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
+    <string name="cigar_city_short_description">Cigar City Brewing is a part of CANarchy, a craft brewing collective that represents the largest canned craft beer supplier in the country.</string>
+    <string name="ulele_short_description">Ulele overlooks the Hillsborough River in Tampa Heights. Lunch and dinner served daily.</string>
+    <string name="coppertail_short_description">Celebrate happy hour or a friendly night out with our knowledgeable bartenders.</string>
+    <string name="brew_bus_short_description">Visit us at The Brew Bus Terminal in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
+    <string name="ybor_city_short_description">Lively Ybor City is known for boutiques and vintage shops on 7th Avenue, which also hosts Cuban and Latin American eateries.</string>
+    <string name="jannus_live_short_description">The courtyard venue has hosted numerous concerts for local and mainstream artists.</string>
+    <string name="whiskey_north_short_description">Adirondack decor surrounds at this high-end nightclub with 2 levels and a packed calendar of events.</string>
+    <string name="bahama_breeze_short_description">Laid-back chain eatery featuring Caribbean entrees and tropical cocktails amid beachy decor.</string>
+    <string name="hyde_park_village_short_description">Hyde Park Village is an upscale open-air shopping district located in the neighborhood of Hyde Park in Tampa, Florida.</string>
 
     <!--Nightlife Descriptions-->
     <string name="angry_chair_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
@@ -201,6 +234,13 @@
     <string name="city_side_name">City Side</string>
 
     <!--LGBT Descriptions-->
+    <string name="bradleys_short_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
+    <string name="flamingo_resort_short_description">This LGBT-friendly adults-only resort is 6 miles from the beach and The Dali Museum, as well as Downtown\'s historic district.</string>
+    <string name="the_honey_pot_short_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
+    <string name="enigma_short_description">Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows and sidewalk tables.</string>
+    <string name="city_side_short_description">Visit us at The Brew Bus Terminal and Tasting Room for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
+
+    <!--LGBT Descriptions-->
     <string name="bradleys_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
     <string name="flamingo_resort_description">This LGBT-friendly adults-only resort is 6 miles from the beach and The Dali Museum, as well as Downtown\'s historic district.</string>
     <string name="the_honey_pot_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
@@ -237,6 +277,13 @@
     <string name="columbia_restaurant_name">Columbia Restaurant</string>
     <string name="green_lemon_name">Green Lemon</string>
     <string name="la_teresita_restaurant_name">La Teresita Restaurant</string>
+
+    <!--Food Short Descriptions-->
+    <string name="la_terraza_restaurant_short_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
+    <string name="eddie_sam_short_description">Thin-crust pizza by the pie or slice made with New York water at a casual, counter-serve spot.</string>
+    <string name="columbia_restaurant_short_description">Family-owned and operated for more than 113 years and award-winning Spanish/Cuban cuisine and wine list.</string>
+    <string name="green_lemon_short_description">Modern hangout offering upbeat Mexican menu and drinks for brunch, lunch and dinner.</string>
+    <string name="la_teresita_restaurant_short_description">Family-run eatery serving a menu of Cuban and Spanish standards in homey surroundings.</string>
 
     <!--Food Descriptions-->
     <string name="la_terraza_restaurant_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
@@ -276,8 +323,15 @@
     <string name="sunshine_skyway_bridge_name">Sunshine Skyway Bridge</string>
     <string name="ifly_name">iFLY</string>
 
+    <!--Outdoor Short Descriptions-->
+    <string name="clearwater_beach_short_description">Come sunset, Pier 60 hosts a nightly festival with street performers and craft vendors.</string>
+    <string name="curtis_hixon_water_park_short_description">Features a unique urban design, sustainable construction, and operational features such as water for irrigation and LED lighting.</string>
+    <string name="riverwalk_short_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
+    <string name="sunshine_skyway_bridge_short_description">The Bob Graham Sunshine Skyway Bridge is a bridge with a cable-stayed main span and a total length of 21,877 feet.</string>
+    <string name="ifly_short_description">Feel the thrill of skydiving without jumping out of an airplane. A facility powered by a state-of-the-art vertical wind tunnel.</string>
+
     <!--Outdoor Descriptions-->
-    <string name="clearwater_beach_description">Angry Chair Brewing is located in the heart of Seminole Heights. The tasting is open to the public and features our forward thinking beers as well as beer from other local Florida breweries.</string>
+    <string name="clearwater_beach_description">Laid-back Clearwater Beach is known for its namesake stretch of soft, white sand, which draws visitors year-round for jet-skiing, parasailing, and stand-up paddleboarding in its calm waters. Cyclists and rollerbladers glide along a winding beachfront promenade lined with casual seafood restaurants and cafes. Come sunset, Pier 60 hosts a nightly festival with street performers and craft vendors.</string>
     <string name="curtis_hixon_water_park_description">Curtis Hixon Waterfront Park is an 8-acre public park located along the Hillsborough river in downtown Tampa, Florida that opened in its current configuration in 2010. It is adjacent to the Tampa Riverwalk, Florida Museum of Photographic Arts, Tampa Museum of Art, Glazer Children\'s Museum, and Rivergate Tower.</string>
     <string name="riverwalk_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
     <string name="sunshine_skyway_bridge_description">The Bob Graham Sunshine Skyway Bridge, known to locals as the Sunshine Skyway Bridge or more casually the Skyway, is a bridge spanning Tampa Bay, Florida, with a cable-stayed main span, and a total length of 21,877 feet.</string>

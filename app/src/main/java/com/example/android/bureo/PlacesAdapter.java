@@ -1,6 +1,5 @@
 package com.example.android.bureo;
 
-import android.support.v4.content.ContextCompat;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.ArrayAdapter;
@@ -53,12 +52,11 @@ public class PlacesAdapter extends ArrayAdapter<Places> {
         placeItemTitle.setText(currentPlace.getItemTitle());
 
         //Find the TextView in the list_item.xml layout with the ID version_name
-        TextView placeItemDescription = listItemView.findViewById(R.id.item_description);
+        TextView placeItemShortDescription = listItemView.findViewById(R.id.item_short_description);
 
         // Get the version number from the current object and
         // set this text on the name TextView
-        placeItemDescription.setText(currentPlace.getItemDescription());
-
+        placeItemShortDescription.setText(currentPlace.getItemShortDescription());
 
         // Return the whole list item layout (containing 2 TextViews and an ImageView)
         // so that it can be shown in the ListView

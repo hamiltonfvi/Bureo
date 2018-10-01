@@ -29,11 +29,11 @@ public class ArtFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.glazer_childrens_museum, R.string.glazer_childrens_museum_name, R.string.glazer_childrens_museum_description, R.string.glazer_childrens_museum_address, R.string.glazer_childrens_museum_phone_number, R.string.glazer_childrens_museum_website));
-        places.add(new Places(R.drawable.straz_center, R.string.straz_center_name, R.string.straz_center_description, R.string.straz_center_address, R.string.straz_center_phone_number, R.string.straz_center_website));
-        places.add(new Places(R.drawable.tampa_museum_of_art, R.string.tampa_museum_of_art_name, R.string.tampa_museum_of_art_description, R.string.tampa_museum_of_art_address,R.string.tampa_museum_of_art_phone_number, R.string.tampa_museum_of_art_website));
-        places.add(new Places(R.drawable.the_dali_museum, R.string.the_dali_museum_name, R.string.the_dali_museum_description, R.string.the_dali_museum_address,R.string.the_dali_museum_phone_number, R.string.the_dali_museum_website));
-        places.add(new Places(R.drawable.the_tampa_theatre, R.string.the_tampa_theatre_name, R.string.the_tampa_theatre_description, R.string.the_tampa_theatre_address,R.string.the_tampa_theatre_phone_number, R.string.the_tampa_theatre_website));
+        places.add(new Places(R.drawable.glazer_childrens_museum, R.string.glazer_childrens_museum_name, R.string.glazer_childrens_museum_short_description, R.string.glazer_childrens_museum_description, R.string.glazer_childrens_museum_address, R.string.glazer_childrens_museum_phone_number, R.string.glazer_childrens_museum_website));
+        places.add(new Places(R.drawable.straz_center, R.string.straz_center_name, R.string.straz_center_short_description, R.string.straz_center_description, R.string.straz_center_address, R.string.straz_center_phone_number, R.string.straz_center_website));
+        places.add(new Places(R.drawable.tampa_museum_of_art, R.string.tampa_museum_of_art_name, R.string.tampa_museum_of_art_short_description, R.string.tampa_museum_of_art_description, R.string.tampa_museum_of_art_address, R.string.tampa_museum_of_art_phone_number, R.string.tampa_museum_of_art_website));
+        places.add(new Places(R.drawable.the_dali_museum, R.string.the_dali_museum_name, R.string.the_dali_museum_short_description, R.string.the_dali_museum_description, R.string.the_dali_museum_address, R.string.the_dali_museum_phone_number, R.string.the_dali_museum_website));
+        places.add(new Places(R.drawable.the_tampa_theatre, R.string.the_tampa_theatre_name, R.string.the_tampa_theatre_short_description, R.string.the_tampa_theatre_description, R.string.the_tampa_theatre_address, R.string.the_tampa_theatre_phone_number, R.string.the_tampa_theatre_website));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.
@@ -58,11 +58,11 @@ public class ArtFragment extends Fragment {
 
                 Intent i = new Intent(getActivity(), PlaceDetails.class);
                 i.putExtra("image", mplace.getImageResourceId());
-                i.putExtra("title",mplace.getItemTitle());
+                i.putExtra("title", mplace.getItemTitle());
                 i.putExtra("description", mplace.getItemDescription());
-                i.putExtra("address",mplace.getItemAddress());
-                i.putExtra("phonenumber",mplace.getItemPhoneNumber());
-                i.putExtra("website",mplace.getItemWebSite());
+                i.putExtra("address", mplace.getItemAddress());
+                i.putExtra("phonenumber", mplace.getItemPhoneNumber());
+                i.putExtra("website", mplace.getItemWebSite());
 
                 startActivity(i);
             }

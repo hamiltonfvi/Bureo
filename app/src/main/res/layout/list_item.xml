@@ -30,11 +30,12 @@
                 android:layout_width="wrap_content"
                 android:layout_height="@dimen/dimen_25dp"
                 android:textColor="@color/colorText"
+                android:gravity="top"
                 android:textSize="@dimen/font_small"
                 android:textStyle="bold" />
 
             <TextView
-                android:id="@+id/item_description"
+                android:id="@+id/item_short_description"
                 android:layout_width="wrap_content"
                 android:layout_height="75dp"
                 android:textColor="@color/colorText"

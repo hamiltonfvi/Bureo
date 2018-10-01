@@ -57,7 +57,6 @@ public class CategoryAdapter extends FragmentPagerAdapter {
     /**
      * Return the tab titles.
      */
-
     @Override
     public CharSequence getPageTitle(int position) {
         if (position == 0) {

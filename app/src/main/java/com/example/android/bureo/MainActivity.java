@@ -5,6 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+import android.media.MediaPlayer;
 
 public class MainActivity extends AppCompatActivity {
 
@@ -20,6 +21,8 @@ public class MainActivity extends AppCompatActivity {
         explore.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                final MediaPlayer click = MediaPlayer.create(getApplicationContext(), R.raw.click);
+                click.start();
                 Intent i = new Intent(getApplicationContext(), PagerActivity.class);
                 startActivity(i);
             }

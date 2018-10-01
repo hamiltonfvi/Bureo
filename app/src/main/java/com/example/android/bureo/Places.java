@@ -8,6 +8,9 @@ public class Places {
     //Title of item
     private int mItemTitle;
 
+    //Short Description of the item
+    private int mItemShortDescription;
+
     //Description of the item
     private int mItemDescription;
 
@@ -25,14 +28,16 @@ public class Places {
      *
      * @param itemImage       it's drawable resource id of the image asset
      * @param itemTitle       it's item title of the place
+     * @param itemShortDescription it's the item short description
      * @param itemDescription it's the item description of the place
      * @param itemAddress it's the item website of the place
      * @param itemPhoneNumber it's the item phone number of the place
      * @param itemWebSite it's the item Website of the place
      */
-    public Places(int itemImage, int itemTitle, int itemDescription, int itemAddress, int itemPhoneNumber, int itemWebSite) {
+    public Places(int itemImage, int itemTitle, int itemShortDescription, int itemDescription, int itemAddress, int itemPhoneNumber, int itemWebSite) {
         mItemImage = itemImage;
         mItemTitle = itemTitle;
+        mItemShortDescription = itemShortDescription;
         mItemDescription = itemDescription;
         mItemAddress = itemAddress;
         mItemPhoneNumber = itemPhoneNumber;
@@ -51,6 +56,13 @@ public class Places {
      */
     public int getItemTitle(){
         return mItemTitle;
+    }
+
+    /**
+     *  Get the Item's short Description
+     */
+    public int getItemShortDescription(){
+        return mItemShortDescription;
     }
 
     /**

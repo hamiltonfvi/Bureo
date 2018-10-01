@@ -29,11 +29,11 @@ public class FoodFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.columbia_restaurant, R.string.columbia_restaurant_name, R.string.columbia_restaurant_description, R.string.columbia_restaurant_address, R.string.columbia_restaurant_phone_number, R.string.columbia_restaurant_website));
-        places.add(new Places(R.drawable.eddie_sam, R.string.eddie_sam_name, R.string.eddie_sam_description, R.string.eddie_sam_address, R.string.eddie_sam_phone_number, R.string.eddie_sam_website));
-        places.add(new Places(R.drawable.green_lemon, R.string.green_lemon_name, R.string.green_lemon_description, R.string.green_lemon_address, R.string.green_lemon_phone_number, R.string.green_lemon_website));
-        places.add(new Places(R.drawable.la_teresita_restaurant, R.string.la_teresita_restaurant_name, R.string.la_teresita_restaurant_description, R.string.la_teresita_restaurant_address, R.string.la_teresita_restaurant_phone_number, R.string.la_teresita_restaurant_website));
-        places.add(new Places(R.drawable.la_terraza_restaurant, R.string.la_terraza_restaurant_name, R.string.la_terraza_restaurant_description, R.string.la_terraza_restaurant_address, R.string.la_terraza_restaurant_phone_number, R.string.la_terraza_restaurant_website));
+        places.add(new Places(R.drawable.columbia_restaurant, R.string.columbia_restaurant_name, R.string.columbia_restaurant_short_description, R.string.columbia_restaurant_description, R.string.columbia_restaurant_address, R.string.columbia_restaurant_phone_number, R.string.columbia_restaurant_website));
+        places.add(new Places(R.drawable.eddie_sam, R.string.eddie_sam_name, R.string.eddie_sam_short_description, R.string.eddie_sam_description, R.string.eddie_sam_address, R.string.eddie_sam_phone_number, R.string.eddie_sam_website));
+        places.add(new Places(R.drawable.green_lemon, R.string.green_lemon_name, R.string.green_lemon_short_description, R.string.green_lemon_description, R.string.green_lemon_address, R.string.green_lemon_phone_number, R.string.green_lemon_website));
+        places.add(new Places(R.drawable.la_teresita_restaurant, R.string.la_teresita_restaurant_name, R.string.la_teresita_restaurant_short_description, R.string.la_teresita_restaurant_description, R.string.la_teresita_restaurant_address, R.string.la_teresita_restaurant_phone_number, R.string.la_teresita_restaurant_website));
+        places.add(new Places(R.drawable.la_terraza_restaurant, R.string.la_terraza_restaurant_name, R.string.la_terraza_restaurant_short_description, R.string.la_terraza_restaurant_description, R.string.la_terraza_restaurant_address, R.string.la_terraza_restaurant_phone_number, R.string.la_terraza_restaurant_website));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.

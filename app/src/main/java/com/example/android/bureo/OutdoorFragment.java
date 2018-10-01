@@ -29,11 +29,11 @@ public class OutdoorFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.clearwater_beach, R.string.clearwater_beach_name, R.string.clearwater_beach_description, R.string.clearwater_beach_address, R.string.clearwater_beach_phone_number, R.string.clearwater_beach_website));
-        places.add(new Places(R.drawable.curtis_hixon_water_park, R.string.curtis_hixon_water_park_name, R.string.curtis_hixon_water_park_description, R.string.curtis_hixon_water_park_address, R.string.curtis_hixon_water_park_phone_number, R.string.curtis_hixon_water_park_website));
-        places.add(new Places(R.drawable.ifly, R.string.ifly_name, R.string.ifly_description, R.string.ifly_address, R.string.ifly_phone_number, R.string.ifly_website));
-        places.add(new Places(R.drawable.riverwalk, R.string.riverwalk_name, R.string.riverwalk_description, R.string.riverwalk_address, R.string.riverwalk_phone_number, R.string.riverwalk_website));
-        places.add(new Places(R.drawable.sunshine_skyway_bridge, R.string.sunshine_skyway_bridge_name, R.string.sunshine_skyway_bridge_description, R.string.sunshine_skyway_bridge_address, R.string.sunshine_skyway_bridge_phone_number, R.string.sunshine_skyway_bridge_website));
+        places.add(new Places(R.drawable.clearwater_beach, R.string.clearwater_beach_name, R.string.clearwater_beach_short_description, R.string.clearwater_beach_description, R.string.clearwater_beach_address, R.string.clearwater_beach_phone_number, R.string.clearwater_beach_website));
+        places.add(new Places(R.drawable.curtis_hixon_water_park, R.string.curtis_hixon_water_park_name, R.string.curtis_hixon_water_park_short_description, R.string.curtis_hixon_water_park_description, R.string.curtis_hixon_water_park_address, R.string.curtis_hixon_water_park_phone_number, R.string.curtis_hixon_water_park_website));
+        places.add(new Places(R.drawable.ifly, R.string.ifly_name, R.string.ifly_short_description, R.string.ifly_description, R.string.ifly_address, R.string.ifly_phone_number, R.string.ifly_website));
+        places.add(new Places(R.drawable.riverwalk, R.string.riverwalk_name, R.string.riverwalk_short_description, R.string.riverwalk_description, R.string.riverwalk_address, R.string.riverwalk_phone_number, R.string.riverwalk_website));
+        places.add(new Places(R.drawable.sunshine_skyway_bridge, R.string.sunshine_skyway_bridge_name, R.string.sunshine_skyway_bridge_short_description, R.string.sunshine_skyway_bridge_description, R.string.sunshine_skyway_bridge_address, R.string.sunshine_skyway_bridge_phone_number, R.string.sunshine_skyway_bridge_website));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.

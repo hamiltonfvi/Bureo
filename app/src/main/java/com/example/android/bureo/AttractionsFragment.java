@@ -30,11 +30,11 @@ public class AttractionsFragment extends Fragment {
         final ArrayList<Places> places = new ArrayList<>();
 
         // Create a list of places
-        places.add(new Places(R.drawable.adventure_island, R.string.adventure_island_name, R.string.adventure_island_description, R.string.adventure_island_address, R.string.adventure_island_phone_number, R.string.adventure_island_website));
-        places.add(new Places(R.drawable.busch_gardens, R.string.busch_gardens_name, R.string.busch_gardens_description, R.string.busch_gardens_address, R.string.busch_gardens_phone_number, R.string.busch_gardens_website));
-        places.add(new Places(R.drawable.clearwater_marine_aquarium, R.string.clearwater_marine_aquarium_name, R.string.clearwater_marine_aquarium_description, R.string.clearwater_marine_aquarium_address, R.string.clearwater_marine_aquarium_phone_number, R.string.clearwater_marine_aquarium_website));
-        places.add(new Places(R.drawable.florida_aquarium, R.string.florida_aquarium_name, R.string.florida_aquarium_description, R.string.florida_aquarium_address, R.string.florida_aquarium_phone_number, R.string.florida_aquarium_website));
-        places.add(new Places(R.drawable.florida_state_fairgrounds, R.string.florida_state_fairgrounds_name, R.string.florida_state_fairgrounds_description, R.string.florida_state_fairgrounds_address, R.string.florida_state_fairgrounds_phone_number, R.string.florida_state_fairgrounds_website));
+        places.add(new Places(R.drawable.adventure_island, R.string.adventure_island_name, R.string.adventure_island_short_description, R.string.adventure_island_description, R.string.adventure_island_address, R.string.adventure_island_phone_number, R.string.adventure_island_website));
+        places.add(new Places(R.drawable.busch_gardens, R.string.busch_gardens_name, R.string.busch_gardens_short_description, R.string.busch_gardens_description, R.string.busch_gardens_address, R.string.busch_gardens_phone_number, R.string.busch_gardens_website));
+        places.add(new Places(R.drawable.clearwater_marine_aquarium, R.string.clearwater_marine_aquarium_name, R.string.clearwater_beach_short_description, R.string.clearwater_marine_aquarium_description, R.string.clearwater_marine_aquarium_address, R.string.clearwater_marine_aquarium_phone_number, R.string.clearwater_marine_aquarium_website));
+        places.add(new Places(R.drawable.florida_aquarium, R.string.florida_aquarium_name, R.string.florida_aquarium_short_description, R.string.florida_aquarium_description, R.string.florida_aquarium_address, R.string.florida_aquarium_phone_number, R.string.florida_aquarium_website));
+        places.add(new Places(R.drawable.florida_state_fairgrounds, R.string.florida_state_fairgrounds_name, R.string.florida_state_fairgrounds_short_description, R.string.florida_state_fairgrounds_description, R.string.florida_state_fairgrounds_address, R.string.florida_state_fairgrounds_phone_number, R.string.florida_state_fairgrounds_website));
 
         // Create an {@link PlacesAdapter}, whose data source is a list of {@link Places}s. The
         // adapter knows how to create list items for each item in the list.
@@ -59,11 +59,11 @@ public class AttractionsFragment extends Fragment {
 
                 Intent i = new Intent(getActivity(), PlaceDetails.class);
                 i.putExtra("image", mplace.getImageResourceId());
-                i.putExtra("title",mplace.getItemTitle());
+                i.putExtra("title", mplace.getItemTitle());
                 i.putExtra("description", mplace.getItemDescription());
-                i.putExtra("address",mplace.getItemAddress());
-                i.putExtra("phonenumber",mplace.getItemPhoneNumber());
-                i.putExtra("website",mplace.getItemWebSite());
+                i.putExtra("address", mplace.getItemAddress());
+                i.putExtra("phonenumber", mplace.getItemPhoneNumber());
+                i.putExtra("website", mplace.getItemWebSite());
 
                 startActivity(i);
             }
