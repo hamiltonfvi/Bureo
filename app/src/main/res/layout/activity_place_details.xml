@@ -11,12 +11,12 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        android:padding="@dimen/dimen_16dp">
+        android:padding="@dimen/dimen_20dp">
 
         <ImageView
             android:id="@+id/image_place"
-            android:layout_width="400dp"
-            android:layout_height="250dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
             android:contentDescription="@string/image_description"
             android:scaleType="fitXY"
             android:src="@drawable/tampabay" />

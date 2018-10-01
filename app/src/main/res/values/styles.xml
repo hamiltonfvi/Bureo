@@ -25,7 +25,7 @@
     </style>
 
     <style name="PanelHeader" parent="CityPanel">
-        <item name="android:layout_marginTop">@dimen/dimen_30dp</item>
+        <item name="android:layout_marginTop">@dimen/dimen_20dp</item>
         <item name="android:paddingTop">@dimen/dimen_5dp</item>
         <item name="android:paddingBottom">@dimen/dimen_5dp</item>
         <item name="android:background">@color/colorPrimaryDark</item>

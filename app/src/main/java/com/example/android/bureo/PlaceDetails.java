@@ -1,9 +1,15 @@
 package com.example.android.bureo;
 
+import android.Manifest;
+import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.support.v4.app.ActivityCompat;
+import android.net.Uri;
 import android.widget.ImageView;
 import android.widget.TextView;
+import android.view.View;
 
 public class PlaceDetails extends AppCompatActivity {
 
@@ -14,11 +20,20 @@ public class PlaceDetails extends AppCompatActivity {
     TextView mItemPhoneNumber;
     TextView mItemWebSite;
 
+    //various identifiers
+    private String mPlaceName;
+    private String mPlaceDesc;
+    private String mPlaceImage;
+    private String mPlaceWebsite;
+    private int mResourceId;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_place_details);
+
+        //Enabling UP navigation
+        getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
         // Initialize UI Components
         mItemImage = findViewById(R.id.image_place);
@@ -50,9 +65,7 @@ public class PlaceDetails extends AppCompatActivity {
 
         //Set name of the item on the title bar
         getSupportActionBar().setTitle(bundle.getInt("title"));
-
     }
-
 }
 
 
