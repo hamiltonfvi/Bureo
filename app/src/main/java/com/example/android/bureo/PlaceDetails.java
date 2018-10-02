@@ -1,15 +1,12 @@
 package com.example.android.bureo;
 
-import android.Manifest;
 import android.content.Intent;
-import android.content.pm.PackageManager;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v4.app.ActivityCompat;
-import android.net.Uri;
+import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;
-import android.view.View;
 
 public class PlaceDetails extends AppCompatActivity {
 
@@ -19,13 +16,6 @@ public class PlaceDetails extends AppCompatActivity {
     TextView mItemAddress;
     TextView mItemPhoneNumber;
     TextView mItemWebSite;
-
-    //various identifiers
-    private String mPlaceName;
-    private String mPlaceDesc;
-    private String mPlaceImage;
-    private String mPlaceWebsite;
-    private int mResourceId;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -43,7 +33,7 @@ public class PlaceDetails extends AppCompatActivity {
         mItemWebSite = findViewById(R.id.text_place_website);
 
         // Get Resource ID from Intent Extras
-        Bundle bundle = getIntent().getExtras();
+        final Bundle bundle = getIntent().getExtras();
 
         //get in the imageResourceId
         int imagesRes = bundle.getInt("image");
@@ -65,6 +55,17 @@ public class PlaceDetails extends AppCompatActivity {
 
         //Set name of the item on the title bar
         getSupportActionBar().setTitle(bundle.getInt("title"));
+
+        ////To go to the url with an intent
+        mItemWebSite.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                String url = getString(bundle.getInt("website"));
+                Intent i = new Intent(Intent.ACTION_VIEW);
+                i.setData(Uri.parse(url));
+                startActivity(i);
+            }
+        });
     }
 }
 

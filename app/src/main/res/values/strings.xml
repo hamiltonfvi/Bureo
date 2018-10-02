@@ -21,6 +21,11 @@
     <string name="florida_aquarium_name">Florida Aquarium</string>
     <string name="florida_state_fairgrounds_name">Florida State Fairgrounds</string>
     <string name="busch_gardens_name">Busch Gardens Tampa Bay</string>
+    <string name="weeki_wachee_name">Weeki Wachee Springs State Park</string>
+    <string name="lithia_springs_park_name">Lithia Springs Park</string>
+    <string name="honeymoon_island_state_park_name">Honeymoon Island State Park</string>
+    <string name="treasure_island_beach_name">Treasure Island Beach</string>
+    <string name="gasparilla_pirate_festival_name">Gasparilla Pirate Festival</string>
 
     <!--Attractions Short Descriptions-->
     <string name="adventure_island_short_description">Located right across the street from Busch Gardens® Tampa, Adventure Island® is 30 acres of water-drenched fun.</string>
@@ -28,6 +33,11 @@
     <string name="florida_aquarium_short_description">Come see why The Florida Aquarium is one of the top aquariums in the country!</string>
     <string name="florida_state_fairgrounds_short_description">The Fairgrounds is home to the annual Florida State Fair.</string>
     <string name="busch_gardens_short_description">Busch Gardens Tampa is a 335-acre African-themed animal theme park located in the city of Tampa, Florida.</string>
+    <string name="weeki_wachee_short_description">Live "mermaids" perform in a natural spring at this historic park, which also has rides and camping.</string>
+    <string name="lithia_springs_park_short_description">The park\'s major attraction is a natural spring from which water flows year-round.</string>
+    <string name="honeymoon_island_state_park_short_description">The park is 385 acres in land area with 2,400 acres submerged and 4 miles of beach.</string>
+    <string name="treasure_island_beach_short_description">Public beach with restrooms, showers and a water fountain, plus a bicycle rack and parking.</string>
+    <string name="gasparilla_pirate_festival_short_description">The Gasparilla Pirate Festival is a large parade and a host of related community events.</string>
 
     <!--Attractions Descriptions-->
     <string name="adventure_island_description">Located right across the street from Busch Gardens® Tampa, Adventure Island® is 30 acres of water-drenched fun in the sun featuring the ultimate combination of high-speed thrills and tropical, tranquil surroundings for guests of all ages. Race down rapids, dig your toes into the sand or relax all day in a private cabana. New at Adventure Island, hurtle high and experience a feeling of weightlessness on Colossal Curl™, Adventure Island’s newest family thrill slide.</string>
@@ -35,6 +45,11 @@
     <string name="florida_aquarium_description">Come see why The Florida Aquarium is one of the top aquariums in the country! Experience sharks, alligators, penguins and much more! Immerse yourself in interactive programs like Dive with the Sharks, Shark Swim and Swim with the Fishes or take a Wild Dolphin Tour on board the Bay Spirit II, a 72-foot powered catamaran. Special Behind the Scenes experiences like Penguins: Backstage Pass are unique and exciting as you come face to beak with our adorable penguins. After exploring all the exhibits inside, splash away at the Aquarium\'s new water play area, The Splash Pad!</string>
     <string name="florida_state_fairgrounds_description">The Fairgrounds is home to the annual Florida State Fair, always in February, always in Tampa! Featuring free entertainment, agriculture exhibits, competitive exhibits, historical village, crafts, food, and one of the largest midways in the United States.</string>
     <string name="busch_gardens_description">Busch Gardens Tampa is a 335-acre African-themed animal theme park located in the city of Tampa, Florida. Busch Gardens Tampa is owned and operated by SeaWorld Parks and Entertainment and is their 2nd largest park in terms of attendance behind SeaWorld Orlando.</string>
+    <string name="weeki_wachee_description">Live "mermaids" perform in a natural spring at this historic park, which also has rides and camping.</string>
+    <string name="lithia_springs_park_description">Lithia Springs Regional Park, is a park in Lithia, Hillsborough County, Florida, in the United States. The park\'s major attraction is a natural spring from which water flows year-round at a temperature of 72 degrees.</string>
+    <string name="honeymoon_island_state_park_description">Honeymoon Island State Park is a Florida State Park located on Honeymoon Island, a barrier island across St. Joseph\'s Sound from Palm Harbor, Ozona, and Crystal Beach. The park is 385 acres in land area with 2,400 acres submerged and 4 miles of beach.</string>
+    <string name="treasure_island_beach_description">Public beach with restrooms, showers and a water fountain, plus a bicycle rack and parking.</string>
+    <string name="gasparilla_pirate_festival_description">The Gasparilla Pirate Festival is a large parade and a host of related community events held almost every year since 1904 in Tampa, Florida celebrating the apocryphal legend of José Gaspar, a mythical Spanish pirate who supposedly operated in Southwest Florida in the early 1800s.</string>
 
     <!--Attractions Addresses-->
     <string name="adventure_island_address">10001 Mckinley Dr, Tampa,FL, 33612</string>
@@ -42,13 +57,23 @@
     <string name="florida_aquarium_address">701 Channelside Dr, Tampa, FL, 33602</string>
     <string name="florida_state_fairgrounds_address">4800 US HWY 301 N, Tampa, FL, 33610</string>
     <string name="busch_gardens_address">10165 McKinley Dr, Tampa, FL 33612</string>
+    <string name="weeki_wachee_address">6131 Commercial Way, Spring Hill, FL 34606</string>
+    <string name="lithia_springs_park_address">3932 Lithia Springs Rd, Lithia, FL 33547</string>
+    <string name="honeymoon_island_state_park_address">1 Causeway Blvd, Dunedin, FL 34698</string>
+    <string name="treasure_island_beach_address">10400 Gulf Blvd, Treasure Island, FL 33706</string>
+    <string name="gasparilla_pirate_festival_address">400 N. Ashley Dr, Ste.2125, Tampa FL 33602</string>
 
     <!--Attractions Numbers-->
-    <string name="adventure_island_phone_number">813 987\/5000</string>
-    <string name="clearwater_marine_aquarium_phone_number">727 441\/1790</string>
-    <string name="florida_aquarium_phone_number">813 273\/4000</string>
-    <string name="florida_state_fairgrounds_phone_number">813 621\/7821</string>
-    <string name="busch_gardens_phone_number">813 884\/4386</string>
+    <string name="adventure_island_phone_number">813and#8211;987and#8211;5000</string>
+    <string name="clearwater_marine_aquarium_phone_number">727and#8211;441and#8211;1790</string>
+    <string name="florida_aquarium_phone_number">813and#8211;273and#8211;4000</string>
+    <string name="florida_state_fairgrounds_phone_number">813and#8211;621and#8211;7821</string>
+    <string name="busch_gardens_phone_number">813and#8211;884and#8211;4386</string>
+    <string name="weeki_wachee_phone_number">352and#8211;592and#8211;5656</string>
+    <string name="lithia_springs_park_phone_number">813and#8211;744and#8211;5572</string>
+    <string name="honeymoon_island_state_park_phone_number">727and#8211;469and#8211;5942</string>
+    <string name="treasure_island_beach_phone_number">727and#8211;549and#8211;6165</string>
+    <string name="gasparilla_pirate_festival_phone_number">813and#8211;348and#8211;6363</string>
 
     <!--Attractions Websites-->
     <string name="adventure_island_website">https://adventureisland.com/</string>
@@ -56,6 +81,11 @@
     <string name="florida_aquarium_website">http://www.flaquarium.org/</string>
     <string name="florida_state_fairgrounds_website">http://www.floridastatefair.com/</string>
     <string name="busch_gardens_website">https://buschgardens.com/</string>
+    <string name="weeki_wachee_website">https://weekiwachee.com/</string>
+    <string name="lithia_springs_park_website">http://www.hillsboroughcounty.org/locations/lithia-springs-park</string>
+    <string name="honeymoon_island_state_park_website">https://www.floridastateparks.org/honeymoonisland</string>
+    <string name="treasure_island_beach_website">http://www.pinellascounty.org/park/20_Treasure_Island.htm</string>
+    <string name="gasparilla_pirate_festival_website">http://gasparillapiratefest.com/</string>
 
     <!--Shopping Category-->
     <string name="category_shopping">Shopping</string>
@@ -66,6 +96,11 @@
     <string name="westshore_plaza_name">Westshore Plaza</string>
     <string name="westfield_citrus_park_name">Westfield Citrus Park</string>
     <string name="university_mall_name">University Mall</string>
+    <string name="_name1"></string>
+    <string name="_name2"></string>
+    <string name="_name3"></string>
+    <string name="_name4"></string>
+    <string name="_name5"></string>
 
     <!--Shopping Short Descriptions-->
     <string name="international_plaza_short_description">200 stores/16 restaurants. Adjacent to Tampa International Airport.</string>
@@ -73,6 +108,11 @@
     <string name="westshore_plaza_short_description">WestShore Plaza is one of two enclosed shopping malls located in the Westshore business district of Tampa, Florida.</string>
     <string name="westfield_citrus_park_short_description">Westfield Citrus Park is a shopping mall in Citrus Park, Florida</string>
     <string name="university_mall_short_description">University Mall is a shopping mall located near the University of South Florida.</string>
+    <string name="short_description1"></string>
+    <string name="short_description2"></string>
+    <string name="short_description3"></string>
+    <string name="short_description4"></string>
+    <string name="short_description5"></string>
 
     <!--Shopping Descriptions-->
     <string name="international_plaza_description">200 stores/16 restaurants. Neiman Marcus, Nordstrom, Dillard\'s, Tiffany and Co., Louis Vuitton, Gucci, Apple, Crate and Barrel, The Cheesecake Factory, The Capital Grille and Renaissance Hotel w/courtesy shuttle. Adjacent to Tampa International Airport.</string>
@@ -80,6 +120,11 @@
     <string name="westshore_plaza_description">WestShore Plaza features Macy\'s, JCPenney, Sears, Dick\'s Sporting Goods, AMC 14 Theaters, Old Navy and over 100 specialty stores. WestShore Plaza offers dining options including Maggiano\'s, Mitchell\'s Fish Market, Seasons 52, Grimaldi\'s Pizzeria, P.F. Changs, Besito Mexican and Irish 31.</string>
     <string name="westfield_citrus_park_description">Westfield Citrus Park, formerly Citrus Park Town Center, is a shopping mall in Citrus Park, Florida, that opened in March 1999. Its four anchor stores are Dillard\'s, JCPenney, Macy\'s, and Dick\'s Sporting Goods, and it also includes a Regal Cinemas multiplex theater.</string>
     <string name="university_mall_description">University Mall, previously University Square Mall, is a shopping mall located near the University of South Florida, just north of the city limits of Tampa on Fowler Avenue; a major eight lane, east-west corridor.</string>
+    <string name="_description1"></string>
+    <string name="_description2"></string>
+    <string name="_description3"></string>
+    <string name="_description4"></string>
+    <string name="_description5"></string>
 
     <!--Shopping Addresses-->
     <string name="international_plaza_address">2223 N Westshore Blvd, Tampa,FL, 33607</string>
@@ -87,13 +132,23 @@
     <string name="westshore_plaza_address">250 Westshore plaza, Tampa, FL, 33609</string>
     <string name="westfield_citrus_park_address">8021 Citrus Park Town Center, Tampa, FL 33625</string>
     <string name="university_mall_address">2200 E Fowler Ave, Tampa, FL 33612</string>
+    <string name="_address1"></string>
+    <string name="_address2"></string>
+    <string name="_address3"></string>
+    <string name="_address4"></string>
+    <string name="_address5"></string>
 
     <!--Shopping Phone Numbers-->
-    <string name="international_plaza_phone_number">813 342\/3790</string>
-    <string name="tampa_premium_outlets_phone_number">813 909\/8716</string>
-    <string name="westshore_plaza_phone_number">813 286\/0790</string>
-    <string name="westfield_citrus_park_phone_number">813 926\/4644</string>
-    <string name="university_mall_phone_number">813 971\/3466</string>
+    <string name="international_plaza_phone_number">813and#8211;342and#8211;3790</string>
+    <string name="tampa_premium_outlets_phone_number">813and#8211;909and#8211;8716</string>
+    <string name="westshore_plaza_phone_number">813and#8211;286and#8211;0790</string>
+    <string name="westfield_citrus_park_phone_number">813 926and#8211;4644</string>
+    <string name="university_mall_phone_number">813and#8211;971and#8211;3466</string>
+    <string name="_phone_number1"></string>
+    <string name="_phone_number2"></string>
+    <string name="_phone_number3"></string>
+    <string name="_phone_number4"></string>
+    <string name="_phone_number5"></string>
 
     <!--Shopping Websites-->
     <string name="international_plaza_website">https://www.shopinternationalplaza.com/</string>
@@ -101,6 +156,11 @@
     <string name="westshore_plaza_website">https://westshoreplaza.com/</string>
     <string name="westfield_citrus_park_website">https://www.westfield.com/citruspark</string>
     <string name="university_mall_website">https://www.universitymalltampa.com/</string>
+    <string name="_website16"></string>
+    <string name="_website17"></string>
+    <string name="_website18"></string>
+    <string name="_website19"></string>
+    <string name="_website20"></string>
 
     <!--Arts Category-->
     <string name="category_arts">Arts</string>
@@ -111,6 +171,11 @@
     <string name="tampa_museum_of_art_name">Tampa Museum of Art</string>
     <string name="straz_center_name">Straz Center</string>
     <string name="the_tampa_theatre_name">The Tampa Theatre</string>
+    <string name="tampa_bay_history_center_name">Tampa Bay History Center</string>
+    <string name="ruck_eckerd_hall_name">Ruth Eckerd Hall</string>
+    <string name="credit_union_amphitheatre_name">MIDFLORIDA Credit Union Amphitheatre</string>
+    <string name="photographic_arts_name">The Florida Museum of Photographic Arts</string>
+    <string name="automobile_museum_name">Tampa Bay Automobile Museum</string>
 
     <!--Arts Short Descriptions-->
     <string name="the_dali_museum_short_description">The Salvador Dalí Museum is an art museum dedicated to the works of Salvador Dalí.</string>
@@ -118,6 +183,11 @@
     <string name="tampa_museum_of_art_short_description">The Tampa Museum of Art exhibits modern and contemporary art, as well as Greek, Roman, and Etruscan antiquities.</string>
     <string name="straz_center_short_description">The David A. Straz Jr. Center for the Performing Arts opened its doors as the Tampa Bay Performing Arts Center.</string>
     <string name="the_tampa_theatre_short_description">The Tampa Theatre features a wide range of independent, foreign, and documentary films on a daily basis.</string>
+    <string name="tampa_bay_history_center_short_description">Exhibits include coverage of the Tampa Bay area\'s first native inhabitants,</string>
+    <string name="ruck_eckerd_hall_short_description">It has the finest performing arts and provide educational opportunities in the performing arts to all segments.</string>
+    <string name="credit_union_amphitheatre_short_description">The MidFlorida Credit Union Amphitheatre\' is the largest concert-only facility in the Tampa Bay Area.</string>
+    <string name="photographic_arts_short_description">Gallery features workshops, diverse photographic displays in permanent and rotating exhibits</string>
+    <string name="automobile_museum_short_description">All of the vehicles displayed are from the collection of Alain Cerf, a French entrepreneur.</string>
 
     <!--Arts Descriptions-->
     <string name="the_dali_museum_description">The Salvador Dalí Museum is an art museum in St. Petersburg, Florida, United States, dedicated to the works of Salvador Dalí. It houses the largest collection of Dalí\'s works outside Europe. It is located on the downtown St. Petersburg waterfront by 5th Avenue Southeast, Bay Shore Drive, and Dan Wheldon Way.</string>
@@ -125,6 +195,11 @@
     <string name="tampa_museum_of_art_description">The Tampa Museum of Art is located in downtown Tampa, Florida. It exhibits modern and contemporary art, as well as Greek, Roman, and Etruscan antiquities.</string>
     <string name="straz_center_description">The David A. Straz Jr. Center for the Performing Arts opened its doors as the Tampa Bay Performing Arts Center, Tampa, Florida in July 1987 and has welcomed more than 16 million guests.</string>
     <string name="the_tampa_theatre_description">The Tampa Theatre is a historic U.S. theater and city landmark in the Uptown District of Tampa, Florida. The theatre features a wide range of independent, foreign, and documentary films on a daily basis.</string>
+    <string name="tampa_bay_history_center_description">Tampa Bay History Center is a history museum in Tampa, Florida. Exhibits include coverage of the Tampa Bay area\'s first native inhabitants, Spanish conquistadors, and historical figures who shaped the area\'s history, as well as a reproduction of a 1920s cigar store.</string>
+    <string name="ruck_eckerd_hall_description">Ruth Eckerd Hall is a 73,000-square-foot (6,800 m2) performing arts venue, located in Clearwater, Florida, in the Tampa Bay area and is part of the Richard B. Baumgardner Center for the Performing Arts. </string>
+    <string name="credit_union_amphitheatre_description">The MidFlorida Credit Union Amphitheatre\' is the largest concert-only facility in the Tampa Bay Area. Originally Ford Amphitheatre and formerly Amphitheatre and Live Nation Amphitheatre it is an outdoor amphitheatre in Tampa, Florida.</string>
+    <string name="photographic_arts_description">Gallery features workshops, diverse photographic displays in permanent and rotating exhibits</string>
+    <string name="automobile_museum_description">The Tampa Bay Automobile Museum, located in Pinellas Park, Florida in the Tampa Bay Area, displays historic automobiles from the 20th century. All of the vehicles displayed are from the collection of Alain Cerf, a French entrepreneur.</string>
 
     <!--Arts Addresses-->
     <string name="the_dali_museum_address">1 Dali Blvd, St. Petersburg, FL 33701</string>
@@ -132,13 +207,23 @@
     <string name="tampa_museum_of_art_address">120 Gasparilla Plaza, Tampa, FL 33602</string>
     <string name="straz_center_address">1010 N Macinnes Pl, Tampa, FL 33602</string>
     <string name="the_tampa_theatre_address">711 N Franklin St, Tampa, FL 33602</string>
+    <string name="tampa_bay_history_center_address"> 801 Old Water St, Tampa, FL 33602</string>
+    <string name="ruck_eckerd_hall_address">1111 McMullen Booth Rd, Clearwater, FL 33759</string>
+    <string name="credit_union_amphitheatre_address">4802 US-301, Tampa, FL 33610</string>
+    <string name="photographic_arts_address">400 N Ashley Dr, Tampa, FL 33602</string>
+    <string name="automobile_museum_address">3301 Gateway Centre Blvd, Pinellas Park, FL 33782</string>
 
     <!--Arts Phone Numbers-->
-    <string name="the_dali_museum_phone_number">727 823\/3767</string>
-    <string name="glazer_childrens_museum_phone_number">813 443\/3861</string>
-    <string name="tampa_museum_of_art_phone_number">813 274\/8130</string>
-    <string name="straz_center_phone_number">813 229\/7827</string>
-    <string name="the_tampa_theatre_phone_number">813 274\/8286</string>
+    <string name="the_dali_museum_phone_number">727and#8211;823and#8211;3767</string>
+    <string name="glazer_childrens_museum_phone_number">813and#8211;443and#8211;3861</string>
+    <string name="tampa_museum_of_art_phone_number">813and#8211;274and#8211;8130</string>
+    <string name="straz_center_phone_number">813and#8211;229and#8211;7827</string>
+    <string name="the_tampa_theatre_phone_number">813and#8211;274and#8211;8286</string>
+    <string name="tampa_bay_history_center_phone_number">813and#8211;228and#8211;0097</string>
+    <string name="ruck_eckerd_hall_phone_number">727and#8211;791and#8211;7060</string>
+    <string name="credit_union_amphitheatre_phone_number">813and#8211;740and#8211;2446</string>
+    <string name="photographic_arts_phone_number">813and#8211;221and#8211;2222</string>
+    <string name="automobile_museum_phone_number">727and#8211;579and#8211;8226</string>
 
     <!--Arts Websites-->
     <string name="the_dali_museum_website">https://thedali.org/</string>
@@ -146,6 +231,11 @@
     <string name="tampa_museum_of_art_website">http://tampamuseum.org/</string>
     <string name="straz_center_website">https://www.strazcenter.org/</string>
     <string name="the_tampa_theatre_website">http://www.tampatheatre.org/</string>
+    <string name="tampa_bay_history_center_website">https://www.tampabayhistorycenter.org/</string>
+    <string name="ruck_eckerd_hall_website">https://www.rutheckerdhall.com/</string>
+    <string name="credit_union_amphitheatre_website">https://www.midflorida.com/amphitheatre</string>
+    <string name="photographic_arts_website">https://fmopa.org/</string>
+    <string name="automobile_museum_website">http://tbauto.org/</string>
 
     <!--Nightlife Category-->
     <string name="category_nightlife">Nightlife</string>
@@ -200,16 +290,16 @@
     <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
 
     <!--Nightlife Phone Numbers-->
-    <string name="ybor_city_phone_number">813 274\/7936</string>
-    <string name="jannus_live_phone_number">727 565\/0550</string>
-    <string name="whiskey_north_phone_number">813 968\/1515</string>
-    <string name="bahama_breeze_phone_number">813 289\/7922</string>
-    <string name="hyde_park_village_phone_number">813 251\/3500</string>
-    <string name="angry_chair_phone_number">813 690\/3599</string>
-    <string name="cigar_city_phone_number">813 348\/6363</string>
-    <string name="ulele_phone_number">813 999\/4952</string>
-    <string name="coppertail_phone_number">813 247\/1500</string>
-    <string name="brew_bus_phone_number">813 990\/7310</string>
+    <string name="ybor_city_phone_number">813and#8211;274and#8211;7936</string>
+    <string name="jannus_live_phone_number">727and#8211;565and#8211;0550</string>
+    <string name="whiskey_north_phone_number">813and#8211;968and#8211;1515</string>
+    <string name="bahama_breeze_phone_number">813and#8211;289and#8211;7922</string>
+    <string name="hyde_park_village_phone_number">813and#8211;251and#8211;3500</string>
+    <string name="angry_chair_phone_number">813and#8211;690and#8211;3599</string>
+    <string name="cigar_city_phone_number">813and#8211;348and#8211;6363</string>
+    <string name="ulele_phone_number">813and#8211;999and#8211;4952</string>
+    <string name="coppertail_phone_number">813and#8211;247and#8211;1500</string>
+    <string name="brew_bus_phone_number">813and#8211;990and#8211;7310</string>
 
     <!--Nightlife Websites-->
     <string name="ybor_city_website">https://yborcityonline.com/</string>
@@ -232,13 +322,23 @@
     <string name="the_honey_pot_name">The Honey Pot</string>
     <string name="enigma_name">Enigma</string>
     <string name="city_side_name">City Side</string>
+    <string name="_name6"></string>
+    <string name="_name7"></string>
+    <string name="_name8"></string>
+    <string name="_name9"></string>
+    <string name="_name10"></string>
 
-    <!--LGBT Descriptions-->
+    <!--LGBT Short Descriptions-->
     <string name="bradleys_short_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
     <string name="flamingo_resort_short_description">This LGBT-friendly adults-only resort is 6 miles from the beach and The Dali Museum, as well as Downtown\'s historic district.</string>
     <string name="the_honey_pot_short_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
     <string name="enigma_short_description">Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows and sidewalk tables.</string>
     <string name="city_side_short_description">Visit us at The Brew Bus Terminal and Tasting Room for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
+    <string name="short_description6"></string>
+    <string name="short_description7"></string>
+    <string name="short_description8"></string>
+    <string name="short_description9"></string>
+    <string name="short_description10"></string>
 
     <!--LGBT Descriptions-->
     <string name="bradleys_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
@@ -246,6 +346,11 @@
     <string name="the_honey_pot_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
     <string name="enigma_description">Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows and sidewalk tables.</string>
     <string name="city_side_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
+    <string name="_description6"></string>
+    <string name="_description7"></string>
+    <string name="_description8"></string>
+    <string name="_description9"></string>
+    <string name="_description10"></string>
 
     <!--LGBT Addresses-->
     <string name="bradleys_address">1510 E city7th Ave, Tampa, FL 33605</string>
@@ -253,13 +358,23 @@
     <string name="the_honey_pot_address">1507 E 7th Ave, Tampa, FL 33605</string>
     <string name="enigma_address">1110 Central Avenue North, St. Petersburg, FL 33705</string>
     <string name="city_side_address">3703 Henderson Blvd, Tampa, FL 33609</string>
+    <string name="_address6"></string>
+    <string name="_address7"></string>
+    <string name="_address8"></string>
+    <string name="_address9"></string>
+    <string name="_address10"></string>
 
     <!--LGBT Phone Numbers-->
-    <string name="bradleys_phone_number">813 241\/2723</string>
-    <string name="flamingo_resort_phone_number">727 321\/5000</string>
-    <string name="the_honey_pot_phone_number">813 247\/4663</string>
-    <string name="enigma_phone_number">813 247\/1500</string>
-    <string name="city_side_phone_number">813 350\/0600</string>
+    <string name="bradleys_phone_number">813and#8211;241and#8211;2723</string>
+    <string name="flamingo_resort_phone_number">727and#8211;321and#8211;5000</string>
+    <string name="the_honey_pot_phone_number">813and#8211;247and#8211;4663</string>
+    <string name="enigma_phone_number">813and#8211;247and#8211;1500</string>
+    <string name="city_side_phone_number">813and#8211;350and#8211;0600</string>
+    <string name="_phone_number6"></string>
+    <string name="_phone_number7"></string>
+    <string name="_phone_number8"></string>
+    <string name="_phone_number9"></string>
+    <string name="_phone_number10"></string>
 
     <!--LGBT Websites-->
     <string name="bradleys_website">http://bradleyson7th.com/</string>
@@ -267,6 +382,11 @@
     <string name="the_honey_pot_website">https://facebook.com/Honey-Pot-27460298048/</string>
     <string name="enigma_website">http://www.enigmastpete.com/</string>
     <string name="city_side_website">https://www.citysideloungetampa.com//</string>
+    <string name="_website1"></string>
+    <string name="_website2"></string>
+    <string name="_website3"></string>
+    <string name="_website4"></string>
+    <string name="_website5"></string>
 
     <!--Food Category-->
     <string name="category_food">Food</string>
@@ -277,6 +397,11 @@
     <string name="columbia_restaurant_name">Columbia Restaurant</string>
     <string name="green_lemon_name">Green Lemon</string>
     <string name="la_teresita_restaurant_name">La Teresita Restaurant</string>
+    <string name="_name11"></string>
+    <string name="_name12"></string>
+    <string name="_name13"></string>
+    <string name="_name14"></string>
+    <string name="_name15"></string>
 
     <!--Food Short Descriptions-->
     <string name="la_terraza_restaurant_short_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
@@ -284,6 +409,11 @@
     <string name="columbia_restaurant_short_description">Family-owned and operated for more than 113 years and award-winning Spanish/Cuban cuisine and wine list.</string>
     <string name="green_lemon_short_description">Modern hangout offering upbeat Mexican menu and drinks for brunch, lunch and dinner.</string>
     <string name="la_teresita_restaurant_short_description">Family-run eatery serving a menu of Cuban and Spanish standards in homey surroundings.</string>
+    <string name="short_description11"></string>
+    <string name="short_description12"></string>
+    <string name="short_description13"></string>
+    <string name="short_description14"></string>
+    <string name="short_description15"></string>
 
     <!--Food Descriptions-->
     <string name="la_terraza_restaurant_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
@@ -291,6 +421,11 @@
     <string name="columbia_restaurant_description">Columbia is Florida’s Oldest RestaurantSM, founded in Tampa\'s historic Ybor City in 1905. Family-owned and operated for more than 113 years, earning acclaim for old-world charm, and award-winning Spanish/Cuban cuisine and wine list.</string>
     <string name="green_lemon_description">Modern hangout offering upbeat Mexican menu and drinks for brunch, lunch and dinner.</string>
     <string name="la_teresita_restaurant_description">Family-run eatery serving a menu of Cuban and Spanish standards in homey surroundings.</string>
+    <string name="_description11"></string>
+    <string name="_description12"></string>
+    <string name="_description13"></string>
+    <string name="_description14"></string>
+    <string name="_description15"></string>
 
     <!--Food Addresses-->
     <string name="la_terraza_restaurant_address">1729 E 7th Ave, Tampa, FL 33605</string>
@@ -298,13 +433,23 @@
     <string name="columbia_restaurant_address">2117 E 7th Ave, Tampa, FL 33605</string>
     <string name="green_lemon_address">915 S Howard Ave, Tampa, FL 33606</string>
     <string name="la_teresita_restaurant_address">3248 W Columbus Dr, Tampa, FL 33607</string>
+    <string name="_address11"></string>
+    <string name="_address12"></string>
+    <string name="_address13"></string>
+    <string name="_address14"></string>
+    <string name="_address15"></string>
 
     <!--Food Phone Numbers-->
-    <string name="la_terraza_restaurant_phone_number">813 248\/1326</string>
-    <string name="eddie_sam_phone_number">813 229\/5000</string>
-    <string name="columbia_restaurant_phone_number">813 248\/4961</string>
-    <string name="green_lemon_phone_number">813 868\/5463</string>
-    <string name="la_teresita_restaurant_phone_number">813 879\/9704</string>
+    <string name="la_terraza_restaurant_phone_number">813and#8211;248and#8211;1326</string>
+    <string name="eddie_sam_phone_number">813and#8211;229and#8211;5000</string>
+    <string name="columbia_restaurant_phone_number">813and#8211;248and#8211;4961</string>
+    <string name="green_lemon_phone_number">813and#8211;868and#8211;5463</string>
+    <string name="la_teresita_restaurant_phone_number">813and#8211;879and#8211;9704</string>
+    <string name="_phone_number11"></string>
+    <string name="_phone_number12"></string>
+    <string name="_phone_number13"></string>
+    <string name="_phone_number14"></string>
+    <string name="_phone_number15"></string>
 
     <!--Food Websites-->
     <string name="la_terraza_restaurant_website">http://www.laterrazzayborcity.com/</string>
@@ -312,6 +457,11 @@
     <string name="columbia_restaurant_website">http://www.columbiarestaurant.com/</string>
     <string name="green_lemon_website">http://www.eatgreenlemon.com/</string>
     <string name="la_teresita_restaurant_website">http://www.lateresitarestaurant.com/</string>
+    <string name="_website6"></string>
+    <string name="_website7"></string>
+    <string name="_website8"></string>
+    <string name="_website9"></string>
+    <string name="_website10"></string>
 
     <!--Outdoor Category-->
     <string name="category_outdoor">Outdoor</string>
@@ -322,6 +472,11 @@
     <string name="riverwalk_name">Tampa Riverwalk</string>
     <string name="sunshine_skyway_bridge_name">Sunshine Skyway Bridge</string>
     <string name="ifly_name">iFLY</string>
+    <string name="_name16"></string>
+    <string name="_name17"></string>
+    <string name="_name18"></string>
+    <string name="_name19"></string>
+    <string name="_name20"></string>
 
     <!--Outdoor Short Descriptions-->
     <string name="clearwater_beach_short_description">Come sunset, Pier 60 hosts a nightly festival with street performers and craft vendors.</string>
@@ -329,6 +484,11 @@
     <string name="riverwalk_short_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
     <string name="sunshine_skyway_bridge_short_description">The Bob Graham Sunshine Skyway Bridge is a bridge with a cable-stayed main span and a total length of 21,877 feet.</string>
     <string name="ifly_short_description">Feel the thrill of skydiving without jumping out of an airplane. A facility powered by a state-of-the-art vertical wind tunnel.</string>
+    <string name="short_description16"></string>
+    <string name="short_description17"></string>
+    <string name="short_description18"></string>
+    <string name="short_description19"></string>
+    <string name="short_description20"></string>
 
     <!--Outdoor Descriptions-->
     <string name="clearwater_beach_description">Laid-back Clearwater Beach is known for its namesake stretch of soft, white sand, which draws visitors year-round for jet-skiing, parasailing, and stand-up paddleboarding in its calm waters. Cyclists and rollerbladers glide along a winding beachfront promenade lined with casual seafood restaurants and cafes. Come sunset, Pier 60 hosts a nightly festival with street performers and craft vendors.</string>
@@ -336,6 +496,11 @@
     <string name="riverwalk_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
     <string name="sunshine_skyway_bridge_description">The Bob Graham Sunshine Skyway Bridge, known to locals as the Sunshine Skyway Bridge or more casually the Skyway, is a bridge spanning Tampa Bay, Florida, with a cable-stayed main span, and a total length of 21,877 feet.</string>
     <string name="ifly_description">Feel the thrill of skydiving without jumping out of an airplane. It\'s true! Head to iFLY Tampa, a premier indoor skydiving facility powered by a state-of-the-art vertical wind tunnel. After a training session, you\'ll experience free-fall conditions with the help of an instructor. No experience is necessary, and afterward, you can take home a personalized flight certificate.</string>
+    <string name="_description16"></string>
+    <string name="_description17"></string>
+    <string name="_description18"></string>
+    <string name="_description19"></string>
+    <string name="_description20"></string>
 
     <!--Outdoor Addresses-->
     <string name="clearwater_beach_address">332 S Gulfview Blvd, Clearwater, FL 33767</string>
@@ -343,13 +508,23 @@
     <string name="riverwalk_address">400 N. Ashley Dr, Ste.2125, Tampa FL 33602</string>
     <string name="sunshine_skyway_bridge_address">2I-275, St. Petersburg, FL 33711</string>
     <string name="ifly_address">10654 Palm River Rd, Tampa, FL 33619</string>
+    <string name="_address16"></string>
+    <string name="_address17"></string>
+    <string name="_address18"></string>
+    <string name="_address19"></string>
+    <string name="_address20"></string>
 
     <!--Outdoor Phone Numbers-->
-    <string name="clearwater_beach_phone_number">727 562\/4825</string>
-    <string name="curtis_hixon_water_park_phone_number">813 274\/8615</string>
-    <string name="riverwalk_phone_number">813 274\/7744</string>
-    <string name="sunshine_skyway_bridge_phone_number">727 865\/0668</string>
-    <string name="ifly_phone_number">813 773\/4359</string>
+    <string name="clearwater_beach_phone_number">727and#8211;562and#8211;4825</string>
+    <string name="curtis_hixon_water_park_phone_number">813and#8211;274and#8211;8615</string>
+    <string name="riverwalk_phone_number">813and#8211;274and#8211;7744</string>
+    <string name="sunshine_skyway_bridge_phone_number">727and#8211;865and#8211;0668</string>
+    <string name="ifly_phone_number">813and#8211;773and#8211;4359</string>
+    <string name="_phone_number16"></string>
+    <string name="_phone_number17"></string>
+    <string name="_phone_number18"></string>
+    <string name="_phone_number19"></string>
+    <string name="_phone_number20"></string>
 
     <!--Outdoor Websites-->
     <string name="clearwater_beach_website">https://visitclearwaterflorida.com/</string>
@@ -357,5 +532,10 @@
     <string name="riverwalk_website">https://thetampariverwalk.com/</string>
     <string name="sunshine_skyway_bridge_website">http://www.skywaybridge.com/home.htm</string>
     <string name="ifly_website">https://brewbususa.com/</string>
+    <string name="_website11"></string>
+    <string name="_website12"></string>
+    <string name="_website13"></string>
+    <string name="_website14"></string>
+    <string name="_website15"></string>
 
 </resources>
