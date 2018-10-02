@@ -64,16 +64,16 @@
     <string name="gasparilla_pirate_festival_address">400 N. Ashley Dr, Ste.2125, Tampa FL 33602</string>
 
     <!--Attractions Numbers-->
-    <string name="adventure_island_phone_number">813and#8211;987and#8211;5000</string>
-    <string name="clearwater_marine_aquarium_phone_number">727and#8211;441and#8211;1790</string>
-    <string name="florida_aquarium_phone_number">813and#8211;273and#8211;4000</string>
-    <string name="florida_state_fairgrounds_phone_number">813and#8211;621and#8211;7821</string>
-    <string name="busch_gardens_phone_number">813and#8211;884and#8211;4386</string>
-    <string name="weeki_wachee_phone_number">352and#8211;592and#8211;5656</string>
-    <string name="lithia_springs_park_phone_number">813and#8211;744and#8211;5572</string>
-    <string name="honeymoon_island_state_park_phone_number">727and#8211;469and#8211;5942</string>
-    <string name="treasure_island_beach_phone_number">727and#8211;549and#8211;6165</string>
-    <string name="gasparilla_pirate_festival_phone_number">813and#8211;348and#8211;6363</string>
+    <string name="adventure_island_phone_number">813&#8211;987&#8211;5000</string>
+    <string name="clearwater_marine_aquarium_phone_number">727&#8211;441&#8211;1790</string>
+    <string name="florida_aquarium_phone_number">813&#8211;273&#8211;4000</string>
+    <string name="florida_state_fairgrounds_phone_number">813&#8211;621&#8211;7821</string>
+    <string name="busch_gardens_phone_number">813&#8211;884&#8211;4386</string>
+    <string name="weeki_wachee_phone_number">352&#8211;592&#8211;5656</string>
+    <string name="lithia_springs_park_phone_number">813&#8211;744&#8211;5572</string>
+    <string name="honeymoon_island_state_park_phone_number">727&#8211;469&#8211;5942</string>
+    <string name="treasure_island_beach_phone_number">727&#8211;549&#8211;6165</string>
+    <string name="gasparilla_pirate_festival_phone_number">813&#8211;348&#8211;6363</string>
 
     <!--Attractions Websites-->
     <string name="adventure_island_website">https://adventureisland.com/</string>
@@ -139,11 +139,11 @@
     <string name="_address5"></string>
 
     <!--Shopping Phone Numbers-->
-    <string name="international_plaza_phone_number">813and#8211;342and#8211;3790</string>
-    <string name="tampa_premium_outlets_phone_number">813and#8211;909and#8211;8716</string>
-    <string name="westshore_plaza_phone_number">813and#8211;286and#8211;0790</string>
-    <string name="westfield_citrus_park_phone_number">813 926and#8211;4644</string>
-    <string name="university_mall_phone_number">813and#8211;971and#8211;3466</string>
+    <string name="international_plaza_phone_number">813&#8211;342&#8211;3790</string>
+    <string name="tampa_premium_outlets_phone_number">813&#8211;909&#8211;8716</string>
+    <string name="westshore_plaza_phone_number">813&#8211;286&#8211;0790</string>
+    <string name="westfield_citrus_park_phone_number">813 926&#8211;4644</string>
+    <string name="university_mall_phone_number">813&#8211;971&#8211;3466</string>
     <string name="_phone_number1"></string>
     <string name="_phone_number2"></string>
     <string name="_phone_number3"></string>
@@ -214,16 +214,16 @@
     <string name="automobile_museum_address">3301 Gateway Centre Blvd, Pinellas Park, FL 33782</string>
 
     <!--Arts Phone Numbers-->
-    <string name="the_dali_museum_phone_number">727and#8211;823and#8211;3767</string>
-    <string name="glazer_childrens_museum_phone_number">813and#8211;443and#8211;3861</string>
-    <string name="tampa_museum_of_art_phone_number">813and#8211;274and#8211;8130</string>
-    <string name="straz_center_phone_number">813and#8211;229and#8211;7827</string>
-    <string name="the_tampa_theatre_phone_number">813and#8211;274and#8211;8286</string>
-    <string name="tampa_bay_history_center_phone_number">813and#8211;228and#8211;0097</string>
-    <string name="ruck_eckerd_hall_phone_number">727and#8211;791and#8211;7060</string>
-    <string name="credit_union_amphitheatre_phone_number">813and#8211;740and#8211;2446</string>
-    <string name="photographic_arts_phone_number">813and#8211;221and#8211;2222</string>
-    <string name="automobile_museum_phone_number">727and#8211;579and#8211;8226</string>
+    <string name="the_dali_museum_phone_number">727&#8211;823&#8211;3767</string>
+    <string name="glazer_childrens_museum_phone_number">813&#8211;443&#8211;3861</string>
+    <string name="tampa_museum_of_art_phone_number">813&#8211;274&#8211;8130</string>
+    <string name="straz_center_phone_number">813&#8211;229&#8211;7827</string>
+    <string name="the_tampa_theatre_phone_number">813&#8211;274&#8211;8286</string>
+    <string name="tampa_bay_history_center_phone_number">813&#8211;228&#8211;0097</string>
+    <string name="ruck_eckerd_hall_phone_number">727&#8211;791&#8211;7060</string>
+    <string name="credit_union_amphitheatre_phone_number">813&#8211;740&#8211;2446</string>
+    <string name="photographic_arts_phone_number">813&#8211;221&#8211;2222</string>
+    <string name="automobile_museum_phone_number">727&#8211;579&#8211;8226</string>
 
     <!--Arts Websites-->
     <string name="the_dali_museum_website">https://thedali.org/</string>
@@ -290,16 +290,16 @@
     <string name="brew_bus_address">4101 N Florida Ave, Tampa, FL, 33603</string>
 
     <!--Nightlife Phone Numbers-->
-    <string name="ybor_city_phone_number">813and#8211;274and#8211;7936</string>
-    <string name="jannus_live_phone_number">727and#8211;565and#8211;0550</string>
-    <string name="whiskey_north_phone_number">813and#8211;968and#8211;1515</string>
-    <string name="bahama_breeze_phone_number">813and#8211;289and#8211;7922</string>
-    <string name="hyde_park_village_phone_number">813and#8211;251and#8211;3500</string>
-    <string name="angry_chair_phone_number">813and#8211;690and#8211;3599</string>
-    <string name="cigar_city_phone_number">813and#8211;348and#8211;6363</string>
-    <string name="ulele_phone_number">813and#8211;999and#8211;4952</string>
-    <string name="coppertail_phone_number">813and#8211;247and#8211;1500</string>
-    <string name="brew_bus_phone_number">813and#8211;990and#8211;7310</string>
+    <string name="ybor_city_phone_number">813&#8211;274&#8211;7936</string>
+    <string name="jannus_live_phone_number">727&#8211;565&#8211;0550</string>
+    <string name="whiskey_north_phone_number">813&#8211;968&#8211;1515</string>
+    <string name="bahama_breeze_phone_number">813&#8211;289&#8211;7922</string>
+    <string name="hyde_park_village_phone_number">813&#8211;251&#8211;3500</string>
+    <string name="angry_chair_phone_number">813&#8211;690&#8211;3599</string>
+    <string name="cigar_city_phone_number">813&#8211;348&#8211;6363</string>
+    <string name="ulele_phone_number">813&#8211;999&#8211;4952</string>
+    <string name="coppertail_phone_number">813&#8211;247&#8211;1500</string>
+    <string name="brew_bus_phone_number">813&#8211;990&#8211;7310</string>
 
     <!--Nightlife Websites-->
     <string name="ybor_city_website">https://yborcityonline.com/</string>
@@ -365,11 +365,11 @@
     <string name="_address10"></string>
 
     <!--LGBT Phone Numbers-->
-    <string name="bradleys_phone_number">813and#8211;241and#8211;2723</string>
-    <string name="flamingo_resort_phone_number">727and#8211;321and#8211;5000</string>
-    <string name="the_honey_pot_phone_number">813and#8211;247and#8211;4663</string>
-    <string name="enigma_phone_number">813and#8211;247and#8211;1500</string>
-    <string name="city_side_phone_number">813and#8211;350and#8211;0600</string>
+    <string name="bradleys_phone_number">813&#8211;241&#8211;2723</string>
+    <string name="flamingo_resort_phone_number">727&#8211;321&#8211;5000</string>
+    <string name="the_honey_pot_phone_number">813&#8211;247&#8211;4663</string>
+    <string name="enigma_phone_number">813&#8211;247&#8211;1500</string>
+    <string name="city_side_phone_number">813&#8211;350&#8211;0600</string>
     <string name="_phone_number6"></string>
     <string name="_phone_number7"></string>
     <string name="_phone_number8"></string>
@@ -440,11 +440,11 @@
     <string name="_address15"></string>
 
     <!--Food Phone Numbers-->
-    <string name="la_terraza_restaurant_phone_number">813and#8211;248and#8211;1326</string>
-    <string name="eddie_sam_phone_number">813and#8211;229and#8211;5000</string>
-    <string name="columbia_restaurant_phone_number">813and#8211;248and#8211;4961</string>
-    <string name="green_lemon_phone_number">813and#8211;868and#8211;5463</string>
-    <string name="la_teresita_restaurant_phone_number">813and#8211;879and#8211;9704</string>
+    <string name="la_terraza_restaurant_phone_number">813&#8211;248&#8211;1326</string>
+    <string name="eddie_sam_phone_number">813&#8211;229&#8211;5000</string>
+    <string name="columbia_restaurant_phone_number">813&#8211;248&#8211;4961</string>
+    <string name="green_lemon_phone_number">813&#8211;868&#8211;5463</string>
+    <string name="la_teresita_restaurant_phone_number">813&#8211;879&#8211;9704</string>
     <string name="_phone_number11"></string>
     <string name="_phone_number12"></string>
     <string name="_phone_number13"></string>
@@ -515,11 +515,11 @@
     <string name="_address20"></string>
 
     <!--Outdoor Phone Numbers-->
-    <string name="clearwater_beach_phone_number">727and#8211;562and#8211;4825</string>
-    <string name="curtis_hixon_water_park_phone_number">813and#8211;274and#8211;8615</string>
-    <string name="riverwalk_phone_number">813and#8211;274and#8211;7744</string>
-    <string name="sunshine_skyway_bridge_phone_number">727and#8211;865and#8211;0668</string>
-    <string name="ifly_phone_number">813and#8211;773and#8211;4359</string>
+    <string name="clearwater_beach_phone_number">727&#8211;562&#8211;4825</string>
+    <string name="curtis_hixon_water_park_phone_number">813&#8211;274&#8211;8615</string>
+    <string name="riverwalk_phone_number">813&#8211;274&#8211;7744</string>
+    <string name="sunshine_skyway_bridge_phone_number">727&#8211;865&#8211;0668</string>
+    <string name="ifly_phone_number">813&#8211;773&#8211;4359</string>
     <string name="_phone_number16"></string>
     <string name="_phone_number17"></string>
     <string name="_phone_number18"></string>
