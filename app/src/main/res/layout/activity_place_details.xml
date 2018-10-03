@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:fillViewport="true"
     tools:context=".PlaceDetails">
 
     <LinearLayout
@@ -26,15 +24,17 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="@dimen/dimen_10dp"
-            android:background="@color/colorLightGrey"
+            android:layout_marginBottom="@dimen/dimen_10dp"
             android:textColor="@color/colorText" />
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:background="@drawable/border"
             android:baselineAligned="false"
-            android:layout_marginStart="@dimen/dimen_10dp"
-            android:orientation="horizontal">
+            android:orientation="horizontal"
+            android:paddingStart="@dimen/dimen_10dp"
+            android:paddingBottom="@dimen/dimen_10dp">
 
             <LinearLayout
                 android:layout_width="wrap_content"
@@ -42,71 +42,50 @@
                 android:orientation="vertical">
 
                 <ImageView
-                    android:contentDescription="@string/address_icon"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/dimen_15dp"
+                    android:contentDescription="@string/address_icon"
                     android:src="@drawable/address" />
 
                 <ImageView
-                    android:contentDescription="@string/phone_number_icon"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/dimen_15dp"
+                    android:contentDescription="@string/phone_number_icon"
                     android:src="@drawable/phone_number" />
 
                 <ImageView
-                    android:contentDescription="@string/website_icon"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_marginTop="@dimen/dimen_15dp"
+                    android:contentDescription="@string/website_icon"
                     android:src="@drawable/website" />
 
             </LinearLayout>
 
-                <LinearLayout
-                    android:layout_width="match_parent"
-                    android:layout_height="wrap_content"
-                    android:layout_marginStart="@dimen/dimen_10dp"
-                    android:orientation="vertical">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="@dimen/dimen_10dp"
+                android:orientation="vertical">
 
-                    <TextView
-                        android:id="@+id/text_place_address"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/dimen_19dp"
-                        android:linksClickable="true"
-                        android:autoLink="all"
-                        android:clickable="true"
-                        android:focusable="true"
-                        android:textColor="@color/colorText"
-                        android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/text_place_address"
+                    style="@style/DetailsText"
+                    android:layout_marginTop="@dimen/dimen_19dp" />
 
-                    <TextView
-                        android:id="@+id/text_place_phone_number"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:layout_marginTop="@dimen/dimen_20dp"
-                        android:linksClickable="true"
-                        android:autoLink="all"
-                        android:clickable="true"
-                        android:focusable="true"
-                        android:textColor="@color/colorText"
-                        android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/text_place_phone_number"
+                    style="@style/DetailsText"
+                    android:layout_marginTop="@dimen/dimen_20dp" />
 
-                    <TextView
-                        android:id="@+id/text_place_website"
-                        android:layout_width="wrap_content"
-                        android:layout_height="wrap_content"
-                        android:linksClickable="true"
-                        android:autoLink="all"
-                        android:clickable="true"
-                        android:focusable="true"
-                        android:layout_marginTop="@dimen/dimen_20dp"
-                        android:textColor="@color/colorText"
-                        android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/text_place_website"
+                    style="@style/DetailsText"
+                    android:layout_marginTop="@dimen/dimen_20dp" />
 
-                </LinearLayout>
+            </LinearLayout>
 
         </LinearLayout>
 

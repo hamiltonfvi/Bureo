@@ -26,13 +26,13 @@ public class Places {
     /**
      * Create a new Place Object.
      *
-     * @param itemImage       it's drawable resource id of the image asset
-     * @param itemTitle       it's item title of the place
+     * @param itemImage            it's drawable resource id of the image asset
+     * @param itemTitle            it's item title of the place
      * @param itemShortDescription it's the item short description
-     * @param itemDescription it's the item description of the place
-     * @param itemAddress it's the item website of the place
-     * @param itemPhoneNumber it's the item phone number of the place
-     * @param itemWebSite it's the item Website of the place
+     * @param itemDescription      it's the item description of the place
+     * @param itemAddress          it's the item website of the place
+     * @param itemPhoneNumber      it's the item phone number of the place
+     * @param itemWebSite          it's the item Website of the place
      */
     public Places(int itemImage, int itemTitle, int itemShortDescription, int itemDescription, int itemAddress, int itemPhoneNumber, int itemWebSite) {
         mItemImage = itemImage;
@@ -45,51 +45,51 @@ public class Places {
     }
 
     /**
-     *  Get the resource id of the image
+     * Get the resource id of the image
      */
-    public int getImageResourceId(){
+    public int getImageResourceId() {
         return mItemImage;
     }
 
     /**
-     *  Get the Item's Title
+     * Get the Item's Title
      */
-    public int getItemTitle(){
+    public int getItemTitle() {
         return mItemTitle;
     }
 
     /**
-     *  Get the Item's short Description
+     * Get the Item's short Description
      */
-    public int getItemShortDescription(){
+    public int getItemShortDescription() {
         return mItemShortDescription;
     }
 
     /**
-     *  Get the Item's Description
+     * Get the Item's Description
      */
-    public int getItemDescription(){
+    public int getItemDescription() {
         return mItemDescription;
     }
 
     /**
-     *  Get the Item's Address
+     * Get the Item's Address
      */
-    public int getItemAddress(){
+    public int getItemAddress() {
         return mItemAddress;
     }
 
     /**
-     *  Get the Item's Phone Number
+     * Get the Item's Phone Number
      */
-    public int getItemPhoneNumber(){
+    public int getItemPhoneNumber() {
         return mItemPhoneNumber;
     }
 
     /**
-     *  Get the Item's Website
+     * Get the Item's Website
      */
-    public int getItemWebSite(){
+    public int getItemWebSite() {
         return mItemWebSite;
     }
 }

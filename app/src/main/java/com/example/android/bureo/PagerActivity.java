@@ -11,11 +11,11 @@ public class PagerActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Set the content of the activity to use the activity_main.xml layout file
+        // Set the content of the activity to use the tour_pager_main.xml layout file
         setContentView(R.layout.tour_pager);
 
         // Find the view pager that will allow the user to swipe between fragments
-        ViewPager viewPager = (ViewPager) findViewById(R.id.viewpager);
+        ViewPager viewPager = findViewById(R.id.viewpager);
 
         // Find the view pager that will allow the user to swipe between fragments
         CategoryAdapter adapter = new CategoryAdapter(getApplicationContext(),getSupportFragmentManager());
@@ -24,7 +24,7 @@ public class PagerActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
 
         // Find the tab layout that shows the tabs
-        TabLayout tabLayout = (TabLayout) findViewById(R.id.sliding_tabs);
+        TabLayout tabLayout = findViewById(R.id.sliding_tabs);
 
         // Connect the tab layout with the view pager. This will
         //   1. Update the tab layout when the view pager is swiped

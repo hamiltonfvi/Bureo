@@ -96,23 +96,23 @@
     <string name="westshore_plaza_name">Westshore Plaza</string>
     <string name="westfield_citrus_park_name">Westfield Citrus Park</string>
     <string name="university_mall_name">University Mall</string>
-    <string name="_name1"></string>
-    <string name="_name2"></string>
-    <string name="_name3"></string>
-    <string name="_name4"></string>
-    <string name="_name5"></string>
+    <string name="the_shops_at_wiregrass_name">The Shops at Wiregrass</string>
+    <string name="unlock_tampa_bay_visitors_center_name">Unlock Tampa Bay Visitors Center</string>
+    <string name="tyrone_square_name">Tyrone Square</string>
+    <string name="armature_works_name">Armature Works</string>
+    <string name="ybor_city_saturday_market_name">Ybor City Saturday Market</string>
 
     <!--Shopping Short Descriptions-->
     <string name="international_plaza_short_description">200 stores/16 restaurants. Adjacent to Tampa International Airport.</string>
     <string name="tampa_premium_outlets_short_description">Tampa Premium Outlets is a 441,000 square-foot outlet shopping destination.</string>
     <string name="westshore_plaza_short_description">WestShore Plaza is one of two enclosed shopping malls located in the Westshore business district of Tampa, Florida.</string>
-    <string name="westfield_citrus_park_short_description">Westfield Citrus Park is a shopping mall in Citrus Park, Florida</string>
+    <string name="westfield_citrus_park_short_description">Westfield Citrus Park is a shopping mall in Citrus Park, Florida.</string>
     <string name="university_mall_short_description">University Mall is a shopping mall located near the University of South Florida.</string>
-    <string name="short_description1"></string>
-    <string name="short_description2"></string>
-    <string name="short_description3"></string>
-    <string name="short_description4"></string>
-    <string name="short_description5"></string>
+    <string name="the_shops_at_wiregrass_short_description">The Shops at Wiregrass is an open-air lifestyle center in Wesley Chapel, Florida.</string>
+    <string name="unlock_tampa_bay_visitors_center_short_description">Our Visitors Center offers excellent local advice on attractions, restaurants, and things to do during your visit to Tampa Bay. </string>
+    <string name="tyrone_square_short_description">Discover the convenience of shopping at Tyrone Square located just 4 miles from the beautiful Gulf Beaches.</string>
+    <string name="armature_works_short_description">Armature Works is a fully restored mixed-use building that breathes new life into the historic Tampa Heights neighborhood.</string>
+    <string name="ybor_city_saturday_market_short_description">The market is one of the most popular shopping destinations for locally produced items unique to the Tampa Bay Area.</string>
 
     <!--Shopping Descriptions-->
     <string name="international_plaza_description">200 stores/16 restaurants. Neiman Marcus, Nordstrom, Dillard\'s, Tiffany and Co., Louis Vuitton, Gucci, Apple, Crate and Barrel, The Cheesecake Factory, The Capital Grille and Renaissance Hotel w/courtesy shuttle. Adjacent to Tampa International Airport.</string>
@@ -120,11 +120,11 @@
     <string name="westshore_plaza_description">WestShore Plaza features Macy\'s, JCPenney, Sears, Dick\'s Sporting Goods, AMC 14 Theaters, Old Navy and over 100 specialty stores. WestShore Plaza offers dining options including Maggiano\'s, Mitchell\'s Fish Market, Seasons 52, Grimaldi\'s Pizzeria, P.F. Changs, Besito Mexican and Irish 31.</string>
     <string name="westfield_citrus_park_description">Westfield Citrus Park, formerly Citrus Park Town Center, is a shopping mall in Citrus Park, Florida, that opened in March 1999. Its four anchor stores are Dillard\'s, JCPenney, Macy\'s, and Dick\'s Sporting Goods, and it also includes a Regal Cinemas multiplex theater.</string>
     <string name="university_mall_description">University Mall, previously University Square Mall, is a shopping mall located near the University of South Florida, just north of the city limits of Tampa on Fowler Avenue; a major eight lane, east-west corridor.</string>
-    <string name="_description1"></string>
-    <string name="_description2"></string>
-    <string name="_description3"></string>
-    <string name="_description4"></string>
-    <string name="_description5"></string>
+    <string name="the_shops_at_wiregrass_description">The Shops at Wiregrass is an open-air lifestyle center in Wesley Chapel, Pasco County, Florida currently owned by Forest City Enterprises. In addition to free parking lots, valet parking, and a parking structure, there are streetside parking spaces at meters along its central street, Paseo Drive.</string>
+    <string name="unlock_tampa_bay_visitors_center_description">Located in the heart of downtown Tampa, our Visitors Center offers excellent local advice on attractions, restaurants, and things to do during your visit to Tampa Bay. The staff is very knowledgeable and wants nothing more than to help you enjoy the area. The gift shop includes a curated selection of Tampa-themed memorabilia and apparel.</string>
+    <string name="tyrone_square_description">Discover the convenience of shopping at Tyrone Square located just 4 miles from the beautiful Gulf Beaches. Visit your favorite stores including Macy\'s, Dillard\'s, JCPenney, DSW and Old Navy. Find just what you are looking for when you explore the more than 170 specialty shops located throughout the mall or relax while the kids enjoy the soft play area at the entrance of JCPenney.Grab a quick bite to eat at one of the 8 Food Court dining options or a more leisurely meal at a restaurant in the Dining District-choices include Bonefish Grill, Ruby Tuesday, Red Robin and Rubio\'s Coastal Grill.</string>
+    <string name="armature_works_description">Armature Works is a fully restored mixed-use building that breathes new life into the historic Tampa Heights neighborhood. With its unobstructed view of the Hillsborough River, the historic structure has been reinvented as a premier community destination with innovative eateries, Heights Public Market, reimagined event spaces and an exclusive coworking space.</string>
+    <string name="ybor_city_saturday_market_description">Operating since 2000, the Ybor City Saturday Market is the largest continually operating outdoor market in the Tampa Bay Area.  Centered in Tampa\'s Historic District, the market is one of the most popular shopping destinations for locally produced items unique to the Tampa Bay Area. The Ybor City Saturday Market offers a unique opportunity for customers to meet the artist as well as see one of a kind pieces created in the artist’s booth as well as purchase locally produced gourmet foods representing the area.</string>
 
     <!--Shopping Addresses-->
     <string name="international_plaza_address">2223 N Westshore Blvd, Tampa,FL, 33607</string>
@@ -132,11 +132,11 @@
     <string name="westshore_plaza_address">250 Westshore plaza, Tampa, FL, 33609</string>
     <string name="westfield_citrus_park_address">8021 Citrus Park Town Center, Tampa, FL 33625</string>
     <string name="university_mall_address">2200 E Fowler Ave, Tampa, FL 33612</string>
-    <string name="_address1"></string>
-    <string name="_address2"></string>
-    <string name="_address3"></string>
-    <string name="_address4"></string>
-    <string name="_address5"></string>
+    <string name="the_shops_at_wiregrass_address">28211 Paseo Drive, Wesley Chapel, FL 33543</string>
+    <string name="unlock_tampa_bay_visitors_center_address">201 N Franklin St #102, Tampa, FL 33602</string>
+    <string name="tyrone_square_address">6901 22nd Ave N, St. Petersburg, FL 33710</string>
+    <string name="armature_works_address">1910 N Ola Ave, Tampa, FL 3360</string>
+    <string name="ybor_city_saturday_market_address">1901 N 19th St, Tampa, FL 33605</string>
 
     <!--Shopping Phone Numbers-->
     <string name="international_plaza_phone_number">813&#8211;342&#8211;3790</string>
@@ -144,11 +144,11 @@
     <string name="westshore_plaza_phone_number">813&#8211;286&#8211;0790</string>
     <string name="westfield_citrus_park_phone_number">813 926&#8211;4644</string>
     <string name="university_mall_phone_number">813&#8211;971&#8211;3466</string>
-    <string name="_phone_number1"></string>
-    <string name="_phone_number2"></string>
-    <string name="_phone_number3"></string>
-    <string name="_phone_number4"></string>
-    <string name="_phone_number5"></string>
+    <string name="the_shops_at_wiregrass_phone_number">813&#8211;994&#8211;2242</string>
+    <string name="unlock_tampa_bay_visitors_center_phone_number">813&#8211;223&#8211;2752</string>
+    <string name="tyrone_square_phone_number">727&#8211;345&#8211;0126</string>
+    <string name="armature_works_phone_number">813&#8211;250&#8211;3725</string>
+    <string name="ybor_city_saturday_market_phone_number">813&#8211;241&#8211;2442</string>
 
     <!--Shopping Websites-->
     <string name="international_plaza_website">https://www.shopinternationalplaza.com/</string>
@@ -156,11 +156,11 @@
     <string name="westshore_plaza_website">https://westshoreplaza.com/</string>
     <string name="westfield_citrus_park_website">https://www.westfield.com/citruspark</string>
     <string name="university_mall_website">https://www.universitymalltampa.com/</string>
-    <string name="_website16"></string>
-    <string name="_website17"></string>
-    <string name="_website18"></string>
-    <string name="_website19"></string>
-    <string name="_website20"></string>
+    <string name="the_shops_at_wiregrass_website">https://www.theshopsatwiregrass.com/</string>
+    <string name="unlock_tampa_bay_visitors_center_website">https://shop.visittampabay.com/</string>
+    <string name="tyrone_square_website">https://www.simon.com/mall/tyrone-square</string>
+    <string name="armature_works_website">http://armatureworks.com/</string>
+    <string name="ybor_city_saturday_market_website">http://ybormarket.com/</string>
 
     <!--Arts Category-->
     <string name="category_arts">Arts</string>
@@ -183,10 +183,10 @@
     <string name="tampa_museum_of_art_short_description">The Tampa Museum of Art exhibits modern and contemporary art, as well as Greek, Roman, and Etruscan antiquities.</string>
     <string name="straz_center_short_description">The David A. Straz Jr. Center for the Performing Arts opened its doors as the Tampa Bay Performing Arts Center.</string>
     <string name="the_tampa_theatre_short_description">The Tampa Theatre features a wide range of independent, foreign, and documentary films on a daily basis.</string>
-    <string name="tampa_bay_history_center_short_description">Exhibits include coverage of the Tampa Bay area\'s first native inhabitants,</string>
+    <string name="tampa_bay_history_center_short_description">Exhibits include coverage of the Tampa Bay area\'s first native inhabitants.</string>
     <string name="ruck_eckerd_hall_short_description">It has the finest performing arts and provide educational opportunities in the performing arts to all segments.</string>
-    <string name="credit_union_amphitheatre_short_description">The MidFlorida Credit Union Amphitheatre\' is the largest concert-only facility in the Tampa Bay Area.</string>
-    <string name="photographic_arts_short_description">Gallery features workshops, diverse photographic displays in permanent and rotating exhibits</string>
+    <string name="credit_union_amphitheatre_short_description">The MidFlorida Credit Union Amphitheatre is the largest concert-only facility in the Tampa Bay Area.</string>
+    <string name="photographic_arts_short_description">Gallery features workshops, diverse photographic displays in permanent and rotating exhibits.</string>
     <string name="automobile_museum_short_description">All of the vehicles displayed are from the collection of Alain Cerf, a French entrepreneur.</string>
 
     <!--Arts Descriptions-->
@@ -197,7 +197,7 @@
     <string name="the_tampa_theatre_description">The Tampa Theatre is a historic U.S. theater and city landmark in the Uptown District of Tampa, Florida. The theatre features a wide range of independent, foreign, and documentary films on a daily basis.</string>
     <string name="tampa_bay_history_center_description">Tampa Bay History Center is a history museum in Tampa, Florida. Exhibits include coverage of the Tampa Bay area\'s first native inhabitants, Spanish conquistadors, and historical figures who shaped the area\'s history, as well as a reproduction of a 1920s cigar store.</string>
     <string name="ruck_eckerd_hall_description">Ruth Eckerd Hall is a 73,000-square-foot (6,800 m2) performing arts venue, located in Clearwater, Florida, in the Tampa Bay area and is part of the Richard B. Baumgardner Center for the Performing Arts. </string>
-    <string name="credit_union_amphitheatre_description">The MidFlorida Credit Union Amphitheatre\' is the largest concert-only facility in the Tampa Bay Area. Originally Ford Amphitheatre and formerly Amphitheatre and Live Nation Amphitheatre it is an outdoor amphitheatre in Tampa, Florida.</string>
+    <string name="credit_union_amphitheatre_description">The MidFlorida Credit Union Amphitheatre is the largest concert-only facility in the Tampa Bay Area. Originally Ford Amphitheatre and formerly Amphitheatre and Live Nation Amphitheatre it is an outdoor amphitheatre in Tampa, Florida.</string>
     <string name="photographic_arts_description">Gallery features workshops, diverse photographic displays in permanent and rotating exhibits</string>
     <string name="automobile_museum_description">The Tampa Bay Automobile Museum, located in Pinellas Park, Florida in the Tampa Bay Area, displays historic automobiles from the 20th century. All of the vehicles displayed are from the collection of Alain Cerf, a French entrepreneur.</string>
 
@@ -322,11 +322,11 @@
     <string name="the_honey_pot_name">The Honey Pot</string>
     <string name="enigma_name">Enigma</string>
     <string name="city_side_name">City Side</string>
-    <string name="_name6"></string>
-    <string name="_name7"></string>
-    <string name="_name8"></string>
-    <string name="_name9"></string>
-    <string name="_name10"></string>
+    <string name="southern_nights_tampa_name">Southern Nights TAMPA</string>
+    <string name="hamburger_marys_tampa_name">Hamburger Mary\'s Tampa</string>
+    <string name="the_tampa_men_club_name">The Tampa Men\'s Club</string>
+    <string name="christoph_name">Cristoph\'s</string>
+    <string name="g_st_pete_name">G St. Pete</string>
 
     <!--LGBT Short Descriptions-->
     <string name="bradleys_short_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
@@ -334,11 +334,11 @@
     <string name="the_honey_pot_short_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
     <string name="enigma_short_description">Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows and sidewalk tables.</string>
     <string name="city_side_short_description">Visit us at The Brew Bus Terminal and Tasting Room for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
-    <string name="short_description6"></string>
-    <string name="short_description7"></string>
-    <string name="short_description8"></string>
-    <string name="short_description9"></string>
-    <string name="short_description10"></string>
+    <string name="southern_nights_tampa_short_description">Festive LGBT nightclub featuring drag queens, DJs, go-go-dancers and cocktail specials.</string>
+    <string name="hamburger_marys_tampa_short_description">American bar and grill chain where diner classics and cocktails meet quirky entertainment.</string>
+    <string name="the_tampa_men_club_short_description">You can get your workout the traditional way at the fully stocked gym.</string>
+    <string name="christoph_short_description">Entertainment, drag shows, underwear parties, drink specials, and endless dancing and flirting.</string>
+    <string name="g_st_pete_short_description">Bartenders are fast and sexy, music is incredible as well as the light show!</string>
 
     <!--LGBT Descriptions-->
     <string name="bradleys_description">Festive gay bar with a pool table, happy hours and live entertainment in a dimly-lit setting.</string>
@@ -346,11 +346,11 @@
     <string name="the_honey_pot_description">Vibrant LGBT nightclub with a large dance floor and entertainment such as DJs and drag shows.</string>
     <string name="enigma_description">Lively, gay-friendly lounge with several rooms, a cozy dance floor, drag shows and sidewalk tables.</string>
     <string name="city_side_description">We have been sharing our love for beer since 2011 when we began our journey as a local brewery tour company. A year later we turned our tour bus into a mobile tasting room by brewing our own beer. Now, we have built a state of the art brewery and tasting room to share these awesome beers with the world. Come visit us at The Brew Bus Terminal and Tasting Room in Seminole Heights for Trivia Night, Toast Brunch, or one of our other weekly events.</string>
-    <string name="_description6"></string>
-    <string name="_description7"></string>
-    <string name="_description8"></string>
-    <string name="_description9"></string>
-    <string name="_description10"></string>
+    <string name="southern_nights_tampa_description">Festive LGBT nightclub featuring drag queens, DJs, go-go-dancers and cocktail specials.</string>
+    <string name="hamburger_marys_tampa_description">American bar and grill chain where diner classics and cocktails meet quirky entertainment.</string>
+    <string name="the_tampa_men_club_description">You can get your workout the traditional way at the fully stocked gym, or be more creative and work up a sweat at the club\'s other facilities. Either way you\'re sure to reach that target heart rate.</string>
+    <string name="christoph_description">The parties at Cristoph’s Tampa are unparalleled. Open 7 days a week, Cristoph’s Tampa offers the best in gay nightlife: entertainment, drag shows, underwear parties, drink specials, and endless dancing and flirting.Cristoph’s Tampa does an amazing job catering to the LGBT community of Tampa. Cristoph’s Tampa brings so much to the table for gay nightlife. The nightclub has a full menu to offer: entertainment, drag shows, game nights, special guests, drink specials, happy hour, sexy bartenders, wild dancefloors, leatherbound hunks and a private lounge in the upstairs. Additionally, drag shows are a large part of Tampa’s gay nightlife scene. Cristoph’s Tampa is home to some of the best drag show entertainment on the West coast of Florida. Every night is a gay night out at Cristoph’s Tampa. Also, each day of the week is a themed event, from cheeky undie parties to game nights.</string>
+    <string name="g_st_pete_description">Fun atmosphere. The best of everything! Dancers are amazing, bartenders are fast and sexy, music is incredible as well as the light show!</string>
 
     <!--LGBT Addresses-->
     <string name="bradleys_address">1510 E city7th Ave, Tampa, FL 33605</string>
@@ -358,11 +358,11 @@
     <string name="the_honey_pot_address">1507 E 7th Ave, Tampa, FL 33605</string>
     <string name="enigma_address">1110 Central Avenue North, St. Petersburg, FL 33705</string>
     <string name="city_side_address">3703 Henderson Blvd, Tampa, FL 33609</string>
-    <string name="_address6"></string>
-    <string name="_address7"></string>
-    <string name="_address8"></string>
-    <string name="_address9"></string>
-    <string name="_address10"></string>
+    <string name="southern_nights_tampa_address">1401 E 7th Ave, Tampa, FL 33605</string>
+    <string name="hamburger_marys_tampa_address">1600 E 7th Ave, Tampa, FL 33605</string>
+    <string name="the_tampa_men_club_address">4061 W Crest Ave, Tampa, FL 33614</string>
+    <string name="christoph_address">2606 N Armenia Ave, Tampa, FL 33607</string>
+    <string name="g_st_pete_address">350 1st Ave N, St. Petersburg, FL 33701</string>
 
     <!--LGBT Phone Numbers-->
     <string name="bradleys_phone_number">813&#8211;241&#8211;2723</string>
@@ -370,11 +370,11 @@
     <string name="the_honey_pot_phone_number">813&#8211;247&#8211;4663</string>
     <string name="enigma_phone_number">813&#8211;247&#8211;1500</string>
     <string name="city_side_phone_number">813&#8211;350&#8211;0600</string>
-    <string name="_phone_number6"></string>
-    <string name="_phone_number7"></string>
-    <string name="_phone_number8"></string>
-    <string name="_phone_number9"></string>
-    <string name="_phone_number10"></string>
+    <string name="southern_nights_tampa_phone_number">813&#8211;559&#8211;8625</string>
+    <string name="hamburger_marys_tampa_phone_number">813&#8211;241&#8211;6279</string>
+    <string name="the_tampa_men_club_phone_number">813&#8211;876&#8211;6367</string>
+    <string name="christoph_phone_number">813&#8211;450&#8211;3877</string>
+    <string name="g_st_pete_phone_number">727&#8211;220&#8211;1505</string>
 
     <!--LGBT Websites-->
     <string name="bradleys_website">http://bradleyson7th.com/</string>
@@ -382,11 +382,11 @@
     <string name="the_honey_pot_website">https://facebook.com/Honey-Pot-27460298048/</string>
     <string name="enigma_website">http://www.enigmastpete.com/</string>
     <string name="city_side_website">https://www.citysideloungetampa.com//</string>
-    <string name="_website1"></string>
-    <string name="_website2"></string>
-    <string name="_website3"></string>
-    <string name="_website4"></string>
-    <string name="_website5"></string>
+    <string name="southern_nights_tampa_website">https://www.facebook.com/SouthernNightsTampa</string>
+    <string name="hamburger_marys_tampa_website">https://www.hamburgermarys.com/tampa/</string>
+    <string name="the_tampa_men_club_website">http://www.tampamensclub.com/</string>
+    <string name="christoph_website">http://cristophstampa.com/</string>
+    <string name="g_st_pete_website">https://www.facebook.com/gstpete</string>
 
     <!--Food Category-->
     <string name="category_food">Food</string>
@@ -397,11 +397,11 @@
     <string name="columbia_restaurant_name">Columbia Restaurant</string>
     <string name="green_lemon_name">Green Lemon</string>
     <string name="la_teresita_restaurant_name">La Teresita Restaurant</string>
-    <string name="_name11"></string>
-    <string name="_name12"></string>
-    <string name="_name13"></string>
-    <string name="_name14"></string>
-    <string name="_name15"></string>
+    <string name="ocean_prime_name">Ocean Prime</string>
+    <string name="the_capital_grille_name">The Capital Grille</string>
+    <string name="mission_bbq_name">Mission BBQ</string>
+    <string name="la_cabana_restaurant_name">La Cabana Restaurant</string>
+    <string name="la_fondita_de_leo_name">La Fondita de Leo</string>
 
     <!--Food Short Descriptions-->
     <string name="la_terraza_restaurant_short_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
@@ -409,11 +409,11 @@
     <string name="columbia_restaurant_short_description">Family-owned and operated for more than 113 years and award-winning Spanish/Cuban cuisine and wine list.</string>
     <string name="green_lemon_short_description">Modern hangout offering upbeat Mexican menu and drinks for brunch, lunch and dinner.</string>
     <string name="la_teresita_restaurant_short_description">Family-run eatery serving a menu of Cuban and Spanish standards in homey surroundings.</string>
-    <string name="short_description11"></string>
-    <string name="short_description12"></string>
-    <string name="short_description13"></string>
-    <string name="short_description14"></string>
-    <string name="short_description15"></string>
+    <string name="ocean_prime_short_description">Upscale chain known for its sophisticated decor, long wine list and classic steak and seafood menu.</string>
+    <string name="the_capital_grille_short_description">Outpost of the upscale steakhouse chain offers classic American fare and a clubby, refined setting.</string>
+    <string name="mission_bbq_short_description">Casual chain featuring BBQ and American sides, plus memorabilia honoring soldiers and first responders.</string>
+    <string name="la_cabana_restaurant_short_description">Family-friendly restaurant specializing in Colombian fare, including seafood and rotisserie chicken.</string>
+    <string name="la_fondita_de_leo_short_description">La Fondita de Leo is a sit-down restaurant where everything is cooked in a traditional way.</string>
 
     <!--Food Descriptions-->
     <string name="la_terraza_restaurant_description">Local mainstay serving homestyle Northern Italian cuisine and wines in a warm-hued storefront space.</string>
@@ -421,11 +421,11 @@
     <string name="columbia_restaurant_description">Columbia is Florida’s Oldest RestaurantSM, founded in Tampa\'s historic Ybor City in 1905. Family-owned and operated for more than 113 years, earning acclaim for old-world charm, and award-winning Spanish/Cuban cuisine and wine list.</string>
     <string name="green_lemon_description">Modern hangout offering upbeat Mexican menu and drinks for brunch, lunch and dinner.</string>
     <string name="la_teresita_restaurant_description">Family-run eatery serving a menu of Cuban and Spanish standards in homey surroundings.</string>
-    <string name="_description11"></string>
-    <string name="_description12"></string>
-    <string name="_description13"></string>
-    <string name="_description14"></string>
-    <string name="_description15"></string>
+    <string name="ocean_prime_description">Ocean Prime is a modern American restaurant and lounge from renowned restaurateur Cameron Mitchell. Voted “Best Piano Bar” and “Outdoor Scene” by Tampa Bay Metro as well as one of the “Best Seafood Restaurants in the Bay Area”</string>
+    <string name="the_capital_grille_description">Outpost of the upscale steakhouse chain offers classic American fare and a clubby, refined setting. A “great business-deal closure” aid, this eminently “reliable” chophouse chain outlet in Tampa also “treats you like gold on an anniversary” – or any other time, really – say folks who laud its “wonderful” steaks “prepared to your specifications”; it\'s also OK to just “get a burger in the bar at lunch” fans insist, but if you go all the way at dinner, the traditional, “well-appointed interior” and “exceptional” service help make it "well worth the expense.</string>
+    <string name="mission_bbq_description">Casual chain featuring BBQ and American sides, plus memorabilia honoring soldiers and first responders. Every day we strive to serve you authentic BBQ made from the freshest, most delectable ingredients, and serve it to you in a patriotic dining room filled with tributes to those who’ve made Our Country great, given to us by the people who earned them. Stop by at lunchtime, and you might catch us during our daily salute to the Stars and Stripes.</string>
+    <string name="la_cabana_restaurant_description">Family-friendly restaurant specializing in Colombian fare, including seafood and rotisserie chicken. La Cabana is not your everyday restaurant, it is a place of nostalgia for those who long for Columbia’s rich culture and cuisine. We strive to create awareness and elevate the status of Latin food, particularly Colombian cuisine. You\'ll find plenty of low-calorie food options for you and a kid-friendly menu for your little ones. You can either dine in at our restaurant or carry out your order.</string>
+    <string name="la_fondita_de_leo_description">La Fondita de Leo is a sit-down restaurant where everything is cooked to order in the same traditional way that you will find in Puerto Rico. The foods original and authentic flavor together with a great atmosphere and friendly staff will take you straight to the island immediately as you take your first step inside. Come and take a peak at our taste, culture and vibe in the most authentic way possible without getting on a plane and visiting our beautiful Puerto Rico.</string>
 
     <!--Food Addresses-->
     <string name="la_terraza_restaurant_address">1729 E 7th Ave, Tampa, FL 33605</string>
@@ -433,11 +433,11 @@
     <string name="columbia_restaurant_address">2117 E 7th Ave, Tampa, FL 33605</string>
     <string name="green_lemon_address">915 S Howard Ave, Tampa, FL 33606</string>
     <string name="la_teresita_restaurant_address">3248 W Columbus Dr, Tampa, FL 33607</string>
-    <string name="_address11"></string>
-    <string name="_address12"></string>
-    <string name="_address13"></string>
-    <string name="_address14"></string>
-    <string name="_address15"></string>
+    <string name="ocean_prime_address">2205 N Westshore Blvd, Tampa, FL 33607</string>
+    <string name="the_capital_grille_address">2223 N Westshore Blvd, Tampa, FL 33607</string>
+    <string name="mission_bbq_address">5602 W Waters Ave, Tampa, FL 33634</string>
+    <string name="la_cabana_restaurant_address">5302 N Armenia Ave, Tampa, FL 33603</string>
+    <string name="la_fondita_de_leo_address">528 Cleveland St, Clearwater, FL 33755</string>
 
     <!--Food Phone Numbers-->
     <string name="la_terraza_restaurant_phone_number">813&#8211;248&#8211;1326</string>
@@ -445,11 +445,11 @@
     <string name="columbia_restaurant_phone_number">813&#8211;248&#8211;4961</string>
     <string name="green_lemon_phone_number">813&#8211;868&#8211;5463</string>
     <string name="la_teresita_restaurant_phone_number">813&#8211;879&#8211;9704</string>
-    <string name="_phone_number11"></string>
-    <string name="_phone_number12"></string>
-    <string name="_phone_number13"></string>
-    <string name="_phone_number14"></string>
-    <string name="_phone_number15"></string>
+    <string name="ocean_prime_phone_number">813&#8211;490&#8211;5288</string>
+    <string name="the_capital_grille_phone_number">813&#8211;830&#8211;9433</string>
+    <string name="mission_bbq_phone_number">813&#8211;999&#8211;0922</string>
+    <string name="la_cabana_restaurant_phone_number">813&#8211;936&#8211;0078</string>
+    <string name="la_fondita_de_leo_phone_number">727&#8211;447&#8211;4800</string>
 
     <!--Food Websites-->
     <string name="la_terraza_restaurant_website">http://www.laterrazzayborcity.com/</string>
@@ -457,11 +457,11 @@
     <string name="columbia_restaurant_website">http://www.columbiarestaurant.com/</string>
     <string name="green_lemon_website">http://www.eatgreenlemon.com/</string>
     <string name="la_teresita_restaurant_website">http://www.lateresitarestaurant.com/</string>
-    <string name="_website6"></string>
-    <string name="_website7"></string>
-    <string name="_website8"></string>
-    <string name="_website9"></string>
-    <string name="_website10"></string>
+    <string name="ocean_prime_website">https://www.ocean-prime.com/locations-menus/tampa</string>
+    <string name="the_capital_grille_website">https://www.thecapitalgrille.com/locations/fl/tampa/tampa/8022</string>
+    <string name="mission_bbq_website">https://mission-bbq.com/</string>
+    <string name="la_cabana_restaurant_website">https://www.lacabanatampa.com/</string>
+    <string name="la_fondita_de_leo_website">http://lafonditadeleo-online.com/</string>
 
     <!--Outdoor Category-->
     <string name="category_outdoor">Outdoor</string>
@@ -472,11 +472,11 @@
     <string name="riverwalk_name">Tampa Riverwalk</string>
     <string name="sunshine_skyway_bridge_name">Sunshine Skyway Bridge</string>
     <string name="ifly_name">iFLY</string>
-    <string name="_name16"></string>
-    <string name="_name17"></string>
-    <string name="_name18"></string>
-    <string name="_name19"></string>
-    <string name="_name20"></string>
+    <string name="al_lopez_park_name">Al Lopez Park</string>
+    <string name="sawgrass_lake_park_name">Sawgrass Lake Park</string>
+    <string name="courtney_campbell_causeway_name">Courtney Campbell Causeway</string>
+    <string name="hillsborough_river_state_park_name">Hillsborough River State Park</string>
+    <string name="weedon_island_preserve_name">Weedon Island Preserve</string>
 
     <!--Outdoor Short Descriptions-->
     <string name="clearwater_beach_short_description">Come sunset, Pier 60 hosts a nightly festival with street performers and craft vendors.</string>
@@ -484,11 +484,11 @@
     <string name="riverwalk_short_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
     <string name="sunshine_skyway_bridge_short_description">The Bob Graham Sunshine Skyway Bridge is a bridge with a cable-stayed main span and a total length of 21,877 feet.</string>
     <string name="ifly_short_description">Feel the thrill of skydiving without jumping out of an airplane. A facility powered by a state-of-the-art vertical wind tunnel.</string>
-    <string name="short_description16"></string>
-    <string name="short_description17"></string>
-    <string name="short_description18"></string>
-    <string name="short_description19"></string>
-    <string name="short_description20"></string>
+    <string name="al_lopez_park_short_description">Al López Field was a spring training and Minor League baseball park in West Tampa, Tampa, Florida.</string>
+    <string name="sawgrass_lake_park_short_description">Sawgrass Lake Park is a 333-acre park located in Pinellas County, Florida.</string>
+    <string name="courtney_campbell_causeway_short_description">The Courtney Campbell Trail provides pedestrian and bicycle access along the southern side of the Courtney Campbell Causeway.</string>
+    <string name="hillsborough_river_state_park_short_description">Hillsborough River State Park is located in the northeast corner of Hillsborough County, Florida near Zephyrhills.</string>
+    <string name="weedon_island_preserve_short_description">Weedon Island Preserve is an expansive 3,190-acre natural area located on Tampa Bay.</string>
 
     <!--Outdoor Descriptions-->
     <string name="clearwater_beach_description">Laid-back Clearwater Beach is known for its namesake stretch of soft, white sand, which draws visitors year-round for jet-skiing, parasailing, and stand-up paddleboarding in its calm waters. Cyclists and rollerbladers glide along a winding beachfront promenade lined with casual seafood restaurants and cafes. Come sunset, Pier 60 hosts a nightly festival with street performers and craft vendors.</string>
@@ -496,11 +496,11 @@
     <string name="riverwalk_description">Tampa Riverwalk is a 2.6-mile-long open space and pedestrian trail development along the Hillsborough River in Tampa, Florida.</string>
     <string name="sunshine_skyway_bridge_description">The Bob Graham Sunshine Skyway Bridge, known to locals as the Sunshine Skyway Bridge or more casually the Skyway, is a bridge spanning Tampa Bay, Florida, with a cable-stayed main span, and a total length of 21,877 feet.</string>
     <string name="ifly_description">Feel the thrill of skydiving without jumping out of an airplane. It\'s true! Head to iFLY Tampa, a premier indoor skydiving facility powered by a state-of-the-art vertical wind tunnel. After a training session, you\'ll experience free-fall conditions with the help of an instructor. No experience is necessary, and afterward, you can take home a personalized flight certificate.</string>
-    <string name="_description16"></string>
-    <string name="_description17"></string>
-    <string name="_description18"></string>
-    <string name="_description19"></string>
-    <string name="_description20"></string>
+    <string name="al_lopez_park_description">Al López Field was a spring training and Minor League baseball park in West Tampa, Tampa, Florida, United States. It was named for Al López, who was the first Tampa native to play Major League Baseball, manage an MLB team, and be enshrined in the Baseball Hall of Fame.</string>
+    <string name="sawgrass_lake_park_description">Sawgrass Lake Park is a 333-acre park located in Pinellas County, Florida. The park offers a road for biking and in-line skating, as well as birdwatching, hiking, and picnicking.</string>
+    <string name="courtney_campbell_causeway_description">The Courtney Campbell Trail provides pedestrian and bicycle access along the southern side of the Courtney Campbell Causeway, linking two communities, Tampa and Clearwater, and two counties, Hillsborough and Pinellas, in western Florida. Along the way, the trail offers spectacular views of Tampa Bay and connects Cypress Point Park, Skyway Park, and Ben T. Davis Beach.</string>
+    <string name="hillsborough_river_state_park_description">Hillsborough River State Park is located in the northeast corner of Hillsborough County, Florida near Zephyrhills. It is a popular park due to its proximity to the city of Tampa. The park consists of over 2,990 acres, and there are more than seven miles of trails that run throughout it.</string>
+    <string name="weedon_island_preserve_description">Weedon Island Preserve is an expansive 3,190-acre natural area located on Tampa Bay. This coastal system, comprised of aquatic and upland ecosystems, is home to numerous species of native plants and animals, an educational facility and a rich cultural history. Indigenous peoples occupied this site for thousands of years. Today, the preserve protects this wide diversity of natural and cultural resources for current and future generations. Weedon Island Preserve is also a well-known birding and fishing site.</string>
 
     <!--Outdoor Addresses-->
     <string name="clearwater_beach_address">332 S Gulfview Blvd, Clearwater, FL 33767</string>
@@ -508,11 +508,11 @@
     <string name="riverwalk_address">400 N. Ashley Dr, Ste.2125, Tampa FL 33602</string>
     <string name="sunshine_skyway_bridge_address">2I-275, St. Petersburg, FL 33711</string>
     <string name="ifly_address">10654 Palm River Rd, Tampa, FL 33619</string>
-    <string name="_address16"></string>
-    <string name="_address17"></string>
-    <string name="_address18"></string>
-    <string name="_address19"></string>
-    <string name="_address20"></string>
+    <string name="al_lopez_park_address">4810 N Himes Ave, Tampa, FL 33614</string>
+    <string name="sawgrass_lake_park_address">7400 25th St N, St. Petersburg, FL 33702</string>
+    <string name="courtney_campbell_causeway_address">7740 W. Courtney Campbell Causeway, Tampa</string>
+    <string name="hillsborough_river_state_park_address">15402 US-301, Thonotosassa, FL 33592</string>
+    <string name="weedon_island_preserve_address">1800 Weedon Drive NE, St. Petersburg, FL 33702</string>
 
     <!--Outdoor Phone Numbers-->
     <string name="clearwater_beach_phone_number">727&#8211;562&#8211;4825</string>
@@ -520,11 +520,11 @@
     <string name="riverwalk_phone_number">813&#8211;274&#8211;7744</string>
     <string name="sunshine_skyway_bridge_phone_number">727&#8211;865&#8211;0668</string>
     <string name="ifly_phone_number">813&#8211;773&#8211;4359</string>
-    <string name="_phone_number16"></string>
-    <string name="_phone_number17"></string>
-    <string name="_phone_number18"></string>
-    <string name="_phone_number19"></string>
-    <string name="_phone_number20"></string>
+    <string name="al_lopez_park_phone_number">813&#8211;274&#8211;8184</string>
+    <string name="sawgrass_lake_park_phone_number">727&#8211;217&#8211;7256</string>
+    <string name="courtney_campbell_causeway_phone_number">813&#8211;450&#8211;3877</string>
+    <string name="hillsborough_river_state_park_phone_number">813&#8211;987&#8211;6771</string>
+    <string name="weedon_island_preserve_phone_number">727&#8211;453&#8211;6500</string>
 
     <!--Outdoor Websites-->
     <string name="clearwater_beach_website">https://visitclearwaterflorida.com/</string>
@@ -532,10 +532,10 @@
     <string name="riverwalk_website">https://thetampariverwalk.com/</string>
     <string name="sunshine_skyway_bridge_website">http://www.skywaybridge.com/home.htm</string>
     <string name="ifly_website">https://brewbususa.com/</string>
-    <string name="_website11"></string>
-    <string name="_website12"></string>
-    <string name="_website13"></string>
-    <string name="_website14"></string>
-    <string name="_website15"></string>
+    <string name="al_lopez_park_website">https://www.tampapix.com/allopezpark1.htm</string>
+    <string name="sawgrass_lake_park_website">http://www.pinellascounty.org/park/16_Sawgrass.htm</string>
+    <string name="courtney_campbell_causeway_website">https://www.traillink.com/trail/courtney-campbell-trail/</string>
+    <string name="hillsborough_river_state_park_website">https://www.floridastateparks.org/parks-and-trails/hillsborough-river-state-park</string>
+    <string name="weedon_island_preserve_website">http://www.weedonislandpreserve.org/</string>
 
 </resources>
