@@ -32,14 +32,12 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         if (position == 0) {
             return new ArtFragment();
         } else if (position == 1) {
-            return new AttractionsFragment();
-        } else if (position == 2) {
             return new FoodFragment();
-        } else if (position == 3) {
+        } else if (position == 2) {
             return new LGBTFragment();
-        } else if (position == 4) {
+        } else if (position == 3) {
             return new NightlifeFragment();
-        } else if (position == 5) {
+        } else if (position == 4) {
             return new ShoppingFragment();
         } else {
             return new OutdoorFragment();
@@ -51,7 +49,7 @@ public class CategoryAdapter extends FragmentPagerAdapter {
      */
     @Override
     public int getCount() {
-        return 7;
+        return 6;
     }
 
     /**
@@ -62,14 +60,12 @@ public class CategoryAdapter extends FragmentPagerAdapter {
         if (position == 0) {
             return mContext.getString(R.string.category_arts);
         } else if (position == 1) {
-            return mContext.getString(R.string.category_attractions);
-        } else if (position == 2) {
             return mContext.getString(R.string.category_food);
-        } else if (position == 3) {
+        } else if (position == 2) {
             return mContext.getString(R.string.category_lgbt);
-        } else if (position == 4) {
+        } else if (position == 3) {
             return mContext.getString(R.string.category_nightlife);
-        } else if (position == 5) {
+        } else if (position == 4) {
             return mContext.getString(R.string.category_shopping);
         } else {
             return mContext.getString(R.string.category_outdoor);
